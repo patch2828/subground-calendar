@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Common Ground — SubGround Collective</title>
+<meta name="description" content="Every artist in the Valley — day one to headliner — one room. If you're afraid, come here. Express yourself.">
+<style>
+  :root{
+    --bg:#0b0a12; --panel:#15121f; --panel2:#1c1830; --ink:#f4f1fb; --muted:#a79fc4;
+    --line:#2a2440; --purple:#8b5cf6; --purple2:#a78bfa; --orange:#ff8c42; --hot:#ff5470;
+    --green:#3ddc84; --gold:#ffd15c; --cyan:#3ec6e0;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:radial-gradient(1200px 700px at 80% -10%, #241a3a 0%, var(--bg) 55%);
+    color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.5;padding:0 0 70px;min-height:100vh;position:relative;}
+
+  /* faint grain so it never reads clean-corporate */
+  body::after{content:"";position:fixed;inset:0;pointer-events:none;opacity:.05;z-index:99;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='0.9'/%3E%3C/svg%3E");}
+
+  .wrap{max-width:900px;margin:0 auto;padding:0 22px;}
+
+  /* ---------- hero ---------- */
+  header.hero{padding:52px 22px 10px;text-align:center;position:relative;overflow:hidden;}
+  .wordmarks{position:absolute;inset:0;pointer-events:none;user-select:none;overflow:hidden;}
+  .wordmarks span{position:absolute;font-weight:900;font-style:italic;letter-spacing:.1em;color:#ffffff;
+    opacity:.028;white-space:nowrap;font-size:64px;transform:rotate(-8deg);}
+  .eye{font-size:13px;letter-spacing:.34em;color:var(--purple2);text-transform:uppercase;font-weight:700;position:relative;}
+  h1{font-size:clamp(34px,7vw,62px);margin:.22em 0 .1em;font-weight:900;font-style:italic;letter-spacing:-.5px;
+    background:linear-gradient(92deg,var(--orange),var(--hot) 40%,var(--purple2) 90%);
+    -webkit-background-clip:text;background-clip:text;color:transparent;position:relative;}
+  .tag{color:var(--muted);font-size:15.5px;max-width:560px;margin:0 auto;position:relative;}
+  .heart{font-size:17px;margin:14px auto 0;max-width:560px;color:var(--ink);position:relative;}
+  .heart b{color:var(--hot);font-style:italic;letter-spacing:.04em;}
+
+  /* ---------- tabs ---------- */
+  nav.tabs{position:sticky;top:0;z-index:50;background:rgba(11,10,18,.92);backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--line);margin-top:26px;}
+  .tabs .inner{max-width:900px;margin:0 auto;display:flex;gap:6px;padding:10px 14px;overflow-x:auto;
+    -webkit-overflow-scrolling:touch;scrollbar-width:none;}
+  .tabs .inner::-webkit-scrollbar{display:none}
+  .tabbtn{flex:0 0 auto;background:none;border:1px solid transparent;color:var(--muted);cursor:pointer;
+    font:inherit;font-weight:800;font-size:12.5px;letter-spacing:.12em;text-transform:uppercase;
+    padding:9px 14px;border-radius:10px;transition:.15s;}
+  .tabbtn small{display:block;font-weight:600;letter-spacing:.02em;text-transform:none;font-size:10.5px;opacity:.75;}
+  .tabbtn:hover{color:var(--ink)}
+  .tabbtn.on{color:var(--ink);border-color:var(--line);background:linear-gradient(180deg,var(--panel),var(--panel2));}
+  .tabbtn.on{box-shadow:inset 0 -2px 0 var(--orange);}
+
+  main{padding-top:30px;}
+  section[hidden]{display:none}
+
+  /* ---------- shared bits ---------- */
+  h2.sec{font-size:15px;letter-spacing:.14em;text-transform:uppercase;color:var(--purple2);margin:34px 0 4px;font-weight:800;}
+  .rule{height:2px;border-radius:2px;background:linear-gradient(90deg,var(--purple),transparent);margin-bottom:16px;}
+  .card{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+    border-radius:15px;padding:18px 18px;margin-bottom:12px;position:relative;overflow:hidden;}
+  .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--orange);}
+  .card.green::before{background:var(--green)} .card.purple::before{background:var(--purple2)}
+  .card.hot::before{background:var(--hot)} .card.gold::before{background:var(--gold)}
+  .card.cyan::before{background:var(--cyan)}
+  .card h3{margin:0 0 6px;font-size:17px;font-weight:800;}
+  .card p{margin:0;color:var(--muted);font-size:14px;}
+  .pill{display:inline-block;font-size:10px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;
+    padding:3px 8px;border-radius:6px;vertical-align:middle;
+    background:rgba(255,140,66,.16);color:var(--orange);border:1px solid rgba(255,140,66,.35);}
+  .pill.green{background:rgba(61,220,132,.14);color:var(--green);border-color:rgba(61,220,132,.35)}
+  .pill.purple{background:rgba(139,92,246,.16);color:var(--purple2);border-color:rgba(139,92,246,.4)}
+  .pill.hot{background:rgba(255,84,112,.14);color:var(--hot);border-color:rgba(255,84,112,.4)}
+  .pill.gold{background:rgba(255,209,92,.14);color:var(--gold);border-color:rgba(255,209,92,.4)}
+  .pill.cyan{background:rgba(62,198,224,.14);color:var(--cyan);border-color:rgba(62,198,224,.4)}
+  .meta{margin-top:8px;font-size:12px;color:#8f88ad;}
+  .empty{border:1px dashed var(--line);border-radius:15px;padding:26px 20px;text-align:center;color:var(--muted);
+    font-size:14.5px;margin-bottom:12px;}
+  .empty b{color:var(--ink)}
+
+  /* forms */
+  .form{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+    border-radius:15px;padding:18px;margin-bottom:22px;}
+  .form label{display:block;font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;
+    color:var(--muted);margin:14px 0 6px;}
+  .form label:first-child{margin-top:0}
+  input[type=text],textarea,select{width:100%;background:#0e0c18;border:1px solid var(--line);border-radius:10px;
+    color:var(--ink);font:inherit;font-size:14.5px;padding:10px 12px;outline:none;}
+  input[type=text]:focus,textarea:focus,select:focus{border-color:var(--purple)}
+  textarea{resize:vertical;min-height:88px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;}
+  .chip{background:#0e0c18;border:1px solid var(--line);color:var(--muted);border-radius:999px;
+    font:inherit;font-size:12.5px;font-weight:700;padding:7px 13px;cursor:pointer;transition:.12s;}
+  .chip:hover{color:var(--ink)}
+  .chip.on{background:rgba(139,92,246,.18);border-color:var(--purple);color:var(--ink);}
+  .inline{display:flex;gap:10px;flex-wrap:wrap;align-items:center;}
+  .inline > *{flex:1 1 180px}
+  .check{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--muted);cursor:pointer;
+    flex:0 0 auto;margin-top:8px;}
+  .check input{accent-color:var(--purple);width:16px;height:16px;}
+  .btn{display:inline-block;background:linear-gradient(92deg,var(--orange),var(--hot));color:#16060b;border:none;
+    font:inherit;font-weight:900;font-style:italic;letter-spacing:.08em;text-transform:uppercase;font-size:13.5px;
+    padding:12px 22px;border-radius:11px;cursor:pointer;margin-top:16px;transition:.15s;}
+  .btn:hover{filter:brightness(1.12)}
+  .btn.ghost{background:none;border:1px solid var(--line);color:var(--ink);font-style:normal;font-weight:800;}
+  .formnote{font-size:12px;color:#8f88ad;margin-top:10px;}
+  .err{color:var(--hot);font-size:12.5px;margin-top:8px;display:none;font-weight:700;}
+
+  /* posts */
+  .post .head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:6px;}
+  .post .who{font-weight:800;font-size:14.5px;}
+  .post .when{font-size:11.5px;color:#8f88ad;}
+  .post .msg{color:var(--ink);font-size:14.5px;white-space:pre-wrap;word-wrap:break-word;margin:0;}
+  .post .actions{margin-top:10px;display:flex;gap:10px;align-items:center;}
+  .heartbtn{background:none;border:1px solid var(--line);border-radius:999px;color:var(--muted);cursor:pointer;
+    font:inherit;font-size:12.5px;font-weight:700;padding:5px 12px;transition:.12s;}
+  .heartbtn:hover{border-color:var(--hot);color:var(--hot)}
+  .del{background:none;border:none;color:#544d6e;cursor:pointer;font-size:14px;margin-left:auto;padding:2px 6px;}
+  .del:hover{color:var(--hot)}
+
+  /* circle boards */
+  .boards{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+  @media(max-width:640px){.boards{grid-template-columns:1fr}}
+  .board h4{font-size:13px;letter-spacing:.12em;text-transform:uppercase;margin:0 0 10px;font-weight:800;}
+  .board.teach h4{color:var(--gold)} .board.learn h4{color:var(--green)}
+  .match{margin-top:10px;padding:8px 10px;border-radius:9px;background:rgba(61,220,132,.08);
+    border:1px solid rgba(61,220,132,.25);font-size:12.5px;color:var(--green);}
+
+  /* fam grid */
+  .famgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;}
+  .famcard h3{font-style:italic;letter-spacing:.02em;}
+  .badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px;}
+  .about{margin-top:9px;font-size:13.5px;color:var(--muted);}
+  .link a{color:var(--purple2);font-weight:700;text-decoration:none;font-size:13px;}
+  .link a:hover{text-decoration:underline}
+
+  /* door extras */
+  .three{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin-bottom:8px;}
+  .steps{counter-reset:s;list-style:none;margin:0;padding:0;}
+  .steps li{counter-increment:s;display:flex;gap:14px;align-items:baseline;padding:10px 0;border-bottom:1px dashed var(--line);
+    color:var(--muted);font-size:14.5px;}
+  .steps li:last-child{border-bottom:none}
+  .steps li::before{content:"0" counter(s);font-weight:900;font-style:italic;color:var(--orange);font-size:17px;flex:0 0 34px;}
+  .steps b{color:var(--ink)}
+  .rules li{margin-bottom:8px;color:var(--muted);font-size:14.5px;}
+  .rules b{color:var(--ink)}
+  .doorcta{text-align:center;margin:34px 0 8px;}
+  .doorcta .big{font-size:13px;letter-spacing:.3em;text-transform:uppercase;color:var(--muted);margin-bottom:12px;}
+
+  /* residents ticker */
+  .ticker{overflow:hidden;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    padding:12px 0;margin:26px 0 6px;position:relative;}
+  .ticker .track{display:inline-flex;white-space:nowrap;animation:roll 60s linear infinite;}
+  .ticker span{font-weight:900;font-style:italic;letter-spacing:.14em;font-size:14px;color:var(--muted);
+    text-transform:uppercase;padding-right:34px;}
+  .ticker span i{color:var(--purple2);font-style:normal;padding-right:34px;}
+  @keyframes roll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+  .broadcast{text-align:center;margin:40px 0 0;font-size:12px;letter-spacing:.4em;text-transform:uppercase;
+    color:#544d6e;font-weight:700;}
+
+  footer{margin-top:50px;text-align:center;color:#6f688c;font-size:12.5px;}
+  footer .ig{color:var(--purple2);font-weight:700;}
+  footer .bar{width:150px;height:22px;margin:0 auto 14px;opacity:.35;
+    background:repeating-linear-gradient(90deg,#a79fc4 0 2px,transparent 2px 5px,#a79fc4 5px 6px,transparent 6px 11px,#a79fc4 11px 14px,transparent 14px 17px);}
+  footer .coords{letter-spacing:.2em;font-size:10.5px;margin-top:6px;}
+  footer a{color:var(--purple2);text-decoration:none;font-weight:700;}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wordmarks" aria-hidden="true">
+    <span style="top:8%;left:-4%">SUBGROUND SUBGROUND SUBGROUND</span>
+    <span style="top:44%;left:-14%">COMMON GROUND COMMON GROUND</span>
+    <span style="top:76%;left:-6%">IYKYK IYKYK IYKYK IYKYK</span>
+  </div>
+  <div class="eye">👁 SubGround Collective presents</div>
+  <h1>COMMON GROUND</h1>
+  <p class="tag">Every artist in the Valley — day one to headliner — one room. DJs, producers, VJs, painters, photographers, dancers, promoters. If you make something, you're in.</p>
+  <p class="heart">if you're afraid, come here. <b>EXPRESS YOURSELF</b> &lt;3</p>
+</header>
+
+<nav class="tabs"><div class="inner">
+  <button class="tabbtn on" data-tab="door">The Door<small>start here</small></button>
+  <button class="tabbtn" data-tab="floor">The Floor<small>express wall</small></button>
+  <button class="tabbtn" data-tab="circle">The Circle<small>learn &amp; teach</small></button>
+  <button class="tabbtn" data-tab="fam">The Fam<small>who's in the room</small></button>
+</div></nav>
+
+<main class="wrap">
+
+<!-- ==================== THE DOOR ==================== -->
+<section id="tab-door">
+
+  <h2 class="sec">What this is</h2>
+  <div class="rule"></div>
+  <div class="three">
+    <div class="card purple">
+      <h3>Everyone's in</h3>
+      <p>Bedroom producer with zero plays or headliner with a decade in — same room, same respect. There's no velvet rope here. The underground is the door being open.</p>
+    </div>
+    <div class="card gold">
+      <h3>Big teaches small</h3>
+      <p>The ones who've been at it hand it down — mixing, booking, visuals, surviving your first gig. The Circle is where that happens. The small keep the big honest.</p>
+    </div>
+    <div class="card hot">
+      <h3>Scared is the ticket in</h3>
+      <p>Never posted your art? Never played out? Never told anyone you make stuff? That feeling is exactly why this exists. Come as you are. Express yourself. &lt;3</p>
+    </div>
+  </div>
+
+  <h2 class="sec">How it works</h2>
+  <div class="rule"></div>
+  <div class="card">
+    <ol class="steps">
+      <li><span><b>Walk in.</b> Add yourself to The Fam — name, what you make, where you're at. Every level counts as a level.</span></li>
+      <li><span><b>Say something.</b> Drop your first post on The Floor — a track, a sketch, a question, a win, or just how it's going. Anonymous is allowed.</span></li>
+      <li><span><b>Link up.</b> Hit The Circle to learn from the vets or pass down what you know. That's how a scene gets built.</span></li>
+    </ol>
+  </div>
+
+  <h2 class="sec">House rules</h2>
+  <div class="rule"></div>
+  <div class="card green">
+    <ul class="rules">
+      <li><b>Hype over hate.</b> Critique when it's asked for, love always.</li>
+      <li><b>Every level belongs.</b> "Beginner" is a stage, not a rank.</li>
+      <li><b>No gatekeeping.</b> Share the plug, the technique, the stage.</li>
+      <li><b>What's shared here stays supported.</b> Someone opening up is trust — treat it that way.</li>
+      <li><b>Family first.</b> We build the underground together or not at all.</li>
+    </ul>
+  </div>
+
+  <div class="ticker" aria-label="SubGround resident artists">
+    <div class="track" id="ticker-track"></div>
+  </div>
+  <p style="text-align:center;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#8f88ad;margin-top:2px;">residents · subground collective</p>
+
+  <div class="doorcta">
+    <div class="big">ready?</div>
+    <button class="btn" id="cta-join">Step in → join the fam</button>
+    <div style="margin-top:12px"><a class="btn ghost" href="index.html" style="text-decoration:none">📅 Upcoming shows</a></div>
+  </div>
+
+  <div class="broadcast">are you receiving this?</div>
+</section>
+
+<!-- ==================== THE FLOOR ==================== -->
+<section id="tab-floor" hidden>
+  <h2 class="sec">The Floor — say it out loud</h2>
+  <div class="rule"></div>
+
+  <div class="form" id="floor-form">
+    <label>What kind of drop is this?</label>
+    <div class="chips" id="post-types">
+      <button class="chip on" data-type="first">🌱 first post</button>
+      <button class="chip" data-type="track">🎧 track / mix</button>
+      <button class="chip" data-type="art">🎨 art / visual</button>
+      <button class="chip" data-type="question">❓ question</button>
+      <button class="chip" data-type="win">🏆 win</button>
+      <button class="chip" data-type="real">💭 keeping it real</button>
+    </div>
+    <label for="post-msg">Say it</label>
+    <textarea id="post-msg" maxlength="600" placeholder="first track, first sketch, first time telling anyone you make stuff... put it on the floor. links welcome."></textarea>
+    <div class="inline">
+      <div>
+        <label for="post-name">Name / artist name</label>
+        <input type="text" id="post-name" maxlength="40" placeholder="who's talking?">
+      </div>
+      <label class="check"><input type="checkbox" id="post-anon"> post anonymous — that's allowed here</label>
+    </div>
+    <div class="err" id="post-err">say something first — even one word counts.</div>
+    <button class="btn" id="post-go">Put it on the floor</button>
+    <div class="formnote">Right now posts live in <b>your</b> browser — the shared feed is coming. Screenshot your drop and tag <b>@subground.collective</b> to put it on the map.</div>
+  </div>
+
+  <div id="floor-feed"></div>
+</section>
+
+<!-- ==================== THE CIRCLE ==================== -->
+<section id="tab-circle" hidden>
+  <h2 class="sec">The Circle — big teaches small</h2>
+  <div class="rule"></div>
+  <p style="color:var(--muted);font-size:14.5px;margin:0 0 18px;">Been at it a while? Put up what you can pass down. Just starting? Ask for what you need. When an ask matches an offer, we flag the link-up.</p>
+
+  <div class="form" id="circle-form">
+    <label>Which side are you on today?</label>
+    <div class="chips" id="circle-mode">
+      <button class="chip on" data-mode="teach">🤝 I can teach</button>
+      <button class="chip" data-mode="learn">🌱 I want to learn</button>
+    </div>
+    <div class="inline">
+      <div>
+        <label for="circle-craft">The craft</label>
+        <select id="circle-craft"></select>
+      </div>
+      <div>
+        <label for="circle-name">Your name / artist name</label>
+        <input type="text" id="circle-name" maxlength="40" placeholder="who are you?">
+      </div>
+    </div>
+    <label for="circle-note">Details</label>
+    <input type="text" id="circle-note" maxlength="140" placeholder="e.g. can walk you through your first DJ set / want help finishing tracks">
+    <label for="circle-contact">How to reach you (IG handle etc.)</label>
+    <input type="text" id="circle-contact" maxlength="60" placeholder="@yourhandle">
+    <div class="err" id="circle-err">need at least your name so people know who to link with.</div>
+    <button class="btn" id="circle-go">Post it in the circle</button>
+  </div>
+
+  <div class="boards">
+    <div class="board teach">
+      <h4>🤝 Can teach</h4>
+      <div id="teach-list"></div>
+    </div>
+    <div class="board learn">
+      <h4>🌱 Wants to learn</h4>
+      <div id="learn-list"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ==================== THE FAM ==================== -->
+<section id="tab-fam" hidden>
+  <h2 class="sec">The Fam — who's in the room</h2>
+  <div class="rule"></div>
+
+  <div class="form" id="fam-form">
+    <div class="inline">
+      <div>
+        <label for="fam-name">Artist / creative name</label>
+        <input type="text" id="fam-name" maxlength="40" placeholder="what do we call you?">
+      </div>
+      <div>
+        <label for="fam-stage">Where you're at</label>
+        <select id="fam-stage">
+          <option value="day one">🌱 Day one — just starting</option>
+          <option value="in the lab">🔬 In the lab — building</option>
+          <option value="playing out">🔊 Playing out — gigging</option>
+          <option value="veteran">👁 Veteran — been here</option>
+        </select>
+      </div>
+    </div>
+    <label>What you make (tap all that apply)</label>
+    <div class="chips" id="fam-crafts"></div>
+    <label for="fam-about">One line about you</label>
+    <input type="text" id="fam-about" maxlength="120" placeholder="what you're about, what you're chasing">
+    <label for="fam-link">IG / SoundCloud / link (optional)</label>
+    <input type="text" id="fam-link" maxlength="120" placeholder="@handle or a link">
+    <div class="inline">
+      <label class="check"><input type="checkbox" id="fam-teach"> 🤝 open to teaching</label>
+      <label class="check"><input type="checkbox" id="fam-learn"> 🌱 looking for a mentor</label>
+    </div>
+    <div class="err" id="fam-err">need a name and at least one craft to walk in.</div>
+    <button class="btn" id="fam-go">Walk in</button>
+  </div>
+
+  <div class="meta" id="fam-count" style="margin-bottom:12px"></div>
+  <div class="famgrid" id="fam-grid"></div>
+  <div id="fam-empty"></div>
+</section>
+
+</main>
+
+<footer>
+  <div class="bar" aria-hidden="true"></div>
+  SubGround Collective · Phoenix · bass, underground &amp; frontline electronic — and every artist around it<br>
+  follow <span class="ig">@subground.collective</span> · <a href="https://subgroundcollective.com">SUBGROUNDCOLLECTIVE.COM</a> · <a href="index.html">upcoming shows</a><br>
+  <div class="coords">PHX · 33.4°N 112.0°W · WE BUILD THE UNDERGROUND</div>
+</footer>
+
+<script>
+(function(){
+  "use strict";
+
+  /* ---------- data ---------- */
+  var CRAFTS = ["DJing","Production","Live visuals / VJ","Sound & stage tech","Photo / video",
+                "Visual art","Dance / flow","MC / vocals","Promotion & booking","Merch & design"];
+  var RESIDENTS = ["FOOL MOON","EXGF5","MIND G4ME","ALLIE RADD","YEWZ","KING SPACE","VELOCES",
+                   "SP3LLKVSTR","PSYTORI","THE ALCHEMIST","CONKUSST","SPAYDZ","USB","FAIRYDUST",
+                   "CHIRENJI","WAKE UP","F33LZ","PRADA G","DIGITS","BANDAID"];
+  var TYPE_META = {
+    first:{label:"first post",cls:"green"}, track:{label:"track / mix",cls:"purple"},
+    art:{label:"art / visual",cls:"cyan"}, question:{label:"question",cls:"gold"},
+    win:{label:"win",cls:""}, real:{label:"keeping it real",cls:"hot"}
+  };
+  var KEYS = {posts:"sgcg_posts_v1", circle:"sgcg_circle_v1", fam:"sgcg_fam_v1"};
+
+  function load(k){ try{ return JSON.parse(localStorage.getItem(k))||[]; }catch(e){ return []; } }
+  function save(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} }
+  function uid(){ return Date.now().toString(36)+Math.random().toString(36).slice(2,7); }
+  function el(tag,cls,text){ var n=document.createElement(tag); if(cls)n.className=cls; if(text!=null)n.textContent=text; return n; }
+  function ago(t){
+    var s=Math.floor((Date.now()-t)/1000);
+    if(s<60) return "just now";
+    if(s<3600) return Math.floor(s/60)+"m ago";
+    if(s<86400) return Math.floor(s/3600)+"h ago";
+    if(s<604800) return Math.floor(s/86400)+"d ago";
+    return new Date(t).toLocaleDateString();
+  }
+
+  var posts=load(KEYS.posts), circle=load(KEYS.circle), fam=load(KEYS.fam);
+
+  /* ---------- tabs ---------- */
+  var tabs=document.querySelectorAll(".tabbtn");
+  function show(name){
+    tabs.forEach(function(b){ b.classList.toggle("on", b.dataset.tab===name); });
+    ["door","floor","circle","fam"].forEach(function(t){
+      document.getElementById("tab-"+t).hidden = (t!==name);
+    });
+    window.scrollTo({top:0});
+  }
+  tabs.forEach(function(b){ b.addEventListener("click",function(){ show(b.dataset.tab); }); });
+  document.getElementById("cta-join").addEventListener("click",function(){ show("fam"); });
+
+  /* ---------- residents ticker ---------- */
+  var track=document.getElementById("ticker-track");
+  [0,1].forEach(function(){                       // doubled so the loop is seamless
+    RESIDENTS.forEach(function(name){
+      var s=el("span",null,name); var dot=el("i",null,"·"); s.appendChild(dot); track.appendChild(s);
+    });
+  });
+
+  /* ---------- chip groups ---------- */
+  function singleSelect(containerId){
+    var box=document.getElementById(containerId);
+    box.addEventListener("click",function(e){
+      var c=e.target.closest(".chip"); if(!c) return;
+      box.querySelectorAll(".chip").forEach(function(x){ x.classList.remove("on"); });
+      c.classList.add("on");
+    });
+    return function(){ var on=box.querySelector(".chip.on"); return on?on.dataset:{}; };
+  }
+  var getPostType=singleSelect("post-types");
+  var getCircleMode=singleSelect("circle-mode");
+
+  /* ---------- THE FLOOR ---------- */
+  var feed=document.getElementById("floor-feed");
+  var anonBox=document.getElementById("post-anon"), nameIn=document.getElementById("post-name");
+  anonBox.addEventListener("change",function(){ nameIn.disabled=anonBox.checked; if(anonBox.checked)nameIn.value=""; });
+
+  function renderFloor(){
+    feed.innerHTML="";
+    if(!posts.length){
+      var em=el("div","empty");
+      em.appendChild(el("b",null,"The floor is open."));
+      em.appendChild(document.createTextNode(" Nobody in this browser has said anything yet — be the first. Scary? Good. That's the point. <3"));
+      feed.appendChild(em); return;
+    }
+    posts.forEach(function(p){
+      var meta=TYPE_META[p.type]||TYPE_META.real;
+      var c=el("div","card post "+(meta.cls||""));
+      var head=el("div","head");
+      head.appendChild(el("span","who", p.anon ? "Anonymous 👁" : p.name));
+      var pill=el("span","pill "+(meta.cls||""),meta.label); head.appendChild(pill);
+      head.appendChild(el("span","when",ago(p.t)));
+      c.appendChild(head);
+      c.appendChild(el("p","msg",p.msg));
+      var act=el("div","actions");
+      var hb=el("button","heartbtn","❤ "+(p.hearts||0));
+      hb.addEventListener("click",function(){ p.hearts=(p.hearts||0)+1; save(KEYS.posts,posts); hb.textContent="❤ "+p.hearts; });
+      act.appendChild(hb);
+      var del=el("button","del","×"); del.title="remove (this browser only)";
+      del.addEventListener("click",function(){
+        if(!confirm("Take this off the floor?")) return;
+        posts=posts.filter(function(x){return x.id!==p.id;}); save(KEYS.posts,posts); renderFloor();
+      });
+      act.appendChild(del);
+      c.appendChild(act);
+      feed.appendChild(c);
+    });
+  }
+
+  document.getElementById("post-go").addEventListener("click",function(){
+    var msg=document.getElementById("post-msg").value.trim();
+    var err=document.getElementById("post-err");
+    if(!msg){ err.style.display="block"; return; }
+    err.style.display="none";
+    var anon=anonBox.checked;
+    var name=nameIn.value.trim();
+    posts.unshift({id:uid(), type:(getPostType().type||"real"), msg:msg,
+                   name:(!anon&&name)?name:"Somebody in the Valley", anon:anon, t:Date.now(), hearts:0});
+    save(KEYS.posts,posts);
+    document.getElementById("post-msg").value="";
+    renderFloor();
+  });
+
+  /* ---------- THE CIRCLE ---------- */
+  function craftOptions(sel){
+    CRAFTS.forEach(function(cr){ var o=el("option",null,cr); o.value=cr; sel.appendChild(o); });
+  }
+  craftOptions(document.getElementById("circle-craft"));
+
+  function renderCircle(){
+    var tl=document.getElementById("teach-list"), ll=document.getElementById("learn-list");
+    tl.innerHTML=""; ll.innerHTML="";
+    var teachers=circle.filter(function(x){return x.mode==="teach";});
+    var learners=circle.filter(function(x){return x.mode==="learn";});
+    if(!teachers.length){
+      var e1=el("div","empty"); e1.appendChild(el("b",null,"No offers yet."));
+      e1.appendChild(document.createTextNode(" Vets — this is where you hand it down."));
+      tl.appendChild(e1);
+    }
+    if(!learners.length){
+      var e2=el("div","empty"); e2.appendChild(el("b",null,"No asks yet."));
+      e2.appendChild(document.createTextNode(" Asking is the move, not the weakness."));
+      ll.appendChild(e2);
+    }
+    function cardFor(x, isTeach){
+      var c=el("div","card "+(isTeach?"gold":"green"));
+      var head=el("div","head");
+      var h=el("h3",null,x.name); c.appendChild(h);
+      c.appendChild(el("span","pill "+(isTeach?"gold":"green"),x.craft));
+      if(x.note) c.appendChild(el("p",null,x.note));
+      if(x.contact){ var m=el("div","meta","reach: "+x.contact); c.appendChild(m); }
+      c.appendChild(el("div","meta",ago(x.t)));
+      if(!isTeach){
+        var m2=circle.filter(function(y){return y.mode==="teach" && y.craft===x.craft;});
+        if(m2.length){
+          var names=m2.map(function(y){return y.name;}).join(", ");
+          c.appendChild(el("div","match","🔗 link up — "+names+" can teach this"));
+        }
+      }
+      var del=el("button","del","×"); del.title="remove (this browser only)";
+      del.style.position="absolute"; del.style.top="8px"; del.style.right="8px";
+      del.addEventListener("click",function(){
+        if(!confirm("Remove from the circle?")) return;
+        circle=circle.filter(function(y){return y.id!==x.id;}); save(KEYS.circle,circle); renderCircle();
+      });
+      c.appendChild(del);
+      return c;
+    }
+    teachers.forEach(function(x){ tl.appendChild(cardFor(x,true)); });
+    learners.forEach(function(x){ ll.appendChild(cardFor(x,false)); });
+  }
+
+  document.getElementById("circle-go").addEventListener("click",function(){
+    var name=document.getElementById("circle-name").value.trim();
+    var err=document.getElementById("circle-err");
+    if(!name){ err.style.display="block"; return; }
+    err.style.display="none";
+    circle.unshift({id:uid(), mode:(getCircleMode().mode||"teach"),
+      craft:document.getElementById("circle-craft").value, name:name,
+      note:document.getElementById("circle-note").value.trim(),
+      contact:document.getElementById("circle-contact").value.trim(), t:Date.now()});
+    save(KEYS.circle,circle);
+    document.getElementById("circle-note").value=""; document.getElementById("circle-name").value="";
+    document.getElementById("circle-contact").value="";
+    renderCircle();
+  });
+
+  /* ---------- THE FAM ---------- */
+  var famCraftBox=document.getElementById("fam-crafts");
+  CRAFTS.forEach(function(cr){
+    var b=el("button","chip",cr); b.type="button"; b.dataset.craft=cr;
+    b.addEventListener("click",function(){ b.classList.toggle("on"); });
+    famCraftBox.appendChild(b);
+  });
+
+  var STAGE_META={"day one":"green","in the lab":"cyan","playing out":"purple","veteran":"gold"};
+
+  function renderFam(){
+    var grid=document.getElementById("fam-grid"), emptyBox=document.getElementById("fam-empty");
+    grid.innerHTML=""; emptyBox.innerHTML="";
+    document.getElementById("fam-count").textContent =
+      fam.length ? fam.length+" in the room (this browser)" : "";
+    if(!fam.length){
+      var em=el("div","empty");
+      em.appendChild(el("b",null,"The room's waiting on you."));
+      em.appendChild(document.createTextNode(" Nobody has walked in from this browser yet. Day one counts — that's the whole point."));
+      emptyBox.appendChild(em); return;
+    }
+    fam.forEach(function(a){
+      var c=el("div","card famcard "+(STAGE_META[a.stage]||""));
+      c.appendChild(el("h3",null,a.name));
+      var b=el("div","badges");
+      b.appendChild(el("span","pill "+(STAGE_META[a.stage]||""),a.stage));
+      a.crafts.forEach(function(cr){ b.appendChild(el("span","pill purple",cr)); });
+      if(a.teach) b.appendChild(el("span","pill gold","🤝 will teach"));
+      if(a.learn) b.appendChild(el("span","pill green","🌱 wants a mentor"));
+      c.appendChild(b);
+      if(a.about) c.appendChild(el("p","about",a.about));
+      if(a.link){
+        var lk=el("div","link meta");
+        var raw=a.link.trim();
+        if(/^https?:\/\//i.test(raw)){
+          var an=el("a",null,raw); an.href=raw; an.rel="noopener nofollow"; an.target="_blank"; lk.appendChild(an);
+        } else lk.textContent=raw;
+        c.appendChild(lk);
+      }
+      var del=el("button","del","×"); del.title="leave the room (this browser only)";
+      del.style.position="absolute"; del.style.top="8px"; del.style.right="8px";
+      del.addEventListener("click",function(){
+        if(!confirm("Step out of the room?")) return;
+        fam=fam.filter(function(y){return y.id!==a.id;}); save(KEYS.fam,fam); renderFam();
+      });
+      c.appendChild(del);
+      grid.appendChild(c);
+    });
+  }
+
+  document.getElementById("fam-go").addEventListener("click",function(){
+    var name=document.getElementById("fam-name").value.trim();
+    var crafts=[].slice.call(famCraftBox.querySelectorAll(".chip.on")).map(function(x){return x.dataset.craft;});
+    var err=document.getElementById("fam-err");
+    if(!name||!crafts.length){ err.style.display="block"; return; }
+    err.style.display="none";
+    fam.unshift({id:uid(), name:name, crafts:crafts,
+      stage:document.getElementById("fam-stage").value,
+      teach:document.getElementById("fam-teach").checked,
+      learn:document.getElementById("fam-learn").checked,
+      about:document.getElementById("fam-about").value.trim(),
+      link:document.getElementById("fam-link").value.trim(), t:Date.now()});
+    save(KEYS.fam,fam);
+    document.getElementById("fam-name").value=""; document.getElementById("fam-about").value="";
+    document.getElementById("fam-link").value="";
+    famCraftBox.querySelectorAll(".chip.on").forEach(function(x){x.classList.remove("on");});
+    document.getElementById("fam-teach").checked=false; document.getElementById("fam-learn").checked=false;
+    renderFam();
+  });
+
+  renderFloor(); renderCircle(); renderFam();
+})();
+</script>
+</body>
+</html>
