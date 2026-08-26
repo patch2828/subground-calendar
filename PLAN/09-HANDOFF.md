@@ -125,3 +125,25 @@ Repo `patch2828/subground-calendar`, branch `claude/6-month-show-production-m2kb
 **7. One pre-flight rule, because it cost thousands of clicks.** Gold Rush sat at 5,482 views and 2 sales because a broken file in Shotgun's video-trailer slot renders instead of the cover image — every visitor saw a black rectangle. Load every ticket page as a buyer and confirm the hero renders before spending a dollar on promo.
 
 Now regenerate THE CHAIN prompt with all of this folded in, keeping your build-to-the-signature-line structure, your coordination fences, and your Halloween permit clock. Make Day 1 item #1 the Corson formal offer, not an interest email.
+
+---
+
+## ADD-ON: two things the new session must walk Ryan through
+
+Append this to THE CHAIN prompt, and/or send it as the first message once the session is live.
+
+### For the prompt (permanent)
+
+> **WALK-THROUGH DUTY.** Two things need Ryan's hands, and your job is to walk him through them step by step, one step per message, waiting for him to confirm each before giving the next. Never dump all the steps at once and never assume a step happened.
+>
+> **(a) The Gallium $625.** It failed twice on 8/26 (Melio `pymnt_90515894`, invoice #10786, AB Touring). It is staged against Desert Financial ••0400 but the account is negative, and **standard ACH delivers Aug 31 — after the Fri Aug 28 contract deadline.** Funding it does not fix the timing. Draft and send the note to **Andrew Lehr, andrew@abtouring.com, (814) 602-5613** saying the deposit is staged and asking whether a short delay still lands inside their window. He prefers the phone and goes dark on email, so if there is no reply inside 24 hours the next rung is a call, not a fourth email. **Never move the money — Ryan presses every payment button.**
+>
+> **(b) Connector authorization.** Canva and the Instagram Automation connector both need authorizing before anything can use them. **You cannot do this from inside a session** — it is done by Ryan in his claude.ai connector settings (claude.ai → Settings → Connectors). Walk him there one step at a time, confirm each connector shows connected before moving on, and then confirm from your side that the tools actually respond. If a tool still fails after he says it is connected, say so plainly rather than assuming.
+
+### For the first message (if you would rather just paste it live)
+
+> Before the six-month build, walk me through two things one step at a time, waiting for me after each step.
+>
+> First, the Gallium deposit. Read the AB Touring thread, then draft the note to Andrew Lehr saying the $625 is staged and asking whether a short delay still lands inside their window — the deadline is Friday Aug 28 and standard ACH does not arrive until Aug 31, so the timing is the problem, not just the funding. Show me the draft before it goes.
+>
+> Second, walk me through authorizing Canva and the Instagram Automation connector in my claude.ai connector settings. One step at a time. After I say each one is connected, verify from your side that the tools actually respond before moving on.
