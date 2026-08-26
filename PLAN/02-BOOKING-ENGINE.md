@@ -207,7 +207,7 @@ The tier names are an **ESTIMATE — Claude's tier naming**, extended from the o
 |---|---|---|---|---|
 | **FRESHMAN** | **$0** | The 22 roster artists. Paid in the §1.2 stack. | Standing SubGround structure | **0** |
 | **SOPHOMORE** | **~$1,000 flat** | **COMBINE**, **NORTHERN ROAD** | **Corson Agency's own written ask, "we are asking for $1,000 each + HGR"** — Ryan accepted it. Market-set, not self-set. HGR = hotel, ground, rider, on the purchaser. | **57** (1,000 ÷ 17.78 = 56.2) |
-| **JUNIOR** | **$1,250 to $2,000** | **GALLIUM $1,250** (signed, contract #10786) · **PIERCE $2,000** (quoted, never closed) | Andrew Lehr quote 8/4; AB Touring contract #10786 | **71** at $1,250 (70.3) · **113** at $2,000 (112.5) |
+| **JUNIOR** | **$1,250 to $2,000** | **GALLIUM $1,250** (signed, contract #10786) · **PIERCE $2,000** (quoted, never closed) | AB Touring contract #10786 for the GALLIUM $1,250; Andrew Lehr's 8/4 quote for the PIERCE $2,000. **Note the 8/4 quote on GALLIUM was $1,500 — he signed $250 below it.** | **71** at $1,250 (70.3) · **113** at $2,000 (112.5) |
 | **SENIOR** | **$2,500+** | **OZZTIN $2,500** (quoted 8/4, fell out for Dancefestopia Thursday) | Andrew Lehr quote 8/4 | **141** (140.6) |
 
 ### 3.2 What each tier costs beyond the fee
@@ -263,7 +263,7 @@ The fee is never the cost. GALLIUM is the only fully documented deal and it sets
 **Open item GALLIUM's team owes:** a repost and collab-tag acceptance on `@ggalliumm` for post `DcSSydQFPmW`. **That is a reach blocker, not an art-approval blocker.** Do not let it hold up anything else.
 **Status of the ask:** three emails, no reply. See §7. **The next rung is the phone.**
 
-### 4.2 COMBINE × NORTHERN ROAD — date locked, venue is the blocker
+### 4.2 COMBINE × NORTHERN ROAD — date locked, the OVERDUE OFFER is the blocker
 
 | Field | State |
 |---|---|
@@ -717,7 +717,7 @@ The standard ladder does not apply. There is no headliner and no ticket. The lad
 | T-4 | Sun Dec 27 | Sun — **request early payout Wed Dec 23** to clear business days through the holiday |
 | T-0 | **Thu Dec 31** | Thu |
 
-**Venue action now:** Walter Productions is out for 11/6 but **the December / NYE reply is already drafted and waiting on Ryan's send.** Sending it costs nothing and Walter's full-service model, where they run ticketing, box office and security, removes three vendor problems from the hardest night of the year. **Send it.** Accent **CHROME / platinum**. Dec 31 is a **Thursday** with **Friday Jan 1 a holiday**, so people stay out.
+**Venue action now:** Walter Productions is out for 11/6 but **the December / NYE reply is already drafted and waiting on Ryan's send.** Note their 8/23 thread (`1a02c911ccd0e0f2`, ryan@walterproductions.com) is **still sitting UNREAD** — read it before sending. Sending it costs nothing and Walter's full-service model, where they run ticketing, box office and security, removes three vendor problems from the hardest night of the year. **Send it.** Accent **CHROME / platinum**. Dec 31 is a **Thursday** with **Friday Jan 1 a holiday**, so people stay out.
 
 #### 07 — JANUARY HEADLINE · **Sat Jan 23 2027** · T-150
 
@@ -791,9 +791,11 @@ A ticketed outdoor takeover of a nine-screen drive-in almost certainly needs a *
 
 **So Sept 10 has to carry five obligations, not one:** the Icehouse room, two artist deposits and two venue deposits, all inside 15 days of the show.
 
+**The release valve is already in hand: DALLAS IS DATE-FLEXIBLE.** `FACTS.md` §8, verified live 8/26: "I am more than happy to look at any other weekend that is open. **We don't have to route this with anything.**" **Moving Combine off 11/6 decouples the two deposit windows** and stops Halloween and Combine drawing on the same Sept 10 pot in the same fortnight. Constraints: he is **unavailable 9/18, 10/2, 10/10 and 11/7**, and **10/3 is scratched because SPACE LACES is in market.** Walter Productions is also date-flexible-adjacent here — they are booked solid on 11/6 but asked "Are you date flexible?", so a Walter room on another weekend is a live unanswered option. **This is a lever, not a default: 11/6 is locked by both sides in writing and only moves if the money says it has to.**
+
 **What is known about the size of that pot:** Sept 10 modeled at full sellout is **~$23,409 revenue**, **~$9,779 realistic costs**, **~$13,630 net**, with **breakeven at 575 tickets, 44% of the 1,300 capacity.** Those are the 8/25 model numbers, and Law 3 says budget to break even on tickets alone at 70% sold.
 
-**What is not known:** the Fillmore Friday rate, the Fillmore Saturday rate, and therefore both venue deposits. **Two of the five obligations cannot be sized.** That is the single most valuable unknown in this document and it is one message to Synesthesia away from being solved.
+**What is not known:** the Fillmore Friday rate, the Fillmore Saturday rate, and therefore both venue deposits. **Two of the five obligations cannot be sized.** **This is where the Fillmore Friday rate actually belongs — it is a venue-deposit sizing unknown, not a reason the Combine artist offer has not gone out** (that offer is five days overdue and sits as a Gmail draft, §4.2). It is the single most valuable unknown in this document and it is one message to Synesthesia away from being solved.
 
 **The operating consequence:** Ryan does not commit to Halloween talent or Combine talent until he has (a) the Sept 10 result and (b) the Fillmore numbers. Until then, **Halloween is a roster show that can be upgraded**, not a bought show that might be downgraded. Building it that way costs nothing and cannot fail.
 
@@ -803,21 +805,22 @@ A ticketed outdoor takeover of a nine-screen drive-in almost certainly needs a *
 
 | # | Gap | Why it costs money | Who closes it |
 |---|---|---|---|
-| 1 | **Fillmore FRIDAY rate unknown**, asked 8/24 | Blocks the entire Combine offer, which is drafted and ready | Synesthesia. **Ryan chases.** |
-| 2 | **Fillmore SATURDAY / Oct 31 rate never asked** | Blocks the highest-value date of the window | Synesthesia. **Ryan asks. Same message as gap 1.** |
-| 3 | **Glendale 9 Drive-In has no contact logged** | Blocks the $100K hinge show and any permit runway behind it | **Ryan.** Start the week of Sept 14. |
+| 1 | **The Combine formal offer is FIVE DAYS OVERDUE and unsent** | Ryan promised it "within 48 hours" on 8/21 21:10. Dallas has chased twice, **8/24 18:51 and 8/26 19:03.** The text is already written as Gmail draft `r-4007247225354787196`, and **it must name the cap size** because Dallas asked. This is a live relationship cost on a date that is already locked | **Ryan clicks Send.** |
+| 2 | **Fillmore FRIDAY rate unknown** (asked 8/24) and **SATURDAY / Oct 31 rate never asked** | Sizes both venue deposits in §8.3, and Saturday blocks the highest-value date of the window. **Neither gates the Combine artist offer** | Synesthesia. **Ryan chases Friday and asks Saturday in one message.** |
+| 3 | **Drive-In terms unconfirmed: capacity in CARS, per-car vs per-person ticketing, rental price, and sell-tickets vs buy-the-room** | The contact is no longer missing (**623-939-9715** · **westwinddi.com/events/host-your-event**, found 8/26). What is missing is the four answers, and **the Drive-In P&L cannot be trusted without them.** Capacity is unknown and a drive-in counts CARS; the model's 2,500 people is an assumption. Published floor is a **50 car minimum** | **Ryan calls 623-939-9715**, leading with the Subtronics precedent. Start the week of Sept 14. |
 | 4 | **Alchemist's Enclave has no contact logged** | It is the named fallback for two shows and cannot actually be called | **Ryan.** |
 | 5 | **Andrew Lehr: 3 emails, 0 replies** | Countersigned contract, rider, advance sheet and PHX routing all outstanding | **Ryan calls (814) 602-5613.** Rung 4. |
 | 6 | **Josh (Auxlee, Funky Forest) has no contact logged** | Blocks Prescott entirely | **Ryan.** |
-| 7 | **Ryan Tucknott's email is not logged** | The December / NYE reply is drafted and cannot be sent from this file | **Ryan.** The 8/22 thread is in his inbox. |
-| 8 | **Walter December / NYE reply is drafted and unsent** | Costs nothing to send. Walter's full-service model solves ticketing, box office and security on NYE in one deal | **Ryan sends.** |
+| 7 | **Walter December / NYE reply is drafted and unsent, and the 8/23 Walter thread is still UNREAD** | Costs nothing to send. Walter's full-service model solves ticketing, box office and security on NYE in one deal. The address is known: **ryan@walterproductions.com**, thread `1a02c911ccd0e0f2` | **Ryan reads the thread and sends.** |
+| 8 | **Walter Productions contact's full name is unknown** | `FACTS.md` carries the address only. Do not put a surname on an email that has not been confirmed | **Ryan supplies the name.** Never invent one. |
 | 9 | **9 of 22 roster artists have no verified IG handle** | Untagged artists do not repost. Reposts are the only free distribution SubGround has | **Ryan.** ~20 minutes. |
 | 10 | **Promo-code cut per ticket is not set** | It is in the pitch as a promise with no number behind it. All 12 live codes sit at 0 redemptions | **Ryan sets the number.** Use the $4.45 per-GA-ticket discount cost in §1.3 as the floor. |
 | 11 | **The 450 attended vs 142 tickets sold gap at SIGNAL 001 is unexplained** | It decides whether the roster's proven draw is a ticket number or an attendance number, which changes every model in this plan | **Ryan reconstructs.** |
-| 12 | **Website still says "20+ artists"** | The roster is 22 and the number is a proof point in every pitch | **Ryan.** |
-| 13 | **Ben Bethel's SGC risk doc has never been opened** | It may carry venue and liability terms that change vendor spend | **Ryan.** Before deposits lock. |
-| 14 | **Light House kava bar has no venue contact** | Blocks the whole recurring Thursday layer, which feeds the SMS list | **Ryan.** |
-| 15 | **Melio free trial expires ~9/24/26** | That lands inside the Halloween and Combine deposit window. Losing the card-to-ACH rail mid-deposit is a hard stop | **Ryan decides** keep or cancel before 9/24. |
+| 12 | **SIGNAL 001's talent budget is not recorded in `FACTS.md`** | The roster-floor argument in §2.2 and §3.3 leans on SIGNAL 001 being a cheap or unpaid bill, and **nothing in the fact base says what the 21 artists were paid.** Both this and gap 11 have to land before the roster floor is evidence rather than a hypothesis | **Ryan confirms** what SIGNAL 001's 21 artists cost. |
+| 13 | **Website still says "20+ artists"** | The roster is 22 and the number is a proof point in every pitch | **Ryan.** |
+| 14 | **Ben Bethel's SGC risk doc has never been opened** | It may carry venue and liability terms that change vendor spend | **Ryan.** Before deposits lock. |
+| 15 | **Light House kava bar has no venue contact** | Blocks the whole recurring Thursday layer, which feeds the SMS list | **Ryan.** |
+| 16 | **Melio free trial expires ~9/24/26** | That lands inside the Halloween and Combine deposit window. Losing the card-to-ACH rail mid-deposit is a hard stop | **Ryan decides** keep or cancel before 9/24. |
 
 ---
 
