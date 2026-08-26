@@ -34,6 +34,13 @@
 FOOL MOON · EXGF5 · MIND G4ME · ALLIE RADD · YEWZ · KING SPACE · VELOCES · SP3LLKVSTR · PSYTORI · THE ALCHEMIST · CONKUSST · SPAYDZ · USB · FAIRYDUST (Srija, styles herself **FɅIRYDVST**) · CHIRENJI · WAKE UP · F33LZ · PRADA G · DIGITS · BANDAID · ONSUMMON · ANAMORPHIC
 
 - **NEVER add SPECKZ.** Standing, permanent.
+- **THE TIER FRAMEWORK IS REAL AND SOURCED.** From Drive doc `30-ON-THE-ROCKS-ROSTER-v2` (id `182RPN722FJwhZkWArKhVF9ZkQ1etYwvo4UE16z6Swqk`, Ryan 8/25; his name for the list is **"30 - On The Rocks"**, never "The Thirty"). Target split of 30, uneven on purpose: **Freshman 12 · Sophomore 8 · Junior 6 · Senior 4.** Named so far:
+  - **FRESHMAN** (his team, the locals he is bringing up): FOOL MOON · F333LZ · ANAMORPHIC · ONSUMMON · SHMUCKZ (POTENTIAL, not confirmed)
+  - **SOPHOMORE** (slight-blowing, real momentum): MIND G4ME · OZZTIN · MFINITY
+  - **JUNIOR** (national touring, on the recent rise): KNOW GOOD · WHETHAN · DISTINCT MOTIVE (parked Junior, flip on Ryan's word) · STVSH · **GALLIUM** (Ryan 8/25: "gallium falls in the junior spectrum")
+  - **SENIOR** (best of the best in the scene): OF THE TREES · DAILY BREAD
+  - **~15 seats still open.** Do not invent names to fill them.
+- ⚠️ **SIGNAL 001's TALENT BUDGET IS UNKNOWN.** 21 artists, ~450 through the door. **What those artists were paid is NOT recorded anywhere.** Never claim it was zero, never call it a "$0 talent budget," until Ryan confirms it. Also unknown and worth reconstructing: why 450 attended while Shotgun shows only 142 tickets sold — comps, guest list, door sales. The answer decides whether 450 is an attendance number or a ticket number, and that changes every model built on it.
 - Roster count = 22. The website still says "20+ artists" — fix owed.
 - Verified IG handles safe to tag: @foolmoonbeats · @bassed.dnb · @srija.fairydvst · @fairytale_productionsaz · @pradagoneverything · @usb.dnb · @chirenji_dub · @anamorphic_music · @sups2shark (Sharky = PROMOTER, never on lineup art) · @mind.g4me · @allie.radd · @sp3llkvstr · @your_exgirlfriendsmusic (EXGF5) · @psytari · @onsummon · @king_space_music.
 - No verified handle found for: Yewz, Conkusst, Spaydz, Bandaid.

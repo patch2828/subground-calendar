@@ -89,16 +89,15 @@ Use these exactly. Never round them up.
 - **Never publish a venue's exact street address** in anything a stranger or the public sees.
 - Descriptor is **"bass, underground, and frontline electronic music."** Never "psytrance." Banned word in all copy: **"frequency."** The mark is **IfYoKYK**, never IYKYK.
 
-### 1.5 When the rule bends
+### 1.5 The one place the rule looks like it bends, and does not
 
-There is exactly one live deal where SubGround names first, and it is worth understanding why.
+**The Combine × Northern Road deal is not an exception to never-name-first. It is the rule paying off.**
 
-**The Combine × Northern Road offer skeleton names $1,000 per artist flat.** That is a deliberate exception, and it is legitimate because:
-- The **date is already locked in writing** with the agent. There is no availability question left to ask.
-- Corson Agency works off **written offers**. An agent with a locked date asks for paper, and "what's your best number" at that stage reads as amateur.
-- The blocker on that offer is the **venue rate**, not the artist number.
+`FACTS.md` §8 records the terms **the agency put in writing first**: "we are asking for **$1,000 each + HGR**." **Corson named the number. SubGround did not.** **Ryan already accepted that figure.** Two artists = **$2,000 talent** plus hotel, ground and rider. The $1,000 that appears in the offer skeleton is Corson's own number being written back to them, not a price SubGround invented. That is also why the SOPHOMORE band in §3.1 is a real market benchmark and not a self-set one.
 
-**Codify it:** the never-name-first rule governs the **first contact**. Once the date is locked and the agent asks for a written offer, you name a number, and by then their number is already in hand from the first ask. If you find yourself naming a number before you have heard theirs, you have skipped a rung.
+**The genuine exception is much narrower than it looks:** once their number is in hand and the agent asks for paper, you put **their** number into a written offer. That is not naming first, that is transcribing.
+
+**Codify it:** the never-name-first rule governs the **first contact**, and it keeps governing until they name a number. Once the date is locked, their number is in hand, and the agent asks for a written offer, you write their number down. If you find yourself naming a number before you have heard theirs, you have skipped a rung.
 
 ---
 
@@ -152,16 +151,16 @@ There is exactly one live deal where SubGround names first, and it is worth unde
 | Bill | Talent cost | GA tickets needed just to cover talent |
 |---|---|---|
 | **10 roster artists** | **$0** | **0** |
-| The same 10 bought at $1,000 each (the Combine skeleton rate) | $10,000 | **563** (ESTIMATE: 10,000 ÷ 17.78 = 562.4) |
+| The same 10 bought at $1,000 each (Corson Agency's written $1,000 + HGR ask) | $10,000 | **563** (ESTIMATE: 10,000 ÷ 17.78 = 562.4) |
 | All 22 bought at $1,000 each | $22,000 | **1,238** (ESTIMATE: 22,000 ÷ 17.78 = 1,237.3) |
 
 563 tickets is **43% of the Sept 10 capacity of 1,300** sold before the room, the sound, the security, the medics or the porta potties get paid. That is the whole argument.
 
 **And the strongest evidence SubGround owns points the same way:**
 
-> **SIGNAL 001, May 16 2026: ~450 people, 21 artists, zero paid headliners.**
+> **SIGNAL 001, May 16 2026: ~450 people, 21 artists.**
 
-The only proven draw number in the business was produced with a $0 talent budget. Every dollar spent on guest talent from here is a bet that it beats a number the roster already hit for free.
+A 21-artist bill put ~450 people through the door. **What those 21 artists were paid is NOT recorded in `FACTS.md`.** Do not claim SIGNAL 001 had zero paid headliners or a $0 talent budget until Ryan confirms it — that is a gap, listed in §9, not a fact. What the night does prove is that a deep bill of this kind of artist fills a room. Every dollar spent on guest talent from here is a bet that it beats a number a 21-artist bill already hit.
 
 **Two honest caveats so nobody models this wrong:**
 - SIGNAL 001 put **~450 through the door** but Shotgun history shows **$2,740 across 142 tickets** (**$19.30 realized net per ticket**). Why 450 attended and 142 tickets sold is **unknown** — comps, guest list, door sales, `FACTS.md` does not say. Ryan should reconstruct that before modeling any roster-only show as a revenue event, because the answer decides whether 450 is a *ticket* number or an *attendance* number.
@@ -198,16 +197,16 @@ The shape of every ticketed show on the slate:
 
 ## 3. THE TIER LADDER FOR GUEST TALENT
 
-The tier names are the **On The Rocks** framework: **Freshman / Sophomore / Junior / Senior.** `FACTS.md` uses "freshmen roster" for the Icehouse shoot, which anchors the bottom rung.
+The tier names are an **ESTIMATE — Claude's tier naming**, extended from the one word `FACTS.md` actually uses: **"a free shoot for the freshmen roster"** (the Icehouse content night). **It is not an On The Rocks framework.** `FACTS.md` records On The Rocks only as the **Mansion Content Engine** ($68,196 all-in plus a $10–15k festival-deposit reserve, Q1–Q2 2027) and carries no tier structure at all. The rungs used here are **Freshman / Sophomore / Junior / Senior**, and only the bottom rung's name has a source behind it.
 
-> **Honest gap, stated up front: `FACTS.md` does not carry a named artist list assigned to On The Rocks tiers.** Every name placed below is placed by a **real quoted price recorded in `FACTS.md`**, and the source is shown. Any other name's tier is **unknown — needs Ryan to place it.** Do not invent tier rosters.
+> **Honest gap, stated up front: `FACTS.md` does not carry a named artist list assigned to any tier, because the tiers are Claude's construction.** Every name placed below is placed by a **real quoted price recorded in `FACTS.md`**, and the source is shown. Any other name's tier is **unknown — needs Ryan to place it.** Do not invent tier rosters.
 
 ### 3.1 The ladder
 
 | Tier | Fee band (from real quotes) | Real names at this price in `FACTS.md` | Source of the price | GA tickets to cover the fee (ESTIMATE, fee ÷ $17.78 net) |
 |---|---|---|---|---|
 | **FRESHMAN** | **$0** | The 22 roster artists. Paid in the §1.2 stack. | Standing SubGround structure | **0** |
-| **SOPHOMORE** | **~$1,000 flat** | **COMBINE**, **NORTHERN ROAD** | Ryan's own drafted offer skeleton, $1,000 per artist flat, purchaser covers hotel/ground/rider | **57** (1,000 ÷ 17.78 = 56.2) |
+| **SOPHOMORE** | **~$1,000 flat** | **COMBINE**, **NORTHERN ROAD** | **Corson Agency's own written ask, "we are asking for $1,000 each + HGR"** — Ryan accepted it. Market-set, not self-set. HGR = hotel, ground, rider, on the purchaser. | **57** (1,000 ÷ 17.78 = 56.2) |
 | **JUNIOR** | **$1,250 to $2,000** | **GALLIUM $1,250** (signed, contract #10786) · **PIERCE $2,000** (quoted, never closed) | Andrew Lehr quote 8/4; AB Touring contract #10786 | **71** at $1,250 (70.3) · **113** at $2,000 (112.5) |
 | **SENIOR** | **$2,500+** | **OZZTIN $2,500** (quoted 8/4, fell out for Dancefestopia Thursday) | Andrew Lehr quote 8/4 | **141** (140.6) |
 
@@ -220,7 +219,7 @@ The fee is never the cost. GALLIUM is the only fully documented deal and it sets
 | Tier | Fee | What rides on top | Where the real exposure is |
 |---|---|---|---|
 | **FRESHMAN** | $0 | Footage delivery, code setup, a collab tag | Camera cost on the night. Nothing else. |
-| **SOPHOMORE** | ~$1,000 each | The Combine skeleton says **purchaser covers hotel, ground and rider** | Two artists means two riders. A co-headline package is two deals in one email. |
+| **SOPHOMORE** | ~$1,000 each | Corson's written ask is **$1,000 each + HGR**, so **purchaser covers hotel, ground and rider** | Two artists means two riders. A co-headline package is two deals in one email. |
 | **JUNIOR** | $1,250 to $2,000 | Hotel, ground, hospitality, tech rider, advance sheet | **The rider is where money hides.** See 3.4. |
 | **SENIOR** | $2,500+ | Everything above, plus real routing risk | OZZTIN fell out because a festival Thursday beat the date. **Senior talent is routed, not booked, and routing beats you.** |
 
@@ -230,7 +229,7 @@ The fee is never the cost. GALLIUM is the only fully documented deal and it sets
 
 | Tier | What it returns that is measurable | What is unknown |
 |---|---|---|
-| **FRESHMAN** | Reposts, codes in circulation, the entire middle of the bill at zero cost, and content. **The one proven draw event, SIGNAL 001 at ~450, was all-freshman.** | Whether the roster refills a room a second time. First-time buyer rate was 100%. |
+| **FRESHMAN** | Reposts, codes in circulation, the entire middle of the bill at zero cost, and content. **The one proven draw event, SIGNAL 001, put ~450 through the door on a 21-artist bill.** What that bill was paid is **not recorded in `FACTS.md`** — do not call it all-freshman until Ryan confirms. | Whether the roster refills a room a second time. First-time buyer rate was 100%. Also unknown: SIGNAL 001's actual talent spend. |
 | **SOPHOMORE** | A co-headline gives two artist audiences and two repost networks for the price of one Junior. Best cost-per-name on the ladder. | Actual draw. Unknown. |
 | **JUNIOR** | A real headliner slot and a bookable proof point. GALLIUM under contract is already doing work in every pitch in this document, before a single ticket was sold on the name. | Actual draw. Unknown. |
 | **SENIOR** | Agent-relationship leverage and press-grade billing. | Actual draw, and whether the date survives routing. |
@@ -239,7 +238,7 @@ The fee is never the cost. GALLIUM is the only fully documented deal and it sets
 
 ### 3.4 The three levers that move a tier price down
 
-1. **The multi-buy.** Andrew Lehr's 8/4 quote is the proof: PIERCE $2,000 + OZZTIN $2,500 + GALLIUM $1,250 = **$5,750 bought separately**, or **$5,000 + 2 hotel rooms + ground for all three.** That is **$750 off, a 13% discount** (750 ÷ 5,750 = 13.04%) for taking three from one agent. **An agent with three artists will discount a package.** Ask what the package costs before you ask what one costs.
+1. **The multi-buy.** Andrew Lehr's 8/4 quote is the proof: PIERCE $2,000 + OZZTIN $2,500 + **GALLIUM $1,500** = **$6,000 bought separately**, or **$5,000 + 2 hotel rooms + ground for all three.** That is **$1,000 off, 16.7%** (1,000 ÷ 6,000 = 16.67%) for taking three from one agent — and the package **also** includes 2 hotel rooms and ground on top, so the real spread is wider than 16.7%. **An agent with three artists will discount a package.** Ask what the package costs before you ask what one costs. **And the lever kept working after the package died: GALLIUM later signed alone at $1,250, below his own 8/4 quote of $1,500.**
 2. **The pipeline.** Nine dates in six months. A Junior who wants three of them will take less for the first. This is stack item (d) converted to cash.
 3. **The rider.** Strike what the site cannot deliver instead of paying for it. **Live example: the GALLIUM hospitality rider includes a 6-pack of Coors Banquet and the Sept 10 TUP site is NO ALCOHOL. Strike it or swap it for a meal buyout.** Read every rider line against the actual site before signing.
 
@@ -268,11 +267,11 @@ The fee is never the cost. GALLIUM is the only fully documented deal and it sets
 
 | Field | State |
 |---|---|
-| Date | **Fri Nov 6 2026. Locked in writing. NOT flexible.** |
+| Date | **Fri Nov 6 2026. Locked in writing by both sides 8/21.** Dallas is nonetheless **date-flexible**: "I am more than happy to look at any other weekend that is open. **We don't have to route this with anything.**" His targets were 9/19, 10/3, 11/6; **unavailable 9/18, 10/2, 10/10, 11/7.** That flexibility is a live lever — see §8.3. |
 | Billing | **Co-headline, presented by SubGround.** |
 | Agent | **Dallas Provencio, Corson Agency — dprovencio@corsonagency.com** |
-| Offer | **Skeleton DRAFTED, not sent.** Terms in the skeleton: **$1,000 per artist flat**, purchaser covers hotel/ground/rider, tickets **$25 advance scaling to $30**, afters same room same night. |
-| Blocker | **The Fillmore Warehouse FRIDAY rate is UNKNOWN.** Asked of Synesthesia 8/24, still pending. The offer fires the moment that number lands. |
+| Offer | **WRITTEN and sitting as Gmail draft `r-4007247225354787196` in thread `1a008707d7b362d2`. Not sent.** Terms: **$1,000 per artist flat** (Corson's own written ask, §1.5), purchaser covers hotel/ground/rider, tickets **$25 advance scaling to $30**, afters same room same night. **It must also name the cap size — Dallas asked for it.** |
+| Blocker | **NOT the venue rate. THE FORMAL OFFER IS FIVE DAYS OVERDUE.** Ryan promised it "within 48 hours" on 8/21 21:10 and never sent it. **Dallas has chased twice: 8/24 18:51 and 8/26 19:03** ("Checking back here for formal. Would love to get the ball rolling!"). The offer is already written as Gmail draft `r-4007247225354787196` — **Ryan clicks Send.** The Fillmore Friday rate is a **venue-deposit sizing** unknown (§8.3), not a reason the artist offer has not gone out. |
 | Venue A | Fillmore Warehouse via Synesthesia |
 | Venue B | Alchemist's Enclave (a relationship, **not** confirmed as the 11/6 room) |
 | Accent | **STEEL BLUE** |
@@ -297,10 +296,10 @@ The fee is never the cost. GALLIUM is the only fully documented deal and it sets
 | Who | Role | Contact | State as of 8/26 |
 |---|---|---|---|
 | **Andrew Lehr** | AB Touring. Books **OZZTIN, PIERCE, GALLIUM** | **andrew@abtouring.com · (814) 602-5613** | **Three emails unanswered** (8/25 7:44a, 8/25 11:38a, 8/26 11:42a, thread `1a0396140ff38fba`). Last reply **8/6**. Answers fast then goes dark. **Prefers the phone.** |
-| **Dallas Provencio** | Corson Agency. **Combine + Northern Road** | **dprovencio@corsonagency.com** | Date locked in writing. Offer drafted, awaiting the Fillmore Friday rate. |
+| **Dallas Provencio** | Corson Agency. **Combine + Northern Road** | **dprovencio@corsonagency.com** | Date locked in writing 8/21. **Formal offer FIVE DAYS OVERDUE** — chased 8/24 18:51 and 8/26 19:03. Written as Gmail draft `r-4007247225354787196`; **Ryan clicks Send**, and it must name the cap size. **The agency named the price first: "$1,000 each + HGR."** He is also **date-flexible** if 11/6 has to move. |
 | **Synesthesia** | Middleman for **Fillmore Warehouse** | IG **@synmusicaz**, verified thread on the brand IG at `/direct/t/108874480705816`. **No email logged.** | Friday rate asked **8/24**, pending. **Nobody has asked for the Oct 31 Saturday rate.** |
 | **Sam** | **The Icehouse** | **sam@openvenues.com** | Booking email sent **8/11**, subject "Your Inquiry at The Icehouse!" 4-hour video shoot ~7 to 11 PM, contract name **Sub Ground**, headcount ~20. Awaiting availability. |
-| **Ryan Tucknott** | **Walter Productions** | Replied **8/22**. Address is in Ryan's inbox; **not logged in `FACTS.md` — Ryan to confirm before drafting**. | **OUT for 11/6:** "Friday, November 6th is fully booked at both venues." A reply aiming Walter at December/NYE is **DRAFTED, awaiting Ryan's send.** |
+| **Walter Productions** — production. Contact's full name **unknown — needs Ryan to supply** | Production partner, full-service house | **ryan@walterproductions.com** (`FACTS.md` §8, thread `1a02c911ccd0e0f2`) | Replied **8/23**, and **that thread is still UNREAD in Ryan's inbox.** **OUT for 11/6:** "Friday, November 6th is fully booked at both venues. Are you date flexible?" A reply aiming Walter at December/NYE is **DRAFTED, awaiting Ryan's send.** |
 | **Josh (Auxlee, Funky Forest)** | **Prescott — Renegade / Prototype** | **no contact logged — needs Ryan to supply** | Blocking a 300 to 500 cap, 2-stage mini fest. No date. Slot it the moment he answers. |
 | **Srija — FɅIRYDVST** | Principal on SubGround, `@srija.fairydvst` | On the brand IG | **The best referral engine in the business.** Her referrals produced BOTH Blade (security) and Monique (EMT Elite). Use her before cold outreach. |
 | **Ben Bethel** | Clarendon Hotel owner | logged in `FACTS.md` §11 without contact details | His SGC risk doc `1x80WLT0f_xnbbBf1C9nodT3Onm9N6r1u8_258YUkwqQ` has **never been opened.** Surface it before vendor spend locks. |
@@ -317,8 +316,8 @@ The fee is never the cost. GALLIUM is the only fully documented deal and it sets
 | **Fillmore Warehouse** | **Synesthesia @synmusicaz** (IG DM, verified thread) | **Full buyouts Thu / Fri / weekends only. THURSDAY = $3,500 for 5 hours, all-in. 1,000+ cap, 3 stages, full production included** (CDJs, sound, projectors, lasers). New-promoter deposit **possibly 100% up front**; Syn will try for **50% to hold + 50% before doors**. **NO holds without deposit. Contract THEN deposit. Doors time counts, load-in does not.** | **Plan A for Nov 6.** Friday rate **PENDING** since 8/24. Saturday rate **never asked.** | **03 Halloween Oct 31 · 04 Combine Nov 6** |
 | **Alchemist's Enclave** | **no contact logged — needs Ryan to supply** | **unknown** | A relationship, explicitly **not** the 11/6 room. Fallback only. | Fallback for 03 and 04 |
 | **The Icehouse** | **Sam, sam@openvenues.com** | **$2,000 room fee.** 4-hour block ~7 to 11 PM. Contract name **Sub Ground**, headcount ~20. | Email sent 8/11, awaiting Sam. **No artist constraint requires the 19th — let Sam's availability pick the date.** | **02 Icehouse, Fri Sept 18 or Sat Sept 19** |
-| **Walter Productions** | **Ryan Tucknott** (address in Ryan's inbox from 8/22, not logged) | **Full-service model: Walter runs ticketing, box office AND security.** That kills any bring-your-own security or ticketing assumption. | **OUT for 11/6.** Reply aiming at **December / NYE** is drafted and waiting on Ryan's send. | Candidate for **06 NYE Dec 31** |
-| **Glendale 9 Drive-In** | **NO CONTACT LOGGED. This is the single biggest gap in the booking file.** | **unknown** | Target 2-stage, **2,000 to 5,000 people.** The roadmap calls it "the first real ticketed mid-size show." Avoid monsoon. | **09 Drive-In, Sat Feb 20 — the $100K hinge** |
+| **Walter Productions** | **ryan@walterproductions.com** (thread `1a02c911ccd0e0f2`, replied **8/23**, **still UNREAD** in Ryan's inbox). Contact's full name **unknown — needs Ryan to supply.** | **Full-service model: Walter runs ticketing, box office AND security.** That kills any bring-your-own security or ticketing assumption. | **OUT for 11/6.** Reply aiming at **December / NYE** is drafted and waiting on Ryan's send. | Candidate for **06 NYE Dec 31** |
+| **West Wind Glendale 9 Drive-In** | **CONTACT FOUND 8/26.** **Phone 623-939-9715 — the faster rung.** Booking route is the form at **westwinddi.com/events/host-your-event**, which needs a browser, so desktop or Ryan. 5650 N 55th Ave, Glendale AZ. Part of the **West Wind Drive-Ins** chain, so a corporate events process, not a favor ask. | **Published: available most days, 50 CAR MINIMUM**, price varies by availability and on-screen materials. Groups get early access for setup and pre-show. Nine screens. Concessions sell **beer, margaritas and canned cocktails, 21+** — unlike the M&M lot this is **NOT a no-alcohol site**, which changes the security and medical math. | **⭐ LEAD EVERY PITCH WITH THE SUBTRONICS PRECEDENT: Subtronics has already played this venue**, noted explicitly "for EDM fans." They also host **car shows with vendors** (one Nov 8, hundreds of custom builds) — the exact format SubGround just ran under a city permit. The ask is not "will you allow this," it is "you have already done this." **Capacity unknown — measured in CARS, not people; the roadmap's 2,500 is an unverified model assumption.** Confirm capacity in cars, per-car vs per-person ticketing, rental price, and sell-tickets vs buy-the-room **before trusting the Drive-In P&L.** The roadmap calls it "the first real ticketed mid-size show." Avoid monsoon. | **09 Drive-In, Sat Feb 20 — the $100K hinge** |
 | **M&M lot, Peoria** | **Jake Gerard** signed the owner authorization 8/10. No phone or email logged. | 3.42 AC paved retail lot, APN 142-11-462B, zoning C-2. Permit **TUP TU26-00188 approved 8/13.** | **LOCKED, permitted, on sale.** | **01 Gold Rush, Thu Sept 10** |
 | **Light House kava bar** | **no venue contact logged — needs Ryan to supply** | ~100 to 150 room. Framed as a ~$2,100 Icehouse capital raiser. | Placeholder window passed unlocked. Needs a contact, a Thursday, a lineup and cameras. | Recurring layer, monthly Thursdays from October |
 
@@ -670,7 +669,7 @@ The standard ladder does not apply. There is no headliner and no ticket. The lad
 
 | Rung | Date | Day | State |
 |---|---|---|---|
-| T-70 | **Fri Aug 28** | Fri | **Date already locked in writing. The offer is drafted.** The live blocker is the venue, not the talent. |
+| T-70 | **Fri Aug 28** | Fri | **Date already locked in writing 8/21.** The offer is **written and five days overdue**, sitting as Gmail draft `r-4007247225354787196`. The live blocker is Ryan pressing Send. |
 | T-56 | **Fri Sept 11** | Fri | Offer accepted by Corson |
 | T-49 | **Fri Sept 18** | Fri | Artist contract signed |
 | T-45 | **Tue Sept 22** | Tue | **Artist deposits out, 2 artists. Ryan pays. Funded by Sept 10.** |
@@ -682,7 +681,7 @@ The standard ladder does not apply. There is no headliner and no ticket. The lad
 | T-4 | **Mon Nov 2** | Mon | Request early payout |
 | T-0 | **Fri Nov 6** | Fri | Show. Balances in cash. |
 
-**The one thing standing between here and a fired offer: the Fillmore FRIDAY rate.** Asked 8/24. Chase it.
+**The one thing standing between here and a fired offer: Ryan pressing Send.** The formal is **five days overdue**, Dallas has chased twice (8/24 18:51, 8/26 19:03), and the text already exists as Gmail draft `r-4007247225354787196`. Make sure it **names the cap size** before it goes. The Fillmore Friday rate, asked 8/24, sizes the **venue deposit** at T-42 — chase it too, but it does not gate the artist offer.
 
 #### 05 — TH3 N3TW0RK NIGHT · **Sat Dec 12** · T-108 · roster showcase, 600-cap room
 
@@ -772,7 +771,9 @@ Accent **CRIMSON**. Couples and two-for pricing is normal on this weekend.
 | T-4 | Tue Feb 16 | Tue |
 | T-0 | **Sat Feb 20** | Sat |
 
-**This show has a rung the others do not, and it is already overdue: THERE IS NO CONTACT FOR GLENDALE 9 DRIVE-IN.** A 2,000 to 5,000 capacity outdoor takeover with a 2-stage build almost certainly needs a **city permit** as well as a venue agreement, and the Sept 10 permit took **Aug 10 filed to Aug 13 approved with a $600 fee**, on a 3.42-acre private lot with signed owner authorization. A drive-in at five times that headcount is a bigger filing. **The real T-70 for this show is a venue contact, and that work starts the week of Sept 14, not December.**
+**This show has a rung the others do not: the terms are unconfirmed.** The contact is no longer missing — **phone 623-939-9715** and the booking form at **westwinddi.com/events/host-your-event**, found 8/26 — but **capacity is unknown, and a drive-in's capacity is measured in CARS, not people. The roadmap's 2,500 is an unverified model assumption.** Four things get confirmed before a dollar is modeled or a form is filed: **(1) real capacity in cars, (2) per-car vs per-person ticketing, (3) rental price, (4) whether the promoter sells tickets or buys the room flat.** The published terms carry a **50 CAR MINIMUM.**
+
+A ticketed outdoor takeover of a nine-screen drive-in almost certainly needs a **city permit** as well as a venue agreement. The Sept 10 permit took **Aug 10 filed to Aug 13 approved with a $600 fee**, on a 3.42-acre private lot in Peoria with signed owner authorization. Glendale is a different city with its own process, the site is commercial rather than a private lot, and it **sells alcohol**, which the M&M lot did not — so treat the filing as bigger on those grounds, not on a headcount multiple nobody has. **Open the call with the Subtronics precedent. The real T-70 for this show is that phone call, and it starts the week of Sept 14, not December.**
 
 ### 8.3 The Law 1 collision, and it is the most important thing on this page
 
