@@ -4,113 +4,270 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SubGround Collective — Upcoming</title>
+<meta name="description" content="SubGround Collective. Bass, underground, and frontline electronic music. Phoenix.">
+<!--
+  BUILD NOTE — NOT DEPLOYED. Committed to the repo only.
+  Deploying to subgroundcollective.com is Ryan's call and Ryan's click (Netlify, ZIP deploy).
+  Standing rule: nothing public ships without his explicit in-session approval.
+
+  This page lists ONLY dates that are real. Confirmed shows are announced.
+  Holds are labeled as holds. Nothing on this page is invented, and no unbooked
+  date is presented as a show. Venue street addresses are deliberately absent.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,600;0,700;0,800;1,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0b0a12; --panel:#15121f; --panel2:#1c1830; --ink:#f4f1fb; --muted:#a79fc4;
-    --line:#2a2440; --purple:#8b5cf6; --purple2:#a78bfa; --orange:#ff8c42; --hot:#ff5470;
-    --green:#3ddc84; --gold:#ffd15c;
+    /* SubGround identity — dark-committed. No purple, ever. Gold belongs to the
+       GOLD RUSH event brand, not to SubGround, so it appears nowhere here. */
+    --ground:#08090B;
+    --panel:#101216;
+    --panel-2:#0C0E12;
+    --hairline:#1E222A;
+    --silver:#A7ABB6;
+    --paper:#EDEFF4;
+    --dim:#6E7480;
+    --accent:#22D3EE;          /* the one earned accent: live tickets only */
+    --live:#4ADE80;
+    --hold:#60A5FA;
   }
-  *{box-sizing:border-box}
-  body{margin:0;background:radial-gradient(1200px 700px at 80% -10%, #241a3a 0%, var(--bg) 55%);
-    color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;
-    line-height:1.5;padding:0 0 70px;}
-  .wrap{max-width:820px;margin:0 auto;padding:0 22px;}
-  header.hero{padding:52px 22px 26px;text-align:center;}
-  .eye{font-size:13px;letter-spacing:.34em;color:var(--purple2);text-transform:uppercase;font-weight:700;}
-  h1{font-size:clamp(32px,6vw,54px);margin:.26em 0 .14em;font-weight:800;letter-spacing:-.5px;
-    background:linear-gradient(92deg,var(--orange),var(--hot) 40%,var(--purple2) 90%);
-    -webkit-background-clip:text;background-clip:text;color:transparent;}
-  .sub{color:var(--muted);font-size:15.5px;max-width:520px;margin:0 auto;}
-  .month{margin-top:38px;}
-  .month h2{font-size:15px;letter-spacing:.14em;text-transform:uppercase;color:var(--purple2);margin:0 0 4px;font-weight:800;}
-  .month .rule{height:2px;border-radius:2px;background:linear-gradient(90deg,var(--purple),transparent);margin-bottom:16px;}
-  .row{display:flex;gap:16px;padding:16px 17px;margin-bottom:12px;
-    background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:15px;
-    position:relative;overflow:hidden;}
-  .row::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--orange);}
-  .row.joint::before{background:var(--green)} .row.scout::before{background:var(--purple2)}
-  .date{text-align:center;width:78px;flex:0 0 78px;padding-top:2px;}
-  .date .dnum{font-size:25px;font-weight:800;line-height:1;}
-  .date .dwk{font-size:11px;text-transform:uppercase;letter-spacing:.13em;color:var(--muted);margin-top:4px;}
-  .date .mo{font-size:11px;color:var(--gold);font-weight:700;margin-top:2px;}
-  .body{flex:1 1 auto;min-width:0;}
-  .body h3{margin:0 0 5px;font-size:17.5px;font-weight:750;}
-  .pill{display:inline-block;font-size:10px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;
-    padding:3px 8px;border-radius:6px;margin-left:7px;vertical-align:middle;
-    background:rgba(255,140,66,.16);color:var(--orange);border:1px solid rgba(255,140,66,.35);}
-  .pill.joint{background:rgba(61,220,132,.14);color:var(--green);border-color:rgba(61,220,132,.35)}
-  .pill.scout{background:rgba(139,92,246,.16);color:var(--purple2);border-color:rgba(139,92,246,.4)}
-  .body p{margin:0;color:var(--muted);font-size:14px;}
-  .body .meta{margin-top:6px;font-size:12.5px;color:#8f88ad;}
-  .body .lineup{margin-top:8px;font-size:12.5px;color:var(--ink);}
-  .body .lineup b{color:var(--purple2);}
-  footer{margin-top:46px;text-align:center;color:#6f688c;font-size:12.5px;}
-  footer .ig{color:var(--purple2);font-weight:700;}
-  @media(max-width:520px){ .date{width:62px;flex:0 0 62px} .date .dnum{font-size:21px} }
+  *,*::before,*::after{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--ground);
+    color:var(--paper);
+    font-family:"Archivo",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size:16px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+    padding-bottom:72px;
+    overflow-x:hidden;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:0 20px}
+
+  /* ---------- header ---------- */
+  header.hero{padding:64px 20px 8px;text-align:center;border-bottom:1px solid var(--hairline)}
+  .eyebrow{
+    font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-size:11px;letter-spacing:.34em;text-transform:uppercase;
+    color:var(--dim);margin:0 0 18px;
+  }
+  h1{
+    font-size:clamp(38px,9vw,72px);
+    font-weight:800;letter-spacing:-.03em;line-height:.95;
+    margin:0 0 16px;color:var(--paper);text-transform:uppercase;
+  }
+  .tagline{
+    color:var(--silver);font-size:16px;max-width:44ch;margin:0 auto;
+  }
+  .mark{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:12px;letter-spacing:.18em;color:var(--dim);
+    margin:22px 0 40px;
+  }
+
+  /* ---------- month ---------- */
+  .month{margin-top:52px}
+  .month-label{
+    display:flex;align-items:baseline;gap:14px;margin:0 0 20px;
+  }
+  .month-label h2{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:12px;font-weight:600;letter-spacing:.28em;text-transform:uppercase;
+    color:var(--silver);margin:0;white-space:nowrap;
+  }
+  .month-label .rule{flex:1 1 auto;height:1px;background:var(--hairline)}
+
+  /* ---------- row ---------- */
+  .row{
+    display:flex;gap:20px;align-items:flex-start;
+    padding:22px 22px 22px 20px;margin-bottom:14px;
+    background:linear-gradient(180deg,var(--panel),var(--panel-2));
+    border:1px solid var(--hairline);border-radius:4px;
+    position:relative;
+  }
+  /* bracket corner marks — the SubGround entry-card motif */
+  .row::before,.row::after{
+    content:"";position:absolute;width:9px;height:9px;pointer-events:none;
+  }
+  .row::before{top:-1px;left:-1px;border-top:1px solid var(--silver);border-left:1px solid var(--silver)}
+  .row::after{bottom:-1px;right:-1px;border-bottom:1px solid var(--silver);border-right:1px solid var(--silver)}
+
+  .date{
+    flex:0 0 74px;width:74px;text-align:center;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    border-right:1px solid var(--hairline);padding-right:16px;
+  }
+  .date .num{display:block;font-size:30px;font-weight:600;line-height:1;color:var(--paper)}
+  .date .dow{display:block;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--dim);margin-top:7px}
+  .date .mo{display:block;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--silver);margin-top:3px}
+
+  .body{flex:1 1 auto;min-width:0}
+  .body h3{
+    margin:0 0 4px;font-size:20px;font-weight:700;letter-spacing:-.01em;line-height:1.2;
+  }
+  .body .blurb{margin:8px 0 0;color:var(--silver);font-size:14.5px}
+  .body .meta{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11.5px;letter-spacing:.05em;color:var(--dim);margin-top:12px;
+  }
+  .lineup{
+    margin-top:12px;padding-top:12px;border-top:1px solid var(--hairline);
+    font-size:13px;color:var(--silver);
+  }
+  .lineup .lbl{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--dim);
+    display:block;margin-bottom:5px;
+  }
+  .lineup b{color:var(--paper);font-weight:600}
+
+  /* ---------- status tag ---------- */
+  .tag{
+    display:inline-block;vertical-align:middle;margin-left:9px;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:9.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+    padding:4px 8px;border-radius:3px;white-space:nowrap;
+    border:1px solid currentColor;
+  }
+  .tag.live{color:var(--live)}
+  .tag.hold{color:var(--hold)}
+  .tag.shoot{color:var(--silver)}
+
+  .tickets{
+    display:inline-block;margin-top:14px;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--accent);text-decoration:none;
+    border:1px solid var(--accent);border-radius:3px;padding:9px 16px;
+    transition:background-color .15s ease,color .15s ease;
+  }
+  .tickets:hover,.tickets:focus-visible{background:var(--accent);color:var(--ground)}
+
+  /* ---------- note ---------- */
+  .note{
+    margin-top:44px;padding:20px;border:1px dashed var(--hairline);border-radius:4px;
+    color:var(--dim);font-size:13.5px;
+  }
+  .note strong{color:var(--silver);font-weight:600}
+
+  footer{
+    margin-top:56px;padding-top:28px;border-top:1px solid var(--hairline);
+    text-align:center;color:var(--dim);font-size:13px;
+  }
+  footer a{color:var(--silver);text-decoration:none;font-weight:600}
+  footer a:hover,footer a:focus-visible{color:var(--paper)}
+  footer .sig{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11px;letter-spacing:.24em;color:var(--dim);margin-top:20px;
+  }
+
+  @media(max-width:520px){
+    .row{gap:14px;padding:18px 16px}
+    .date{flex:0 0 58px;width:58px;padding-right:12px}
+    .date .num{font-size:24px}
+    .body h3{font-size:17.5px}
+    .tag{margin-left:0;margin-top:7px}
+  }
 </style>
 </head>
 <body>
+
 <header class="hero">
-  <div class="eye">👁 SubGround Collective</div>
-  <h1>Upcoming</h1>
-  <p class="sub">Phoenix underground — shows, pop-ups, and content nights. Dates firming up; follow along.</p>
+  <div class="wrap">
+    <p class="eyebrow">SubGround Collective · Phoenix</p>
+    <h1>Upcoming</h1>
+    <p class="tagline">Bass, underground, and frontline electronic music. We build the underground.</p>
+    <p class="mark">IfYoKYK</p>
+  </div>
 </header>
 
-<div class="wrap">
+<main class="wrap">
 
-  <div class="month">
-    <h2>August 2026</h2>
-    <div class="rule"></div>
-    <div class="row joint">
-      <div class="date"><div class="dnum">TBD</div><div class="dwk">A Thurs</div><div class="mo">Aug</div></div>
-      <div class="body">
-        <h3>Light House Kava Bar Pop-Up <span class="pill joint">Fairytail × SubGround</span></h3>
-        <p>Our first joint night with Fairytail — a Thursday takeover at the Light House. Music, visuals, good people.</p>
-        <div class="meta">Light House · Phoenix · date locking soon</div>
-      </div>
-    </div>
-  </div>
+  <section class="month">
+    <div class="month-label"><h2>September 2026</h2><div class="rule"></div></div>
 
-  <div class="month">
-    <h2>September 2026</h2>
-    <div class="rule"></div>
-    <div class="row">
-      <div class="date"><div class="dnum">10</div><div class="dwk">Thu</div><div class="mo">Sep</div></div>
+    <article class="row">
+      <div class="date"><span class="num">10</span><span class="dow">Thu</span><span class="mo">Sep</span></div>
       <div class="body">
-        <h3>"Gold Rush" Pre-Party <span class="pill">Pop-Up</span></h3>
-        <p>DJs + car show + the shop, all night. A Peoria block party — come through.</p>
-        <div class="meta">M&amp;M Smoke Shop · 10798 N 75th Ave, Peoria · ends 10 PM · tentative</div>
+        <h3>The Gold Rush Pre-Party <span class="tag live">On Sale</span></h3>
+        <p class="blurb">Eight hours on the lot. Full local bill into a headline close, a car show, vendors, and the shop. All ages, no alcohol, music till ten.</p>
+        <div class="lineup">
+          <span class="lbl">Lineup</span>
+          <b>GALLIUM</b> · FØØL MØØN · ONSUMMON · ANAMORPHIC · USB B2B BASSED · FAIRYDVST · CHIRENJI · PRADA G
+        </div>
+        <p class="meta">Peoria, AZ · 1:00–10:00 PM · all ages · early bird $15 / GA $20</p>
+        <a class="tickets" href="https://shotgun.live/events/gold-rush-pre-party-at-m-m">Tickets</a>
       </div>
-    </div>
-    <div class="row">
-      <div class="date"><div class="dnum">18</div><div class="dwk">Fri/Sat</div><div class="mo">18 or 19</div></div>
-      <div class="body">
-        <h3>Ice House Content Night <span class="pill">Content Shoot</span></h3>
-        <p>One night, free pro content for every artist on the bill. Projection-mapped walls + lasers, 15-minute sets back to back. Doors 7 PM.</p>
-        <div class="lineup"><b>Lineup:</b> Fool Moon · onsummon · USB · Fairydust · Chirenji · Wake Up · f33lz · EXGF5 · Anamorphic · Prada G</div>
-        <div class="meta">The Ice House · Phoenix · day confirming</div>
-      </div>
-    </div>
-  </div>
+    </article>
 
-  <div class="month">
-    <h2>October 2026</h2>
-    <div class="rule"></div>
-    <div class="row scout">
-      <div class="date"><div class="dnum">9</div><div class="dwk">Fri–Sun</div><div class="mo">9–11</div></div>
+    <article class="row">
+      <div class="date"><span class="num">18</span><span class="dow">Fri / Sat</span><span class="mo">or 19</span></div>
       <div class="body">
-        <h3>Catch us at FORM Festival <span class="pill scout">Off-Site</span></h3>
-        <p>We'll be up at Arcosanti for FORM — say hey if you're going.</p>
-        <div class="meta">Arcosanti, AZ</div>
+        <h3>Content Night <span class="tag shoot">Artists Only</span></h3>
+        <p class="blurb">Not a ticketed show. One room, one night, cameras on every set. Free professional content for every artist on the bill, projection-mapped walls and lasers, fifteen-minute sets back to back.</p>
+        <div class="lineup">
+          <span class="lbl">On the bill</span>
+          FOOL MOON · ONSUMMON · USB · FAIRYDUST · CHIRENJI · WAKE UP · F33LZ · EXGF5 · ANAMORPHIC · PRADA G
+        </div>
+        <p class="meta">Phoenix · doors 7:00 PM · day confirming with the venue</p>
       </div>
-    </div>
+    </article>
+  </section>
+
+  <section class="month">
+    <div class="month-label"><h2>October 2026</h2><div class="rule"></div></div>
+
+    <article class="row">
+      <div class="date"><span class="num">31</span><span class="dow">Sat</span><span class="mo">Oct</span></div>
+      <div class="body">
+        <h3>Halloween <span class="tag hold">Date Held</span></h3>
+        <p class="blurb">Halloween lands on a Saturday this year. We are holding it. Room and bill announcing soon.</p>
+        <p class="meta">Phoenix · venue confirming ·
+        follow for the drop</p>
+      </div>
+    </article>
+  </section>
+
+  <section class="month">
+    <div class="month-label"><h2>November 2026</h2><div class="rule"></div></div>
+
+    <article class="row">
+      <div class="date"><span class="num">6</span><span class="dow">Fri</span><span class="mo">Nov</span></div>
+      <div class="body">
+        <h3>Combine + Northern Road <span class="tag hold">Date Held</span></h3>
+        <p class="blurb">Co-headline, presented by SubGround. Show rolls straight into the afterparty in the same room, same night.</p>
+        <p class="meta">Phoenix · venue confirming · on sale when the room locks</p>
+      </div>
+    </article>
+  </section>
+
+  <section class="month">
+    <div class="month-label"><h2>December 2026</h2><div class="rule"></div></div>
+
+    <article class="row">
+      <div class="date"><span class="num">31</span><span class="dow">Thu</span><span class="mo">Dec</span></div>
+      <div class="body">
+        <h3>New Year's Eve <span class="tag hold">Date Held</span></h3>
+        <p class="blurb">Into 2027 with the whole collective. Details when the room is signed.</p>
+        <p class="meta">Phoenix · venue confirming</p>
+      </div>
+    </article>
+  </section>
+
+  <div class="note">
+    <strong>About the holds.</strong> A date marked <em>Date Held</em> means we have claimed the night and the room is still being signed. We do not announce a show until it is real, and we do not post a location until the people who bought tickets have it first.
   </div>
 
   <footer>
-    SubGround Collective · Phoenix · follow <span class="ig">@subground</span> for lineups &amp; locations<br>
-    Dates are firming up — check back or follow for the latest.
+    <p>SubGround Collective · Phoenix · 22 artists and counting</p>
+    <p>Lineups and locations drop first on <a href="https://instagram.com/subground.collective">@subground.collective</a></p>
+    <p class="sig">IfYoKYK</p>
   </footer>
 
-</div>
+</main>
+
 </body>
 </html>
