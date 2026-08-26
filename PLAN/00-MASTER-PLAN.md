@@ -164,7 +164,7 @@ Date locked in writing with Dallas Provencio, Corson Agency (Ryan 8/21: "11/6 is
 
 † **Row 09 capacity.** A drive-in's capacity is measured in **CARS, not people.** **50-car minimum published.** Per-car vs per-person ticketing unknown. Whether SubGround sells tickets or buys the room flat is unknown. Per FACTS §8, **do not trust this row's P&L until those four answers land.** The venue also sells beer, margaritas and canned cocktails **21+**, unlike the no-alcohol M&M site, which changes the security and medical math.
 
-‡ **These two totals are the coarse envelope pass and they are SUPERSEDED.** `04-MONEY` rebuilds every show off line-item costs instead of one flat envelope, and its numbers are canonical. **CONSERVATIVE −$53,751 · TARGET +$41,317 (~70% average fill) · SELLOUT +$136,250.** Where this table and `04-MONEY` disagree, `04-MONEY` wins. The per-show rows below are kept because the arithmetic is checkable, not because the totals are the answer.
+‡ **These two totals are the coarse envelope pass and they are SUPERSEDED.** `04-MONEY` rebuilds every show off line-item costs instead of one flat envelope, and its numbers are canonical. **CONSERVATIVE −$53,793 · TARGET +$41,317 (~70% average fill) · SELLOUT +$136,250.** Where this table and `04-MONEY` disagree, `04-MONEY` wins. The per-show rows below are kept because the arithmetic is checkable, not because the totals are the answer.
 
 **Arithmetic, shown so it can be checked:**
 
@@ -182,7 +182,7 @@ Date locked in writing with Dallas Provencio, Corson Agency (Ryan 8/21: "11/6 is
 
 ### What the model says
 
-> **The canonical Phase 1 six-month figures, from `04-MONEY`'s line-item per-show costs: CONSERVATIVE −$53,751 · TARGET +$41,317 (~70% average fill) · SELLOUT +$136,250.**
+> **The canonical Phase 1 six-month figures, from `04-MONEY`'s line-item per-show costs: CONSERVATIVE −$53,793 · TARGET +$41,317 (~70% average fill) · SELLOUT +$136,250.**
 
 > **CONSERVATIVE is not a soft year, it is the end of the business.** Every single show on the slate loses money in that case. There is no version of it that survives.
 
