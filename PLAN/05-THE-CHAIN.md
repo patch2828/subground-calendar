@@ -11,7 +11,7 @@ All figures computed in code. Sources: the Gemini master plan ledger, `DREAM-PIP
 ## The chain
 
 ```
-PHASE 1   Nine shows, Sept 2026 - Feb 2027          ->  $110,153 at target
+PHASE 1   Nine shows, Sept 2026 - Feb 2027          ->  $41,317 at target (canonical)
 PHASE 2   ON THE ROCKS, the Mansion Content Engine  ->  -$78,196 to -$83,196
 PHASE 3   DREAM FEST 1, Pepsi Amphitheater          ->  Sept 24-26 2027, 3,000/day
 PHASE 4   DREAM FOREST, Fort Tuthill                ->  Sept 22-24 2028, 10,000
@@ -39,21 +39,25 @@ Matches the master plan to the dollar. Plus the **$10,000–$15,000 festival-dep
 
 ## 2. FINDING ONE — the chain only closes at target
 
+> **CORRECTED 2026-08-26.** An earlier version of this section used an optimistic model that has since been superseded by `04-MONEY.md`'s line-item costs. See `MODEL-CROSSCHECK.md` for the full reconciliation. The corrected figures are materially harder and they change this section's conclusion.
+
 | Six-month result | Minus the mansion | Verdict |
 |---|---:|---|
-| CONSERVATIVE $45,237 | −$32,959 to −$37,959 | **NOT FUNDED** |
-| **TARGET $110,153** | **+$26,957 to +$31,957** | **FUNDED** |
-| SELLOUT $204,768 | +$121,572 to +$126,572 | FUNDED, comfortably |
+| CONSERVATIVE −$53,751 | −$131,947 to −$136,947 | **NOT FUNDED** |
+| **TARGET +$41,317** | **−$36,879 to −$41,879** | **NOT FUNDED** |
+| SELLOUT +$136,250 | +$53,054 to +$58,054 | FUNDED |
 
-**The conservative case does not reach the mansion. It falls $33K to $38K short.**
+**The mansion is not funded at target. Only near-sellout funds it on ticket revenue alone — roughly 83% average sell-through across all nine shows.**
 
-This reframes the whole six months. Hitting $100K was never about having $100K — it was about clearing the mansion's price. At ~50% fill the shows are a real business that still cannot buy the next rung. **70% fill is the number that unlocks the chain, and nothing less does.**
+At conservative fill every one of the nine shows loses money, including Gold Rush. The downside is not "we earn less," it is "we run out of cash." Nothing here should be read as if the floor is zero.
 
-### And the $100K is not profit
+### So Phase 2 has three honest routes, and one must be chosen
 
-At target, **$78K–$83K of the $110K is consumed immediately** by Phase 2. That is **71% to 76% of everything nine shows earn**, gone in one transaction, on purpose.
+1. **Near-sellout.** ~83% average across nine shows. Possible, unprecedented.
+2. **Land the sponsor layer.** The $58,683 that closes the $100K gap also more than covers the mansion shortfall. It is the only layer where the entire amount is upside rather than execution risk, and it sits at $0 booked, $0 pitched, no deck, no prospect list.
+3. **Stage or descope the mansion.** $68,196 is one weekend at full spec. A smaller first shoot that still produces a sponsor reel is a real option and nobody has priced it.
 
-What is left over is $27K–$32K. That is the real "profit" of six months of work, and Pipeline Law 1 says even that moves forward rather than into life money. Worth saying out loud before February, because $110,153 on a page reads like a payday and it is actually a purchase.
+**This is the decision the six months are actually driving toward. Make it in December, not March.**
 
 ---
 
@@ -95,12 +99,14 @@ Mansion Phase 1 is **$6,000 of consultant retainer and pitch-deck design, and th
 
 | Source | Conservative | Target | Sellout |
 |---|---:|---:|---:|
-| Left after the mansion | −$35,459 | $29,457 | $124,072 |
+| Left after the mansion | −$134,447 | −$39,379 | $55,554 |
 | Sponsors closed off the footage | $20,000 | $20,000 | $20,000 |
 | Aug '27 wave 1 — 500 × $135 | $67,500 | $67,500 | $67,500 |
-| **War chest into DREAM 1** | **$52,041** | **$116,957** | **$211,572** |
+| **War chest into DREAM 1** | **−$46,947** | **$48,121** | **$143,054** |
 
-DREAM FEST 1 all-in is **$250,000 to $300,000**. So even at target the war chest covers under half, and **$133,043 has to come from tier sales between April and September.**
+*(Using the corrected Phase 1 figures and the mansion at its $83,196 upper bound.)*
+
+DREAM FEST 1 all-in is **$250,000 to $300,000**. At the corrected target the war chest is **$48,121**, under a fifth of the need, and **roughly $202,000 has to come from tier sales between April and September.** At conservative there is no war chest at all — the chain has already broken by then.
 
 That is not a hole. That is Pipeline Law 2 working exactly as written: *presales are financing, on-sale dates are when the fest pays its own bills.* The war chest exists to cover **artist deposits and the venue hold**, not the whole festival. But it means the presale calendar is not marketing, it is the funding mechanism, and a slow April kills a September festival.
 
@@ -122,7 +128,7 @@ The old roadmap put the 10,000 at Fort Tuthill in **2029–30**, unlocked by DRE
 
 ## 6. What this changes about the next six months
 
-1. **70% fill is not a target, it is the gate.** Below it the chain stops at Phase 1. Every decision in `00-MASTER-PLAN.md` should be read against that.
+1. **~83% fill is the gate, not 70%.** 70% nets about $41,317, which does not buy the mansion. Below ~83%, or without the sponsor layer, the chain stops at Phase 1. Every decision in `00-MASTER-PLAN.md` should be read against that.
 2. **Two line items move into the six-month budget:** the $6,000 mansion Phase 1 in early February, and the mansion and flight deposits in late January. Neither is currently in the six-month P&L. They should be.
 3. **Sponsors stop being upside and become structural.** The $20,000 sponsor line is what makes Phase 3's war chest work. It is currently at $0 with no deck and no prospect list, and now it has a deadline: the deck gets built in February, before there is any footage to put in it.
 4. **Lock the Pepsi Amphitheater date early.** RPM Tix is (480) 656-9940, info@rpmtix.com; the county is Coconino County Parks & Rec. Sept 24–26 2027 is the recommended ask. Holding it costs a conversation and buys 33 days of slack that cannot be bought any other way.

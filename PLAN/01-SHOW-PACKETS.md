@@ -33,7 +33,7 @@ Plus the DREAM PROJECT law: **Content first. Sponsors second. Festival third.** 
 | 06 | Thu Dec 31 | Thu | NEW YEAR'S EVE | 1,000-cap, unknown | 1,000 | TO BOOK | T-127 |
 | 07 | Sat Jan 23 | Sat | JANUARY HEADLINE | 1,000-cap, unknown | 1,000 | TO BOOK | T-150 |
 | 08 | Sat Feb 13 | Sat | FEBRUARY HEADLINE | 1,000-cap, unknown | 1,000 | TO BOOK | T-171 |
-| 09 | Sat Feb 20 | Sat | DRIVE-IN — GLENDALE 9 TAKEOVER | Glendale 9 Drive-In | 2,500 | TO BOOK — the $100K hinge | T-178 |
+| 09 | Sat Feb 20 | Sat | DRIVE-IN — GLENDALE 9 TAKEOVER | West Wind Glendale 9 Drive-In | 2,500 ⚠ unverified | TO BOOK — the $100K hinge | T-178 |
 
 **Hard blackout the slate respects: Oct 23–25.** Ryan is at F33LZ's We Are Love Friend Festival. No bookings, no routing, no load-ins that weekend.
 
@@ -444,7 +444,7 @@ Banking → event balance → New Transfer → 4-digit code emailed → **2–3 
 **DELIVERY**
 - Same night: stories from the day, straight into the daily push loop.
 - Within 48 h: the crowd-wide + GALLIUM close cut. That is what gets sent to Corson, to Synesthesia, and to every venue on the rest of this slate.
-- **Never say "psytrance." Never use the word "frequency." The mark is `IfYoKYK`, never `IYKYK`. No purple — gold belongs to GOLD RUSH the event, not to SubGround the brand.** Ground #08090B, panels #101216, hairlines #1E222A, silver #A7ABB6, paper #EDEFF4. Type: Archivo + IBM Plex Mono.
+- **Never say "psytrance." Never use the word "frequency." The mark is `IfYoKYK`, never `IYKYK`. This event's accent is GOLD, and purple is banned on GOLD RUSH material — Gold Rush owns gold. Gold is this event's colour, never a SubGround house colour.** Chassis, unchanged: ground #08090B, panels #101216, hairlines #1E222A, silver #A7ABB6, paper #EDEFF4. Type: Archivo + IBM Plex Mono.
 - **Never publish the exact address.** Location drops to ticket holders.
 
 ---
@@ -618,7 +618,7 @@ Running order is **unknown — needs Ryan to set it.** Suggestion that costs not
 
 **Distribution**
 - ⚠ **Never publish public content without Ryan's explicit in-session approval.**
-- **The mark is `IfYoKYK`. Never `IYKYK`.** Descriptor is "bass, underground, and frontline electronic music" — **never "psytrance."** **Never the word "frequency." No purple.**
+- **The mark is `IfYoKYK`. Never `IYKYK`.** Descriptor is "bass, underground, and frontline electronic music" — **never "psytrance."** **Never the word "frequency." Per-event accent, fixed chassis — Icehouse's locked accent is ICE / pale cyan, on the unchanged SubGround chassis.**
 - Tag only verified handles: @foolmoonbeats · @usb.dnb · @srija.fairydvst · @chirenji_dub · @anamorphic_music · @pradagoneverything · @onsummon · @your_exgirlfriendsmusic. **No verified handle is on record for WAKE UP, F33LZ, or VELCROSHIRT — ask them, do not guess.**
 - **IG collab cap is 5 per post.** With 11 artists, that means multiple posts, which is fine and better anyway.
 - **TH3 N3TW0RK broadcast channel is app-only** and invisible to IG web. Ryan posts that from his phone.
@@ -753,7 +753,7 @@ Law 3 says break even on tickets alone at **70% sold**. 70% of 1,000 = **700 tic
 | Door line before doors | The queue shot is the sponsor shot |
 
 Crew: **Mad Lab Films** is the named film department head. **Unbooked, no rate on record — Ryan books it.**
-Distribution: `IfYoKYK` only. Never "psytrance." Never "frequency." No purple. **Never publish the exact address.** Location drops to ticket holders.
+Distribution: `IfYoKYK` only. Never "psytrance." Never "frequency." **Per-event accent, fixed chassis — Halloween's locked accent is VIOLET, on the unchanged SubGround chassis.** **Never publish the exact address.** Location drops to ticket holders.
 **Feed the daily story push loop, do not build a second one.**
 
 ### GO/NO-GO GATES — Halloween
@@ -894,7 +894,7 @@ Shotgun nets face × 0.89. **$25 → $22.25. $30 → $26.70.** 70% of 1,000 cap 
 | Nov 7 crossover | **Whethan plays The Van Buren the next night.** Out-of-town crowd in our room the night before is a story worth capturing and worth telling. **No pitch to Whethan is built and it is Ryan's call — do not pitch without him.** |
 
 Film crew: **Mad Lab Films**, unbooked, no rate on record.
-Brand: `IfYoKYK` only. Never "psytrance." Never "frequency." No purple. **Never publish the exact address.**
+Brand: `IfYoKYK` only. Never "psytrance." Never "frequency." **Per-event accent, fixed chassis — Combine × Northern Road's locked accent is STEEL BLUE, on the unchanged SubGround chassis.** **Never publish the exact address.**
 
 ### GO/NO-GO GATES — Nov 6
 
@@ -1021,7 +1021,7 @@ Cannot be built without a venue. The frame:
 | Lasers at full dark | Audition footage for whichever lighting vendor got the slot |
 
 ⚠ **Get verified IG handles for YEWZ, CONKUSST, SPAYDZ and BANDAID before any art or tagging.** Four of the twelve have no handle on record.
-Brand: `IfYoKYK`. Never "psytrance." Never "frequency." No purple.
+Brand: `IfYoKYK`. Never "psytrance." Never "frequency." **Per-event accent, fixed chassis — TH3 N3TW0RK's locked accent is TERMINAL GREEN, on the unchanged SubGround chassis.**
 **TH3 N3TW0RK broadcast channel is app-only** — Ryan posts that from his phone. This night is the channel's namesake, so it should be the channel's biggest drop of the year.
 
 ### GO/NO-GO GATES — Dec 12
@@ -1149,7 +1149,7 @@ Cannot be built without a venue. The frame, which is different from every other 
 | First minute of 2027, wide | Year-opening asset for every 2027 pitch |
 
 **This is the night to actually pay a film crew.** **Mad Lab Films** is the named department head, unbooked, no rate on record. **Ryan books it or names an alternative — a self-shot midnight is a wasted midnight.**
-Brand: `IfYoKYK`. Never "psytrance." Never "frequency." No purple.
+Brand: `IfYoKYK`. Never "psytrance." Never "frequency." **Per-event accent, fixed chassis — NYE's locked accent is CHROME / platinum, on the unchanged SubGround chassis.**
 
 ### GO/NO-GO GATES — Dec 31
 
@@ -1252,7 +1252,7 @@ Load-in → line check → doors → roster → direct support → headliner clo
 
 ### CONTENT CAPTURE PLAN — Jan 23
 Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum · backdrop portraits on the existing 8×8 matte vinyl · lasers at full dark · door line before doors.
-**Mad Lab Films** unbooked. Brand rules stand: `IfYoKYK`, never "psytrance," never "frequency," no purple, **never publish the exact address.**
+**Mad Lab Films** unbooked. Brand rules stand: `IfYoKYK`, never "psytrance," never "frequency," **per-event accent on the fixed chassis — January's locked accent is COLD SLATE**, **never publish the exact address.**
 
 ### GO/NO-GO GATES — Jan 23
 
@@ -1330,7 +1330,7 @@ Venue **unknown** · headliner **unknown** (Lehr's ceilings: PIERCE $2,000, OZZT
 ### CONTENT CAPTURE PLAN — Feb 13
 Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum · **couples/portrait content against the 8×8 matte backdrop, which is the single most on-theme asset available for a Valentine's weekend night** · lasers at full dark.
 **Cross-promote Feb 20.** Every piece of Feb 13 content carries the Drive-In as the next date. **Feb 13 exists partly to sell Feb 20.**
-**Mad Lab Films** unbooked. `IfYoKYK`. Never "psytrance." Never "frequency." No purple.
+**Mad Lab Films** unbooked. `IfYoKYK`. Never "psytrance." Never "frequency." **Per-event accent, fixed chassis — February's locked accent is CRIMSON, on the unchanged SubGround chassis.**
 
 ### GO/NO-GO GATES — Feb 13
 
@@ -1359,8 +1359,8 @@ Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum
 |---|---|
 | Date | **Saturday, February 20, 2027** (verified) |
 | Doors / curfew | **unknown — set by the venue and by whatever municipal permit applies** |
-| Venue | **Glendale 9 Drive-In.** ⚠ **NO CONTACT IS LOGGED. Nobody at this venue has ever been reached.** That is the number one gate. |
-| Capacity | **2,500** per the slate. The pipeline record carries the Drive-In concept at **2,000–5,000 people**. |
+| Venue | **WEST WIND GLENDALE 9 DRIVE-IN — 5650 N 55th Ave, Glendale, AZ · 623-939-9715.** Part of the **West Wind Drive-Ins** chain, so there is a corporate events process, not a favor ask. **Booking route: the form at westwinddi.com/events/host-your-event** — the phone is the faster rung. |
+| Capacity | ⚠ **UNVERIFIED. 2,500** per the slate, and the pipeline record carries the Drive-In concept at **2,000–5,000 people** — but **a drive-in's capacity is counted in CARS, not people**, and nobody at West Wind has confirmed a number. Their only published figure is a **50-CAR MINIMUM**. **Confirm real capacity before trusting any number on this packet.** |
 | Format | **2-stage** |
 | Original timing | The record targeted **Oct–Nov or spring** and said **avoid monsoon.** **Feb 20 satisfies both.** |
 | Ticket tiers | **unknown — Ryan sets them.** See the Law 3 gate. |
@@ -1383,7 +1383,7 @@ Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum
 
 | Item | Status / benchmark |
 |---|---|
-| **Venue contact** | ⚠ **NOTHING LOGGED. This is gate D-1 and everything else waits on it.** |
+| **Venue contact** | **FOUND 8/26. West Wind Glendale 9 Drive-In — 623-939-9715**, or the form at **westwinddi.com/events/host-your-event.** **Published terms: available most days, 50 CAR MINIMUM, price varies by availability and on-screen materials; groups get early access for setup and pre-show.** ⭐ **SUBTRONICS HAS ALREADY PLAYED THIS VENUE** (also Willie Nelson, K.C. and the Sunshine Band), and West Wind runs **car shows with vendors** — the exact format SubGround just ran under a city permit. **Lead with the Subtronics precedent: the ask is not "will you allow a bass show," it is "which Saturday."** ⚠ **Still open, and still gate D-1: real capacity, rental price, and whether the promoter sells tickets or buys the room flat.** |
 | **Venue contract** | Not started. **Contract THEN deposit. No holds without deposit.** |
 | **Permits / licenses** | ⚠ **unknown — Glendale jurisdiction, process unknown.** The Peoria model shows the shape of the work: application, fee (Peoria's was **$600**), owner authorization signed by the property owner, city business license (Peoria's was **$47.95**), and plan approval. **Find Glendale's equivalent of Kelly Madrid and start early. Peoria's approval took from filing 8/10 to approval 8/13 — that was fast and should not be assumed anywhere else.** |
 | **Insurance** | **unknown.** Benchmark: **$477 for $1M/$2M** through **Event Helper, contact Breanna Stanley**, for a 1,300-cap event. **A 2,500-cap event will cost more. Get a real quote.** Certificate must name the venue and the property owner, the way Sept 10's named PRUTHI + M&M + FOCUS. |
@@ -1435,7 +1435,7 @@ Cannot be built without a venue and a permit. The frame, modeled on the Sept 10 
 
 | Item | Amount | Notes |
 |---|---|---|
-| Venue | **unknown — no contact logged** | The gate |
+| Venue | **unknown — West Wind publishes "price varies," no rate quoted yet.** Contact and booking route are in hand: **623-939-9715 / westwinddi.com/events/host-your-event.** | The gate: the rental price, and flat room buy vs promoter sells tickets |
 | Permit + city license | **unknown — Glendale process unknown.** Peoria references: **$600 permit, $47.95 business license.** | |
 | Insurance | **unknown.** Benchmark $477 at 1,300 cap through Event Helper. | Will be higher |
 | Headliner + 3 support | **unknown.** Ceilings from Lehr's 8/4 quote: PIERCE $2,000 · OZZTIN $2,500 · GALLIUM $1,500 verbal / $1,250 signed. Corson reference: **$1,000 per artist flat.** | |
@@ -1459,7 +1459,7 @@ Cannot be built without a venue and a permit. The frame, modeled on the Sept 10 
 
 **Sanity check against the only real data that exists.** SIGNAL 001 realized **$19.30 net per ticket** across 142 Shotgun tickets. At that realized rate, 1,750 tickets = **$33,775**. *That is the conservative version of the same number, built on actual historical performance rather than on a face price nobody has set yet.*
 
-⚠ **THE STRUCTURAL QUESTION THAT OVERRIDES ALL OF THIS: is a drive-in ticket sold per person or per car?** Every number above assumes per person. **If it sells per car, the entire model changes and has to be rebuilt.** **unknown — must be answered by whoever at Glendale 9 finally picks up the phone.**
+⚠ **THE STRUCTURAL QUESTION THAT OVERRIDES ALL OF THIS: is a drive-in ticket sold per person or per car?** Every number above assumes per person. **If it sells per car, the entire model changes and has to be rebuilt.** **unknown — put it to West Wind directly at 623-939-9715. Note that their one published minimum is stated in CARS (50-car minimum), not in people.**
 
 ### CONTENT CAPTURE PLAN — Feb 20
 **This is the aftermovie that sells DREAM FEST 1** (Sept 2027, Pepsi Amphitheater, 3-day camping, 3,000/day). **Content first. Sponsors second. Festival third.** Feb 20 is where "content first" finally cashes out.
@@ -1475,13 +1475,13 @@ Cannot be built without a venue and a permit. The frame, modeled on the Sept 10 
 | **Sponsor-facing b-roll** | **Sponsors second.** This is the first show big enough to sell one, and sponsor decks need footage, not adjectives. |
 
 **Mad Lab Films is the DREAM aftermovie crew and this is the DREAM aftermovie.** **Book them and pay them.** Unbooked, no rate on record.
-Brand: `IfYoKYK`. Never "psytrance." Never "frequency." No purple. **Never claim a headcount that is not real — the footage is the claim.**
+Brand: `IfYoKYK`. Never "psytrance." Never "frequency." **Per-event accent, fixed chassis — the Drive-In's locked accent is TEAL, on the unchanged SubGround chassis.** **Never claim a headcount that is not real — the footage is the claim.**
 
 ### GO/NO-GO GATES — Feb 20
 
 | # | Gate | Must be true by | If it fails |
 |---|---|---|---|
-| **D-1** | **SOMEONE AT GLENDALE 9 DRIVE-IN IS ACTUALLY REACHED.** ⚠ **No contact has ever been logged.** Answers needed: available, rate, capacity, **per-person or per-car ticketing**, power, parking structure, curfew, insurance requirements. | **Fri Oct 2** | **The $100K hinge has no venue.** Everything else on this packet is theoretical until someone picks up. **This is the highest-leverage phone call in the entire plan and it has never been made.** |
+| **D-1** | **WEST WIND GLENDALE 9 HOLDS A SATURDAY.** The contact is in hand — **623-939-9715**, or the form at **westwinddi.com/events/host-your-event.** Answers needed: which Saturday, rate, **real capacity (a drive-in counts CARS, not people)**, **per-person or per-car ticketing**, **whether the promoter sells the tickets or buys the room flat**, how the **50-car minimum** applies to a music event, power, parking structure, curfew, insurance requirements. **Lead with the Subtronics precedent.** | **Fri Oct 2** | **The $100K hinge has no date.** Everything else on this packet is theoretical until a Saturday is held. **This is still the highest-leverage phone call in the entire plan — and now that the number is known, there is no excuse left for not making it.** |
 | **D-2** | **GLENDALE PERMITTING PATH IDENTIFIED** — the Glendale equivalent of Kelly Madrid, the process, the fee, the lead time. | **Fri Oct 16** | An outdoor 2,500-cap event without a permit does not happen. **Peoria approved in 3 days; assuming Glendale matches that is how a show dies.** |
 | **D-3** | **PER-PERSON vs PER-CAR TICKETING ANSWERED.** | **With D-1** | Every revenue number in this packet is wrong until this is answered. |
 | **D-4** | **VENUE CONTRACT SIGNED, DEPOSIT PAID**, funded by Dec/Jan/Feb proceeds. **Contract THEN deposit.** | **Fri Dec 18** *(ESTIMATE: a 2,500-cap show needs a 60-day on-sale, so Feb 20 − 60 = Tue Dec 22, and the contract must precede it)* | No room, no hinge, and the six-month target loses its largest single contributor. |
@@ -1600,8 +1600,10 @@ GO/NO-GO GATES
 - The mark is **`IfYoKYK`**. Never `IYKYK`.
 - Descriptor: **"bass, underground, and frontline electronic music."** **Never "psytrance."**
 - **Banned word: "frequency."**
-- **No purple.** Gold belongs to GOLD RUSH the event, not to SubGround the brand.
-- Palette: ground `#08090B` · panels `#101216` · hairlines `#1E222A` · silver `#A7ABB6` · paper `#EDEFF4`. Type: **Archivo** + **IBM Plex Mono**.
+- **PER-EVENT ACCENT, FIXED CHASSIS.** Every event gets its own accent, curated from that event's artist, date or theme, on a chassis that never changes. **The chassis is the brand. The accent is the event.** One earned accent per event, never a rainbow.
+- **Locked accents for this slate:** Gold Rush **GOLD** · Icehouse **ICE / pale cyan** · Halloween **VIOLET** · Combine × Northern Road **STEEL BLUE** · TH3 N3TW0RK **TERMINAL GREEN** · NYE **CHROME / platinum** · January **COLD SLATE** · February **CRIMSON** · Drive-In **TEAL**.
+- **Purple is banned on GOLD RUSH PRE-PARTY material only** — Gold Rush owns gold. It is allowed on every other event. **Gold is the Gold Rush event brand, not a SubGround house colour** — do not use gold on the other eight.
+- **The chassis — never changes:** ground `#08090B` · panels `#101216` · hairlines `#1E222A` · silver `#A7ABB6` · paper `#EDEFF4`. Type: **Archivo** + **IBM Plex Mono**. Bracket corner marks, hairline rules.
 - **Never publish a venue's exact street address.** Teasers say "Coming Soon"; location drops to ticket holders. **Never publish the tunnel location at all.**
 - **Never publish public content without Ryan's explicit in-session approval.** Staged with Share unclicked is the correct end state.
 - **Never claim a capacity, headcount or stat that is not real.**

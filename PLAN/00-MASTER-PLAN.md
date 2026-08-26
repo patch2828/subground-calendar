@@ -22,14 +22,14 @@ The existing roadmap ladder does not get to $100,000, and pretending otherwise w
 | Dec 31 NYE | **+$8,000 to +$15,000** | VERIFIED as the roadmap's own band, FACTS §8 |
 | **Ladder total, verifiable portion** | **+$19,130 to +$26,130** | 13,630 − 2,500 + 8,000 = 19,130 · 13,630 − 2,500 + 15,000 = 26,130 |
 
-The roadmap carries that ladder at roughly $20k to $45k. The top of that range only works if Nov 6 is being valued around $19,000, and no such number exists anywhere in the fact base. Either way:
+Nov 6 carries no net figure at all, so $26,130 is the ceiling of the verifiable ladder, not a midpoint. The gap comes straight off that number:
 
-> **Against $100,000, the four-rung ladder leaves $55,000 to $80,000 unfound.**
-> ($100,000 − $45,000 = $55,000 · $100,000 − $20,000 = $80,000)
+> **Against $100,000, the four-rung ladder leaves $73,870 to $80,870 unfound.**
+> ($100,000 − $26,130 = $73,870 · $100,000 − $19,130 = $80,870)
 
 **What closes the gap. Four things, in order of size:**
 
-1. **The Drive-In, Sat Feb 20 (Glendale 9 Takeover).** 2,500 cap. In Claude's model it is roughly a third of the whole number by itself. It is also the single weakest link, because **FACTS §8 logs no contact for it.** Finding that contact is the highest-leverage phone call in the window.
+1. **The Drive-In, Sat Feb 20 (West Wind Glendale 9 Takeover).** Modeled at 2,500, but **capacity is UNKNOWN and a drive-in counts CARS, not people.** In Claude's model it is roughly a third of the whole number by itself. **The contact is FOUND (FACTS §8): phone 623-939-9715, booking form at westwinddi.com/events/host-your-event (the form needs a browser, so the phone is the faster rung).** What is still open is the deal shape: real capacity in cars, the published **50-car minimum**, per-car vs per-person ticketing, rental price, and whether SubGround sells tickets or buys the room flat. Calling 623-939-9715 and leading with the Subtronics precedent is the highest-leverage phone call in the window.
 2. **Halloween, Sat Oct 31.** October is currently empty and Halloween lands on a Saturday, which happens about once every six or seven years. It is the largest single swing available right now and the date disappears if it is not claimed.
 3. **Sponsors.** Currently **$0.00.** Not underperforming. Zero. No deck, no conversations, no pipeline. It is the only revenue layer with no capacity ceiling and no cash outlay to start.
 4. **The non-ticket layers generally.** Vendors, merch, sponsors. Pipeline Law 3 says these are profit, never survival, and today they are producing $450 of confirmed money across a six-month plan.
@@ -39,8 +39,8 @@ The roadmap carries that ladder at roughly $20k to $45k. The top of that range o
 - Sept 10 clears breakeven at 575 tickets (44% of 1,300) and produces the cash that funds Icehouse and the Oct 31 deposit. **Pipeline Law 1: every event funds the next event's deposits.**
 - Oct 31 gets booked inside the next 30 days.
 - The Fillmore Warehouse Friday and Saturday rates land, or a second real 1,000-cap room exists by Oct 1.
-- Every ticketed show averages roughly **83% sell-through**, OR every show hits the Law 3 floor of 70% and the non-ticket layers deliver about **$35,000**.
-- The Drive-In gets a contact, a date, and a contract.
+- Every ticketed show averages roughly **89% sell-through**, OR the slate lands at TARGET (~70% average fill, **+$41,317**) and the sponsorship layer delivers the remaining **$58,683**.
+- The Drive-In's four unknowns get answered on the phone (capacity in CARS, per-car vs per-person ticketing, rental price, flat-buy vs promoter-sells), then a date and a contract.
 - The Visa gets unfrozen and stays unfrozen.
 
 That last one is not a footnote. Ryan has **$0 cash and a negative checking account** (FACTS §10). Every single line in this plan is downstream of Sept 10 revenue.
@@ -50,6 +50,8 @@ That last one is not a footnote. Ryan has **$0 cash and a negative checking acco
 ## 2. THE NINE-SHOW SLATE AS A NARRATIVE
 
 The slate is not nine independent shows. It is one chain where each link pays for the next. That is Pipeline Law 1. Read it in order.
+
+**Locked per-event accents (FACTS §1) — one earned accent per event on the fixed SubGround chassis:** 01 Gold Rush **GOLD** (no purple, ever) · 02 Icehouse **ICE / pale cyan** · 03 Halloween **VIOLET** (the date earns it) · 04 Combine × Northern Road **STEEL BLUE** · 05 TH3 N3TW0RK **TERMINAL GREEN** · 06 NYE **CHROME / platinum** · 07 January **COLD SLATE** · 08 February **CRIMSON** · 09 Drive-In **TEAL**.
 
 ### 01 · Thu Sept 10 — GOLD RUSH PRE-PARTY · M&M lot, Peoria · cap 1,300
 **LOCKED · PERMITTED · ON SALE.** TUP TU26-00188 plans approved 8/13, $600 fee paid 8/11. City record: setup 12 to 1 PM, event 1 to 10 PM, hard stop 10 PM.
@@ -72,20 +74,20 @@ Awaiting Sam (sam@openvenues.com), inquiry sent 8/11. **No artist constraint req
 ### 03 · Sat Oct 31 — HALLOWEEN · Fillmore Warehouse (fallback Alchemist's Enclave) · cap 1,000
 **TO BOOK. Highest-value open date of the window.** Clears the Oct 23–25 hard blackout (Ryan is at F33LZ's We Are Love Friend Festival) by six days.
 
-**What it is FOR:** the gap. This is the show that turns a $45k year into an $80k year. Costume nights price higher, sell faster, and forgive a lineup that is still being built. October is currently empty on the slate.
+**What it is FOR:** the gap. This is the show that adds **$5,115 at the Law 3 floor and $13,116 at sellout** (section 3), and it is the only date in October — a Saturday Halloween that does not return until 2037. Any claim bigger than $13,116 has to come from a revised cost envelope or higher pricing, shown as arithmetic. Costume nights price higher, sell faster, and forgive a lineup that is still being built. October is currently empty on the slate.
 
 **What it funds:** Nov 6's artist deposits ($1,000 per artist per the drafted Corson offer skeleton) and the NYE venue deposit, which has to be placed in early November because NYE rooms go early.
 
 **Blocker:** Fillmore's Saturday rate is unknown. The only verified rate is **Thursday $3,500 for 5 hours all-in**, 1,000+ cap, 3 stages, full production included (CDJs, sound, projectors, lasers). Terms are hard: **no holds without deposit, contract then deposit, doors time counts and load-in does not,** and a new-promoter deposit may be 100% up front (Synesthesia will try for 50% hold plus 50% before doors).
 
 ### 04 · Fri Nov 6 — COMBINE × NORTHERN ROAD, presented by SubGround · cap 1,000
-**Date locked in writing with Dallas Provencio, Corson Agency. The date is NOT flexible.** Venue pending. Walter is OUT (Ryan Tucknott, 8/22: both venues fully booked).
+Date locked in writing with Dallas Provencio, Corson Agency (Ryan 8/21: "11/6 is locked on our side"). **Dallas is date-flexible if the room forces a move** — his words: "We don't have to route this with anything." Unavailable: 9/18, 10/2, 10/10, 11/7. Venue pending. Walter is OUT — reply from ryan@walterproductions.com, 8/23: "Friday, November 6th is fully booked at both venues." (Surname not logged in `FACTS.md`; Ryan to confirm before it goes in any doc.)
 
 **What it is FOR:** credibility. This is the first co-headline booked through an agency, and it is the show that makes SubGround a promoter other agents return calls to. It also sits the night before **Whethan at The Van Buren, Sat Nov 7** (0 miles, Relentless Beats, 18+). The out-of-town bass crowd is already in town and already spending.
 
 **What it funds:** the Dec 12 room and the NYE talent.
 
-**Formal offer is DRAFTED and fires the moment the Friday rate lands:** $1,000 per artist flat, purchaser covers hotel/ground/rider, tickets $25 advance scaling to $30, afters same room same night.
+**The formal offer does not have to wait on the venue rate — and it is five days overdue.** It is already written and sitting as Gmail draft `r-4007247225354787196` in thread `1a008707d7b362d2`; it can go now with the cap named and the venue line held. Terms: $1,000 per artist flat, purchaser covers hotel/ground/rider (the agency's written ask was "$1,000 each **+ HGR**" and Ryan accepted it), tickets $25 advance scaling to $30, afters same room same night. **Dallas asked what the cap size is — the formal must name it.**
 
 ### 05 · Sat Dec 12 — TH3 N3TW0RK NIGHT (roster showcase) · 600-cap room · TO BOOK
 **What it is FOR:** the cheapest show on the slate and the one with the highest margin per dollar risked. No outside talent fee. 22 artists on the roster, all of whom bring people. It also gives the broadcast channel and the SMS list a reason to exist in December.
@@ -111,14 +113,16 @@ Awaiting Sam (sam@openvenues.com), inquiry sent 8/11. **No artist constraint req
 
 **What it funds:** the Drive-In's final balance, one week out.
 
-### 09 · Sat Feb 20 — DRIVE-IN, GLENDALE 9 TAKEOVER · cap 2,500 · TO BOOK
-**The $100K hinge.** Two stages. The outdoor window in Phoenix February is wide open, entirely clear of monsoon, and it lands after four ticketed shows of track record so the room can actually be filled.
+### 09 · Sat Feb 20 — DRIVE-IN, WEST WIND GLENDALE 9 TAKEOVER · **cap 2,500 ASSUMED — capacity UNKNOWN, measured in CARS** · TO BOOK
+**The $100K hinge.** Two stages. The outdoor window in Phoenix February is wide open, entirely clear of monsoon, and it lands after **seven** ticketed shows of track record (01, 03, 04, 05, 06, 07, 08 — 02 Icehouse is free) so the room can actually be filled.
 
 **What it is FOR:** it is the whole point of the other eight. Everything before it is capacity-building so this one can be filled and priced.
 
 **What it funds:** it is the last show in the window, so it funds spring 2027 and feeds the DREAM ladder (DREAM FEST 1, Sept 2027, Pepsi Amphitheater, 3,000/day) and ON THE ROCKS.
 
-**The problem:** **FACTS §8 logs no contact for Glendale 9.** Not a name, not a phone, not an email. In Claude's model this show is roughly a third of the target. A third of the plan currently rests on a venue nobody has spoken to. **Fixing that is the single most important non-Sept-10 task in the next 90 days.**
+**The problem is no longer the contact.** FACTS §8 logs **West Wind Glendale 9 Drive-In, phone 623-939-9715, booking form at westwinddi.com/events/host-your-event** (the form needs a browser, so the phone is the faster rung). It is part of the West Wind chain, so there is a corporate events process, not a favor ask. **Lead the pitch with the precedent: SUBTRONICS has already played this venue**, noted explicitly for EDM fans, and they host car shows with vendors — the exact format SubGround just ran under a city permit. The ask is not "will you allow this," it is "you have already done this."
+
+**What is actually open, per FACTS §8:** capacity is **UNKNOWN and measured in CARS** (this model simply assumed 2,500 people), there is a published **50-car minimum**, **per-car vs per-person ticketing is unknown**, the **rental price is unknown**, and **whether SubGround sells tickets or buys the room flat is unknown.** Nine screens, and concessions sell beer, margaritas and canned cocktails **21+** — unlike the no-alcohol M&M lot, which changes the security and medical math. **Getting those four answers is the single most important non-Sept-10 task in the next 90 days.** The street address stays out of every public-facing piece.
 
 ### The recurring layer underneath
 **LIGHT HOUSE THURSDAYS** (Fairytail × SubGround), monthly from October, ~100 to 150 cap kava bar. Cheap, fast, low-risk. It exists to feed the SMS list and pay small. It is not a profit center and should not be modeled as one. FACTS §8 notes it was originally framed as a ~$2,100 Icehouse capital raiser and needs a venue contact, a Thursday, a lineup, and cameras.
@@ -141,7 +145,7 @@ Awaiting Sam (sam@openvenues.com), inquiry sent 8/11. **No artist constraint req
 - **A2 (Ryan's Law 3):** budget to break even on tickets alone at 70% sold. The 70% column below is the floor case.
 - **A3 (VERIFIED as drafted, FACTS §8):** ticket pricing follows the Nov 6 offer skeleton already written, $25 advance scaling to $30. NYE is modeled at $40/$50 because double pricing is normal on NYE.
 - **A4 (ESTIMATE):** cost envelopes for the six TO BOOK shows. **These are Claude's numbers and no venue has quoted them.** They are anchored to the one verified Fillmore rate ($3,500 Thursday all-in), the one verified talent rate ($1,000/artist in the drafted Corson offer), the one verified security rate (Blade $500 for 3 guards), and the verified ad economics ($0.163/click).
-- **A5:** merch is modeled at **$0** because no sell-through data exists. See section 4.
+- **A5:** merch is modeled at **$0 for shows 03–09** because no sell-through data exists. **The one exception is row 01's sellout figure, which is FACTS §7's verified $13,630 and includes $290 of merch inside the $23,409 revenue line.** See section 4.
 
 ### Per-show ESTIMATE
 
@@ -155,27 +159,38 @@ Awaiting Sam (sam@openvenues.com), inquiry sent 8/11. **No artist constraint req
 | 06 | Dec 31 NYE | 1,000 | $40 / $50 | $35.56 / $44.45 | $15,000 EST | **$13,004** | **$26,339** |
 | 07 | Jan 23 Headline | 1,000 | $25 / $30 | $22.23 / $26.67 | $12,000 EST | **$5,115** | **$13,116** |
 | 08 | Feb 13 Headline | 1,000 | $25 / $30 | $22.23 / $26.67 | $12,000 EST | **$5,115** | **$13,116** |
-| 09 | Feb 20 Drive-In | 2,500 | $30 / $40 | $26.67 / $35.56 | $30,000 EST | **$24,451** | **$51,121** |
-| | **TOTAL** | | | | | **$65,223** | **$148,458** |
+| 09 | Feb 20 Drive-In | **2,500 ASSUMED — capacity UNKNOWN** † | $30 / $40 | $26.67 / $35.56 | $30,000 EST | **$24,451** | **$51,121** |
+| | **TOTAL** ‡ | | | | | **$65,223** | **$148,458** |
+
+† **Row 09 capacity.** A drive-in's capacity is measured in **CARS, not people.** **50-car minimum published.** Per-car vs per-person ticketing unknown. Whether SubGround sells tickets or buys the room flat is unknown. Per FACTS §8, **do not trust this row's P&L until those four answers land.** The venue also sells beer, margaritas and canned cocktails **21+**, unlike the no-alcohol M&M site, which changes the security and medical math.
+
+‡ **These two totals are the coarse envelope pass and they are SUPERSEDED.** `04-MONEY` rebuilds every show off line-item costs instead of one flat envelope, and its numbers are canonical. **CONSERVATIVE −$53,751 · TARGET +$41,317 (~70% average fill) · SELLOUT +$136,250.** Where this table and `04-MONEY` disagree, `04-MONEY` wins. The per-show rows below are kept because the arithmetic is checkable, not because the totals are the answer.
 
 **Arithmetic, shown so it can be checked:**
 
 - **Sept 10 @ 70%** = 910 tickets. 100 EB × $13.33 = $1,333. 810 GA × $17.78 = $14,402. Tickets $15,735 + vendors $450 = $16,185. Minus verified costs $9,779 = **$6,406.**
-- **Oct 31 @ 70%** = 700 tickets, modeled 350 advance / 350 door. 350 × $22.23 = $7,781. 350 × $26.67 = $9,335. Tickets $17,115 − $12,000 = **$5,115.** At 100%: 350 × $22.23 + 650 × $26.67 = $25,116 − $12,000 = **$13,116.**
+- **Oct 31 @ 70%** = 700 tickets, modeled 350 advance / 350 door. 350 × $22.23 = $7,780.50. 350 × $26.67 = $9,334.50. Tickets $17,115 − $12,000 = **$5,115.** At 100%: 350 × $22.23 + 650 × $26.67 = $25,116 − $12,000 = **$13,116.**
 - **Dec 12 @ 70%** = 420 tickets, 210/210. 210 × $17.78 = $3,734. 210 × $22.23 = $4,668. Tickets $8,402 − $5,000 = **$3,402.**
 - **NYE @ 70%** = 700 tickets, 350/350. 350 × $35.56 = $12,446. 350 × $44.45 = $15,558. Tickets $28,004 − $15,000 = **$13,004.** *Cross-check: the roadmap carries NYE at $8k to $15k, and this model lands inside that band at the Law 3 floor. The two numbers agree.*
 - **Drive-In @ 70%** = 1,750 tickets, 875/875. 875 × $26.67 = $23,336. 875 × $35.56 = $31,115. Tickets $54,451 − $30,000 = **$24,451.**
 
-**The $12,000 envelope for a 1,000-cap indoor show breaks down as (all ESTIMATE):** venue $3,500 (the verified Fillmore Thursday all-in rate, used as a stand-in because **the Friday and Saturday rates are unknown**), talent $3,000 (3 artists at the drafted $1,000 flat), security $500 (Blade's verified 3-guard rate), ads $3,000 (about 16 days inside the verified $0.163/click economics), contingency $2,000. **Medical is NOT in this number** because the EMT Elite quote figure has never been seen by anyone but Ryan.
+**The $12,000 envelope for a 1,000-cap indoor show breaks down as (all ESTIMATE):** venue $3,500 (the verified Fillmore Thursday all-in rate, used as a stand-in because **the Friday and Saturday rates are unknown**), talent $3,000 (3 artists at the drafted $1,000 flat), **hotel / ground / rider $800 EST**, security $500 (Blade's verified 3-guard rate), ads $3,000 (about 16 days inside the verified $0.163/click economics), contingency **$1,200**. That foots: 3,500 + 3,000 + 800 + 500 + 3,000 + 1,200 = **$12,000.**
+
+**Why HGR is now a line and what it displaced.** FACTS §8 records the agency's written terms as "$1,000 each **+ HGR**" — two artists = $2,000 talent **plus hotel, ground and rider** — and Ryan already accepted that figure, so HGR is an obligation, not an option. The $800 EST is anchored to the one real datapoint in the fact base: **GALLIUM's deal is $1,250 + one hotel room night-of + ground + hospitality, no air.** Contingency was trimmed $2,000 → $1,200 to hold the envelope at $12,000. **If Ryan would rather keep the full $2,000 contingency, the Nov 6 envelope rises to $12,800** and that show's net drops by $800 in both columns.
+
+**Medical is NOT in this number** because the EMT Elite quote figure has **never been seen by Claude** — it sits unopened in `SubGround Collective Price Qt.pdf`. Ryan opens it and the envelope gets rebuilt with the real figure.
 
 ### What the model says
 
-> **$100,000 sits at roughly 83% average sell-through across all nine shows.**
-> ($100,000 − $65,223) ÷ ($148,458 − $65,223) = $34,777 ÷ $83,235 = 41.8% of the way from the 70% floor to sellout. 70% + (0.418 × 30) = **~82.5%.**
+> **The canonical Phase 1 six-month figures, from `04-MONEY`'s line-item per-show costs: CONSERVATIVE −$53,751 · TARGET +$41,317 (~70% average fill) · SELLOUT +$136,250.**
 
-> **Or: every show at the Law 3 floor of 70%, plus about $35,000 from vendors, merch and sponsors.**
+> **CONSERVATIVE is not a soft year, it is the end of the business.** Every single show on the slate loses money in that case. There is no version of it that survives.
 
-Three shows carry 61% of the whole number at sellout: **Oct 31 ($13,116) + NYE ($26,339) + Drive-In ($51,121) = $90,576 of $148,458.** Sept 10, the show consuming every waking hour right now, is 9% of the total. Sept 10 matters because it is the bankroll, not because it is the number.
+> **$100,000 sits at roughly 89% average sell-through across all nine shows.**
+
+> **Or: TARGET sell-through plus about $58,683 of sponsorship** ($100,000 − $41,317). That layer is at **$0 booked and $0 pitched** today.
+
+Three shows carry 65% of the whole number at sellout: **Oct 31 ($13,292) + NYE ($25,900) + Drive-In ($49,987) = $89,179 of $136,250** (canonical, `04-MONEY`). Sept 10, the show consuming every waking hour right now, is 7% of the total. Sept 10 matters because it is the bankroll, not because it is the number.
 
 ---
 
@@ -198,7 +213,7 @@ Fully instrumented and the only thing currently working. The constraints are kno
 - **12 promo codes are live at 25% off and all sit at 0 redemptions.** Artist codes that nobody uses are not marketing.
 
 ### Layer 2 — Vendors
-$450 is real money and it is 100% margin, but it is not a strategy at this scale. It matters most as Law 4 in action: **today's $150 vendors are DREAM's department heads.** 0FD, Valley Freeze and greenphoenixfarm420 at $150 each in September are the people who take a $2,000 activation at Pepsi Amphitheater in 2027.
+$450 is real money and it is 100% margin, but it is not a strategy at this scale. It matters most as Law 4 in action: **today's $150 vendors are DREAM's department heads.** 0FD, Valley Freeze and greenphoenixfarm420 at $150 each in September are the people who take a **$2,000-scale activation (ESTIMATE — Claude's illustration; no DREAM FEST vendor pricing exists anywhere in the fact base)** at Pepsi Amphitheater in 2027.
 
 Two live vendor notes:
 - **greenphoenixfarm420 is SALES ONLY, NO ON-SITE CONSUMPTION.** AZ has no legal public cannabis consumption and no licensed lounges. Legal without a license: glass, rigs, pipes, papers, accessories, hemp/CBD under 0.3% THC. The upside of that constraint: **no 21+ fenced enclosure needed, which saves $200 to $400 of barricade** and makes wristbands optional.
@@ -207,7 +222,7 @@ Two live vendor notes:
 ### Layer 3 — Merch
 **This is a named, quantified revenue leak.** FACTS §7 states it directly: merch is inventory-capped at ~$440 of sellable stock, and at 1,200 people that sells out in an hour. **Reorder by Sept 1 if tickets move.**
 
-There is no per-head merch number for SubGround because Sept 10 is the first booth. **This plan therefore models merch at $0 and treats every dollar it produces as upside.** Sept 10's real job on this layer is to produce the first honest per-head figure, which then replaces the $0 in every subsequent show.
+There is no per-head merch number for SubGround because Sept 10 is the first booth. **This plan therefore models merch at $0 for shows 03–09 and treats every dollar it produces as upside.** The one exception is row 01's sellout figure: FACTS §7's verified $13,630 already carries **$290 of merch** inside its $23,409 revenue line, so that single cell is tickets + vendors + merch while its 70% neighbor is tickets + vendors only. Sept 10's real job on this layer is to produce the first honest per-head figure, which then replaces the $0 in every subsequent show.
 
 Booth is built and ready: Square Tap to Pay on the Pixel 10 Pro XL (2.6% + 15c, no reader needed, next-business-day funding), Venmo business QR and Cash App QR taped to the table front at zero fee, cash box with $60 in small bills, Square set to tax-included at Peoria's 8.1% for line speed, 8ft × 8ft matte vinyl backdrop with sandbags because an 8x8 vinyl is a sail outdoors.
 
@@ -237,7 +252,7 @@ Booth is built and ready: Square Tap to Pay on the Pixel 10 Pro XL (2.6% + 15c, 
 | Stage / area partner | $1,500 | Named stage or area, logo on all art, content package from the Icehouse shoot |
 | Presenting partner | $5,000 | Across 3 shows, named on the event, full content and SMS integration |
 
-**To reach the $35,000 the model needs from non-ticket layers, that is about 7 presenting partners or 23 stage partners across six months.** That is the honest size of the ask, written down so nobody pretends it is small.
+**To reach the $58,683 the model needs from the sponsorship layer, that is about 12 presenting partners or 39 stage partners across six months.** That is the honest size of the ask, written down so nobody pretends it is small.
 
 **The Icehouse shoot exists to make this sellable.** Free event, ten artists, projection-mapped walls, RAW in 48 hours, curated edit over two weeks. That footage is the sponsor deck. That is why Icehouse is a cost line and not a loss.
 
@@ -246,28 +261,29 @@ Booth is built and ready: Square Tap to Pay on the Pixel 10 Pro XL (2.6% + 15c, 
 ## 5. CRITICAL PATH
 
 ### NEXT 14 DAYS · Aug 26 → Sept 9
-Ordered. Item 1 unblocks items 2, 3 and 4 simultaneously.
+Ordered. Item 1 unblocks items 3, 4 and 5 simultaneously. Item 2 is the most overdue thing in the entire fact base and needs nothing but a click.
 
 | # | Action | Owner | Unblocks |
 |---|---|---|---|
 | 1 | **Unfreeze Visa ••2245.** Call the number on the back (the automated line reads available credit from the card number alone, no login needed). Then register an authorized-user online login | **Ryan** | EMT deposit, Blade, porta potties, AND the Instagram ads. All four decline while it is frozen |
-| 2 | **Pay Blade's first $250** (was due Wed 8/27). Cash App $BladesBodyGuardLLC or Zelle @bladesbodyguardllc. Invoice: my.invoice-maker.app/share/show/096C928D-72E0-4237-B77C-0DD5EF9ADAAD | **Ryan** | Locks 3 guards, 2 PM to 10 PM, Sept 10 |
-| 3 | **Get Blade's written confirmation that all 3 guards hold current AZ unarmed guard licenses.** He dodged this on 8/6 | Ryan | Legal exposure. Paper alternative exists: Access Control Security, Mat Tecson, (714) 747-2201, 3 unarmed guards 1 to 11 PM at $38/hr/guard = $1,140 |
-| 4 | **Open `SubGround Collective Price Qt.pdf` and read the EMT Elite number.** Nobody but Ryan has seen it. Then pay the deposit (written terms said 20%, Monique offered 50/50 on the call) | **Ryan** | Locks the date with medical. Also ask her the **5-hour minimum vs the 8-hour window** question, it is worth money |
-| 5 | **Look at the ad account daily cap.** Account 960559416871193 billed $2,146.08 Aug 6 to 26, daily rate climbed $76 → $127 → $172 → $211 → **$251/day** on 8/25 and 8/26. Last 6 days alone = $1,147.85 | **Ryan clicks. Claude never touches on/off** | ~143 tickets at $15 just to cover recent spend. But **never judge by daily burn without dividing by clicks**: $0.163/click is efficient and break-even is 0.92% |
-| 6 | **Phone Andrew Lehr at (814) 602-5613.** Do not send a fourth email. Three are unanswered (8/25 7:44a, 8/25 11:38a, 8/26 11:42a, thread 1a0396140ff38fba), last reply was 8/6. He prefers the phone | Ryan | Countersigned #10786, GALLIUM tech/hospitality rider, advance sheet, PHX routing. **GALLIUM is signed and the deposit is paid, so the show is not at risk. The paperwork is** |
-| 7 | **Strike the 6-pack of Coors Banquet from GALLIUM's hospitality rider or swap it for a meal buyout.** The TUP site is NO ALCOHOL | Ryan | A permit violation on the day |
-| 8 | **Get Proper Site Services' written quote.** (602) 612-8821, no public email, phone or web form only. Counter-reply is already drafted and waiting | Ryan | Verbal guesstimate is $2,250, terms 50% up front / 50% day-of. Market range is $1,500 to $2,700 so it is negotiable. Trim levers: handwashing 2 → 1 (−$110), barricade 400ft → 50ft stage-front only (−$285), **target ~$1,855, deposit ~$928.** September books out, reserve early. **At least 1 ADA unit is required** and inspectors check |
-| 9 | **Give Finson Lee a number.** He asked the budget question July 24 and it has sat a month | **Ryan** | Lasers + projection mapping + GrandMA3. He ran mainstage lasers for Marshmello. This is a top-tier get, not a favor ask |
-| 10 | **Solve the DMX board.** Lee has a 12W plus two small lasers but **no board.** Face Melters (Joshua, @facemelterstudio) nudged twice 8/26 and has not replied. TIFF (Discord @creatifgamefrench) reached 8/26 11:52 AM | Ryan | Open production gap on Sept 10 |
-| 11 | **Klarity Audio: pay before the show at $1,400, or day-of at $1,500.** Jonathan texted the offer 8/26 ~11:10 AM | Ryan | $100. Also note **Cisco is OUT as of 8/26, his rig is gone** |
-| 12 | **Collect the three vendor payments, $150 each, due Sept 3** (layout lock with Peoria). 0FD has 2 unread IG DMs sitting since ~11:25 AM 8/26. greenphoenixfarm420 never answered "you in?" | Ryan | $450 and the site-plan lock |
-| 13 | **Reorder merch by Sept 1 if tickets are moving.** Stock is capped at ~$440 sellable | **Ryan** | The named, quantified revenue leak. 1,200 people clears $440 in an hour |
-| 14 | **Load the Shotgun public page as a buyer and confirm the hero renders.** Never leave a video in the 16:9 trailer slot unless verified playing | Ryan | This one bug took Gold Rush to 0.04% conversion on 5,482 visits |
-| 15 | **Export the 113 SMS contacts** (Shotgun Smartboard, Marketing, Contacts, Export CSV top-right) and send the first compliant blast. Consent required, existing relationships only, opt-out line always | Ryan sends | The biggest unused asset in the business. Roughly half are SIGNAL 001 buyers. Sole-prop throughput ~1,000 segments/day, so 113 fits one send |
-| 16 | **Ask Synesthesia (@synmusicaz) for the Friday rate AND the Saturday Oct 31 rate in one message.** The Friday ask has been out since 8/24 | Ryan | Both Oct 31 and Nov 6. One message, two dates |
-| 17 | **Print the TUP approval letter** at devservices.peoriaaz.gov (Accela) and follow its conditions | Ryan | The last open permit item. **Stop chasing the permit otherwise, it is approved.** Kelly Madrid, 623-773-7312, Peoria Planning is CLOSED FRIDAYS |
-| 18 | **Clean the Sept 10 calendar.** Delete the junk FROM-GMAIL event at 2 to 3 AM, collapse the TENTATIVE `3nu7n9ctflt7gnq0g8o8dmh4cg`, pull the retired Fillmore Afters `hjoa98v5lac07lhaiuige2anj4` | Ryan | Three events on one day is how a load-in time gets missed |
+| 2 | **Send the Corson formal offer.** It is **five days overdue** — promised "within 48 hours" on 8/21 21:10 and never sent. **Dallas chased twice: 8/24 18:51 and 8/26 19:03.** The offer is already written and sits as Gmail draft `r-4007247225354787196` in thread `1a008707d7b362d2`. **Ryan clicks Send.** **Dallas asked what the cap size is — the formal must name it.** It is NOT gated on the Fillmore Friday rate; hold the venue line and send | **Ryan** | Nov 6. The only agency relationship in the plan, and the only item here that costs nothing and takes one click |
+| 3 | **Pay Blade's first $250** (due tomorrow, **Thu 8/27**). Cash App $BladesBodyGuardLLC or Zelle @bladesbodyguardllc. Invoice: my.invoice-maker.app/share/show/096C928D-72E0-4237-B77C-0DD5EF9ADAAD | **Ryan** | Locks 3 guards, 2 PM to 10 PM, Sept 10 |
+| 4 | **Get Blade's written confirmation that all 3 guards hold current AZ unarmed guard licenses.** He dodged this on 8/6 | Ryan | Legal exposure. Paper alternative exists: Access Control Security, Mat Tecson, (714) 747-2201, 3 unarmed guards 1 to 11 PM at $38/hr/guard = $1,140 |
+| 5 | **Open `SubGround Collective Price Qt.pdf` and read the EMT Elite number.** **Claude has never seen it** — it sits unopened, and the $12,000 envelope in section 3 carries no medical line until it is read. Then pay the deposit (written terms said 20%, Monique offered 50/50 on the call) | **Ryan** | Locks the date with medical. Also ask her the **5-hour minimum vs the 8-hour window** question, it is worth money |
+| 6 | **Look at the ad account daily cap.** Account 960559416871193 billed $2,146.08 Aug 6 to 26, daily rate climbed $76 → $127 → $172 → $211 → **$251/day** on 8/25 and 8/26. Last 6 days alone = $1,147.85 | **Ryan clicks. Claude never touches on/off** | ~143 tickets at $15 just to cover recent spend. But **never judge by daily burn without dividing by clicks**: $0.163/click is efficient and break-even is 0.92% |
+| 7 | **Phone Andrew Lehr at (814) 602-5613.** Do not send a fourth email. Three are unanswered (8/25 7:44a, 8/25 11:38a, 8/26 11:42a, thread 1a0396140ff38fba), last reply was 8/6. He prefers the phone | Ryan | Countersigned #10786, GALLIUM tech/hospitality rider, advance sheet, PHX routing. **GALLIUM is signed and the deposit is paid, so the show is not at risk. The paperwork is** |
+| 8 | **Strike the 6-pack of Coors Banquet from GALLIUM's hospitality rider or swap it for a meal buyout.** The TUP site is NO ALCOHOL | Ryan | A permit violation on the day |
+| 9 | **Get Proper Site Services' written quote.** (602) 612-8821, no public email, phone or web form only. Counter-reply is already drafted and waiting | Ryan | Verbal guesstimate is $2,250, terms 50% up front / 50% day-of. Market range is $1,500 to $2,700 so it is negotiable. Trim levers: handwashing 2 → 1 (−$110), barricade 400ft → 50ft stage-front only (−$285), **target ~$1,855, deposit ~$928.** September books out, reserve early. **At least 1 ADA unit is required** and inspectors check |
+| 10 | **Give Finson Lee a number.** He asked the budget question July 24 and it has sat a month | **Ryan** | Lasers + projection mapping + GrandMA3. He ran mainstage lasers for Marshmello. This is a top-tier get, not a favor ask |
+| 11 | **Solve the DMX board.** Lee has a 12W plus two small lasers but **no board.** Face Melters (Joshua, @facemelterstudio) nudged twice 8/26 and has not replied. TIFF (Discord @creatifgamefrench) reached 8/26 11:52 AM | Ryan | Open production gap on Sept 10 |
+| 12 | **Klarity Audio: pay before the show at $1,400, or day-of at $1,500.** Jonathan texted the offer 8/26 ~11:10 AM | Ryan | $100. Also note **Cisco is OUT as of 8/26, his rig is gone** |
+| 13 | **Collect the three vendor payments, $150 each, due Sept 3** (layout lock with Peoria). 0FD has 2 unread IG DMs sitting since ~11:25 AM 8/26. greenphoenixfarm420 never answered "you in?" | Ryan | $450 and the site-plan lock |
+| 14 | **Reorder merch by Sept 1 if tickets are moving.** Stock is capped at ~$440 sellable | **Ryan** | The named, quantified revenue leak. 1,200 people clears $440 in an hour |
+| 15 | **Load the Shotgun public page as a buyer and confirm the hero renders.** Never leave a video in the 16:9 trailer slot unless verified playing | Ryan | This one bug took Gold Rush to 0.04% conversion on 5,482 visits |
+| 16 | **Export the 113 SMS contacts** (Shotgun Smartboard, Marketing, Contacts, Export CSV top-right) and send the first compliant blast. Consent required, existing relationships only, opt-out line always | Ryan sends | The biggest unused asset in the business. Roughly half are SIGNAL 001 buyers. Sole-prop throughput ~1,000 segments/day, so 113 fits one send |
+| 17 | **Ask Synesthesia (@synmusicaz) for the Friday rate AND the Saturday Oct 31 rate in one message.** The Friday ask has been out since 8/24 | Ryan | Both Oct 31 and Nov 6. One message, two dates |
+| 18 | **Print the TUP approval letter** at devservices.peoriaaz.gov (Accela) and follow its conditions | Ryan | The last open permit item. **Stop chasing the permit otherwise, it is approved.** Kelly Madrid, 623-773-7312, Peoria Planning is CLOSED FRIDAYS |
+| 19 | **Clean the Sept 10 calendar.** Delete the junk FROM-GMAIL event at 2 to 3 AM, collapse the TENTATIVE `3nu7n9ctflt7gnq0g8o8dmh4cg`, pull the retired Fillmore Afters `hjoa98v5lac07lhaiuige2anj4` | Ryan | Three events on one day is how a load-in time gets missed |
 
 ### NEXT 30 DAYS · Sept 10 → Sept 25
 
@@ -278,7 +294,7 @@ Ordered. Item 1 unblocks items 2, 3 and 4 simultaneously.
 5. **Sam answers on Icehouse, Sept 18 or 19.** Take whichever he offers. Sept 10 proceeds pay the $2,000 room fee. Nothing gets signed or promised before Sept 10 without Ryan's OK.
 6. **Shoot Icehouse. RAW within 48 hours, curated edit over 2 weeks.** That footage becomes the sponsor deck.
 7. **Book Oct 31.** Contract, then deposit, in that order. No holds without deposit. Ryan places the deposit out of Sept 10 money. **This is Pipeline Law 1 executing in real time.**
-8. **Fire the Nov 6 formal offer** the moment the Friday rate lands. It is already drafted.
+8. **Chase the countersign on the Nov 6 formal offer.** The offer itself went out in the 14-day list (item 2) — it was never gated on the Friday rate. When the rate lands, confirm the venue line and the cap already named in the offer.
 9. **Build the sponsor deck** off Sept 10 photos and Icehouse footage. Set the price ladder. Make the first three calls.
 10. **Open Ben Bethel's SGC risk doc** `1x80WLT0f_xnbbBf1C9nodT3Onm9N6r1u8_258YUkwqQ`. It has never been opened. Surface it before more vendor spend locks.
 11. **Melio free trial expires ~9/24/26.** Keep or drop. It is the card-to-ACH rail at 2.9% for vendors who will not take cards.
@@ -291,11 +307,11 @@ Ordered. Item 1 unblocks items 2, 3 and 4 simultaneously.
 1. **Execute Oct 31.** The largest single swing in the window.
 2. **Respect the Oct 23 to 25 hard blackout.** No bookings, no tour routing, nothing.
 3. **Execute Nov 6.** Decide on the Whethan / Van Buren Nov 7 cross-promo or afters play. It is 0 miles and the strongest radar match ever produced. Ryan's call, no pitch built.
-4. **Find a Glendale 9 contact for the Drive-In.** No contact is logged. This is a third of the plan. If no contact exists by Nov 24, replace that line in the model with a second Halloween-scale room and re-cut the number honestly.
+4. **Call West Wind Glendale 9 at 623-939-9715 and lead with the Subtronics precedent.** The contact is logged; the deal shape is not. Get four answers: real capacity in **CARS**, per-car vs per-person ticketing, rental price, and whether SubGround sells tickets or buys the room flat. Backup route is the form at westwinddi.com/events/host-your-event (needs a browser). This is a third of the plan. If those four answers are not in hand by Nov 24, replace that line in the model with a second Halloween-scale room and re-cut the number honestly.
 5. **Lock the NYE venue by early November.** NYE rooms go early. Send the drafted Walter reply aiming them at December/NYE. Walter running ticketing, box office and security full-service changes the cost structure and should be priced that way.
 6. **Book Dec 12** (600-cap room, roster showcase).
 7. **Start Light House Thursdays in October.** Needs a venue contact, a Thursday, a lineup and cameras.
-8. **Close the first paid sponsor.** If sponsors are still at $0 on Nov 24, the $100,000 target is not reachable and the plan needs to be re-cut around 83% sell-through instead.
+8. **Close the first paid sponsor.** If sponsors are still at $0 on Nov 24, the $100,000 target is not reachable and the plan needs to be re-cut around 89% sell-through instead.
 9. **Josh (Auxlee, Funky Forest) answers on Prescott, or the slot dies.** Stop holding space for it after that.
 10. **Grow the SMS list at every door.** 113 contacts today. Every show should add. This is the asset that makes January and February cheap to sell.
 11. **Bring Monique Gunn into every SubGround, SAFE HOUSE and SIGNAL conversation.** She has enough staff to cover the Pepsi Amphitheater 3-day camping festival. She is a scale partner, not a one-off, and DREAM FEST 1 is at that exact venue.
@@ -312,15 +328,15 @@ Ordered. Item 1 unblocks items 2, 3 and 4 simultaneously.
 | 4 | **Agent gone dark** | Andrew Lehr, AB Touring. Three emails unanswered (8/25 7:44a, 8/25 11:38a, 8/26 11:42a). Last reply 8/6. Owes countersigned #10786, rider, advance sheet, PHX routing | **The next rung is the PHONE, (814) 602-5613, not a fourth email.** He prefers it and answers fast then goes dark. **Scope the panic correctly: GALLIUM IS SIGNED and the $625 deposit is PAID. The show is not at risk. The advance paperwork is** | Ryan |
 | 5 | **Single-venue dependency on Fillmore** | Fillmore Warehouse is plan A for **two of nine shows** (Oct 31 and Nov 6). Friday rate pending since 8/24. Saturday rate never asked. Terms are hard: no holds without deposit, contract then deposit, doors time counts and load-in does not, new-promoter deposit possibly 100% up front | Ask both rates in one message. **Build a second real 1,000-cap room by Oct 1.** Current fallback is Alchemist's Enclave, which is a relationship and not the 11/6 room. Walter is out for Nov 6 but is being aimed at December | Ryan |
 | 6 | **Icehouse funding gate** | $2,000 room fee is NOT in hand. Sept 10 proceeds fund it. If Sept 10 underperforms, Icehouse does not happen | **Never sign, commit or promise pre-Sept-10 without Ryan's OK.** The saving grace: Icehouse is content, not revenue, so it can slip a month without touching the $100,000. What slips with it is the sponsor deck, which is the real cost | Ryan |
-| 7 | **The Drive-In has no contact** | FACTS §8 logs Glendale 9 with no name, no phone, no email. In the model it is $24,451 at 70% and $51,121 at sellout, roughly a third of the target | Find and log a contact inside 90 days. If none exists by Nov 24, **re-cut the model** and replace it with a second indoor headline rather than carrying a number nobody can call | Ryan |
+| 7 | **The Drive-In's capacity and deal shape are unknown** | **The contact is FOUND** (FACTS §8): West Wind Glendale 9, **623-939-9715**, form at westwinddi.com/events/host-your-event. What is unknown is bigger than a phone number: **capacity is UNKNOWN and measured in CARS** while the model assumed 2,500 people, there is a published **50-car minimum**, per-car vs per-person ticketing is unknown, rental price is unknown, and whether SubGround sells tickets or buys the room flat is unknown. On those assumptions the row carries $24,451 at 70% and $51,121 at sellout, roughly a third of the target. The site also sells alcohol **21+**, unlike the M&M lot, which changes the security and medical math | **Call 623-939-9715 and lead with the Subtronics precedent** — they have already hosted both EDM and car-shows-with-vendors. Per FACTS §8, **do not trust this row's P&L until all four answers land.** If they are not in hand by Nov 24, **re-cut the model** and replace it with a second indoor headline | Ryan |
 | 8 | **Shotgun hero render bug** | 5,482 visits → 2 sales = 0.04%, because a broken file in the Video trailer (16:9) slot rendered a black rectangle instead of the cover image | Load the public page as a buyer and confirm the hero renders before every promo push. Never leave a video in the trailer slot unless verified playing | Ryan / whoever pushes promo |
 | 9 | **Top-of-funnel is tiny** | Shotgun followers = **9**. Organic story reach is ~80 views on 1,276 followers. 12 promo codes live at 25% off, all at **0 redemptions** | The 113-contact SMS list on an approved A2P number, and the 450 SIGNAL 001 attendees who are **100% first-time buyers with zero repeat purchases.** Boosting is what actually drives traction today | Ryan |
 | 10 | **Merch capped at $440** | Booth order #28379886.1, 44 pieces. At 1,200 people it clears in an hour | **Reorder by Sept 1 if tickets move.** Modeled at $0 in section 3 so it cannot inflate the plan | Ryan |
 | 11 | **DMX board missing** | Lee has a 12W plus two small lasers but no board. Face Melters has not replied to two 8/26 nudges. TIFF reached 8/26 | Three leads, pick one or rent. And **give Lee a number**, his budget question has sat a month | Ryan |
-| 12 | **Heat on an 8-hour outdoor September event** | 1 to 10 PM, all ages, no alcohol, Arizona September. Attendance up to 1,200 across the day, **est peak 300 to 400 at once** (porta-potty and staffing math runs off PEAK, not total) | EMT Elite recommends **4 EMTs.** The Mystic Holistic Healing chill/recovery tent sits naturally next to the EMT station. Porta ratio 1 per 100 for 6 hours, so 4 to 5 units **including at least 1 ADA** | Ryan |
+| 12 | **Heat on an 8-hour outdoor September event** | 1 to 10 PM, all ages, no alcohol, Arizona September. Attendance up to 1,200 across the day, **est peak 300 to 400 at once** (porta-potty and staffing math runs off PEAK, not total) | EMT Elite recommends **4 EMTs.** The Mystic Holistic Healing chill/recovery tent sits naturally next to the EMT station. **Porta math, reconciled:** peak 300 to 400 at 1 unit per 100 = **3 to 4 units.** **Spec 4 to 5 including at least 1 ADA** — the extra unit is deliberate headroom for an all-ages, 8-hour, no-alcohol AZ September event, and FACTS §7 also carries a ~450-peak figure that conflicts with the site plan's 300 to 400. **Ryan confirms which peak governs before the porta order** | Ryan |
 | 13 | **Melio trial expiry ~9/24/26** | Free 30-day trial started 8/25. Melio is the card-to-ACH rail at 2.9% for vendors who will not take cards | Decide before 9/24. Same-day ACH is free if scheduled before 2:00 PM ET. "Instantly" costs +$6.25 and is unnecessary | Ryan |
 | 14 | **A2P throughput ceiling** | Sole-prop 10DLC, ~1,000 segments/day. One sending number | 113 recipients fits one send today. It will not fit at 1,000 contacts. Plan the upgrade path before it bites. **Keep the LLC OUT of the A2P registration**, Twilio error 30915 is exactly that mistake | Ryan |
-| 15 | **Model risk in this document** | Six of nine shows have cost envelopes that are Claude's ESTIMATE with no quote behind them. The $12,000 indoor envelope uses a **Thursday** venue rate as a stand-in for **Friday and Saturday** | Every ESTIMATE in section 3 gets overwritten by real Sept 10 numbers within 30 days. Treat the model as a target-setting tool, never as a commitment | Claude, then Ryan |
+| 15 | **Model risk in this document** | Six of nine shows have cost envelopes that are Claude's ESTIMATE with no quote behind them. The $12,000 indoor envelope uses a **Thursday** venue rate as a stand-in for **Friday and Saturday**, and carries an $800 EST hotel/ground/rider line anchored only to GALLIUM's deal. **Worse than any cost line: row 09 assumes 2,500 PEOPLE at a venue whose capacity is UNKNOWN and counted in CARS**, with a published 50-car minimum, unknown per-car vs per-person ticketing, unknown rental price, and an unknown flat-buy vs promoter-sells structure. That single assumption drives the largest number in the plan | Every ESTIMATE in section 3 gets overwritten by real Sept 10 numbers within 30 days. Treat the model as a target-setting tool, never as a commitment | Claude, then Ryan |
 
 ---
 
@@ -342,7 +358,7 @@ These hold at speed, under deadline, and while broke. From FACTS §15, section 1
 - **We do not add SPECKZ.** Standing and permanent.
 - **We do not say "psytrance."** The descriptor is **bass, underground, and frontline electronic music.**
 - **We do not use the word "frequency"** in any copy.
-- **We do not use purple** on SubGround material. Ground `#08090B`, panels `#101216`, hairlines `#1E222A`, silver `#A7ABB6`, paper `#EDEFF4`. Archivo and IBM Plex Mono. Gold belongs to the GOLD RUSH event, not the SubGround brand.
+- **Purple is banned on GOLD RUSH PRE-PARTY material only** — Gold Rush owns gold. Everywhere else it is one earned per-event accent on a fixed chassis: ground `#08090B`, panels `#101216`, hairlines `#1E222A`, silver `#A7ABB6`, paper `#EDEFF4`, Archivo + IBM Plex Mono. The chassis is the brand, the accent is the event, never a rainbow. (FACTS §1, Ryan direct 2026-08-26 — this SUPERSEDES the old blanket "no purple" rule. Gold is still the GOLD RUSH event brand, never a house color elsewhere.)
 - **The mark is `IfYoKYK`.** Exact casing. IYKYK is retired for all new content.
 - **We do not alter roster stylization.** FOOL MOON · EXGF5 · MIND G4ME · ALLIE RADD · YEWZ · KING SPACE · VELOCES · SP3LLKVSTR · PSYTORI · THE ALCHEMIST · CONKUSST · SPAYDZ · USB · FAIRYDUST (styles herself FɅIRYDVST) · CHIRENJI · WAKE UP · F33LZ · PRADA G · DIGITS · BANDAID · ONSUMMON · ANAMORPHIC. F33LZ uses they/them. Sharky is a PROMOTER and never goes on lineup art.
 - **We do not sound like AI.** No em dashes in anything sent to a person.
@@ -359,7 +375,7 @@ Only Ryan can make these. One line each, with what it unblocks.
 |---|---|---|
 | 1 | **Call the number on the back of Visa ••2245 and get it unfrozen** | EMT deposit, Blade, porta potties and the ad account, all four at once. Highest-leverage single action in the plan |
 | 2 | **Pay Blade $250** ($BladesBodyGuardLLC) | 3 guards, 2 PM to 10 PM, Sept 10 |
-| 3 | **Open the EMT Elite quote PDF and pay the deposit** | Locks medical on the date. Nobody but Ryan has ever seen the figure |
+| 3 | **Open the EMT Elite quote PDF and pay the deposit** | Locks medical on the date. **The figure has never been seen by Claude** — it sits unopened in `SubGround Collective Price Qt.pdf`, and section 3's envelope carries no medical line until Ryan reads it |
 | 4 | **Klarity: $1,400 paid early or $1,500 day-of** | $100, and it settles sound for Sept 10 |
 | 5 | **Give Finson Lee a budget number** | Lasers, projection mapping, GrandMA3, and possibly the missing DMX board |
 | 6 | **Phone Andrew Lehr instead of sending a fourth email** | GALLIUM rider, advance sheet, PHX routing |
@@ -370,7 +386,7 @@ Only Ryan can make these. One line each, with what it unblocks.
 | 11 | **Set the sponsor price ladder** | The only revenue layer at $0.00, and the one with no ceiling |
 | 12 | **Send the drafted Walter reply aiming them at December/NYE** | The NYE venue, the fattest night of the year |
 | 13 | **Icehouse: Sept 18 or Sept 19, whichever Sam offers** | The content shoot, which is the sponsor deck. No artist constraint requires the 19th |
-| 14 | **Who to call about Glendale 9** | The Drive-In, roughly a third of the target, currently resting on zero contacts |
+| 14 | **Call West Wind Glendale 9 at 623-939-9715 and lead with the Subtronics precedent** | The Drive-In, roughly a third of the target. Four answers needed before the P&L can be trusted: real capacity in CARS, per-car vs per-person ticketing, rental price, and flat-buy vs promoter-sells. Backup route is the form at westwinddi.com/events/host-your-event |
 | 15 | **Whethan at The Van Buren, Sat Nov 7: pitch an afters or let it go** | Free reach the night after Nov 6, 0 miles away |
 | 16 | **Entity: Sanfilippo Holdings LLC vs sole-prop DBA** | Banking, contracts and taxes. **Keep the LLC out of the A2P registration regardless** (Twilio error 30915) |
 | 17 | **Melio: keep or drop before the trial expires ~9/24/26** | The card-to-ACH rail for vendors who will not take cards |
@@ -382,9 +398,10 @@ Only Ryan can make these. One line each, with what it unblocks.
 
 ## 9. HOW TO USE THIS DOCUMENT
 
+- **Row 09 is the least trustworthy line in section 3.** The Drive-In's cap of 2,500 is an ASSUMPTION, not a capacity. A drive-in counts **CARS, not people**, the published minimum is **50 cars**, per-car vs per-person ticketing is unknown, the rental price is unknown, and whether SubGround sells tickets or buys the room flat is unknown. Per FACTS §8, **do not trust that row's P&L until those four answers land** — and it is the largest number in the plan. Call 623-939-9715.
 - **Section 3 is a model, not a promise.** Six of the nine shows have cost envelopes nobody has quoted. Within 30 days, Sept 10 produces four real numbers (sell-through, merch per head, vendor collection, ad conversion) and those replace the estimates. Re-cut the model that week.
 - **Section 5 is the working list.** The 14-day column should be printed.
 - **Section 8 is the only part that requires Ryan and cannot be delegated.**
-- **If sponsors are still at $0 on Nov 24**, the $100,000 target requires ~83% average sell-through across nine shows on tickets alone. That is possible but it leaves no margin for a single soft night. Say so out loud at that point rather than carrying the number quietly.
+- **If sponsors are still at $0 on Nov 24**, the $100,000 target requires ~89% average sell-through across nine shows on tickets alone. That is possible but it leaves no margin for a single soft night. Say so out loud at that point rather than carrying the number quietly.
 
 **We build the underground.**

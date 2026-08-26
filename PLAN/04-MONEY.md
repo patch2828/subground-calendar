@@ -249,7 +249,7 @@ Pricing **$25 advance (net $22.23) / $30 GA (net $26.67)** — ESTIMATE, anchore
 
 ### 2.4 SHOW 04 — COMBINE × NORTHERN ROAD · Fri Nov 6 · Fillmore Warehouse / Alchemist's Enclave · cap 1,000
 
-Locked in writing with **Dallas Provencio, Corson Agency**. **Date is NOT flexible.** Walter is out (fully booked both venues, per Ryan Tucknott 8/22).
+Locked in writing with **Dallas Provencio, Corson Agency** (Ryan 8/21: "11/6 is locked on our side"). **Dallas is date-flexible if the room forces a move** — his words: "We don't have to route this with anything." Unavailable: 9/18, 10/2, 10/10, 11/7. Walter is out — reply from ryan@walterproductions.com, 8/23: "Friday, November 6th is fully booked at both venues." (Surname not logged in `FACTS.md`; Ryan to confirm before it goes in any doc.)
 
 #### Cost stack
 

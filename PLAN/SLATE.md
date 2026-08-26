@@ -36,7 +36,7 @@ Locked by Claude 2026-08-26 off `FACTS.md`. Day-of-week verified twice against t
 - **Nov 6 sits the night before Whethan plays The Van Buren.** Out-of-town bass crowd is already in Phoenix and already spending. The afters framing is free money.
 - **Dec 31 is a Thursday with Friday Jan 1 a holiday** — people go out and stay out. Double pricing is normal on NYE and nobody blinks.
 - **Feb 13 is Valentine's weekend Saturday** — couples pricing, table/2-for pricing, an easy sell.
-- **Feb 20 for the Drive-In** — the outdoor window is wide open in Phoenix February, it is clear of monsoon entirely, and it lands after four ticketed shows of track record so the room can actually be filled.
+- **Feb 20 for the Drive-In** — the outdoor window is wide open in Phoenix February, it is clear of monsoon entirely, and it lands after **seven** ticketed shows of track record (01, 03, 04, 05, 06, 07, 08 — 02 Icehouse is free) so the room can actually be filled.
 
 ---
 
