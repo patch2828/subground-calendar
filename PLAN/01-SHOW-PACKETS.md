@@ -1066,7 +1066,7 @@ Brand: `IfYoKYK`. Never "psytrance." Never "frequency." No purple.
 
 | Tier | Slots | Real candidates on record |
 |---|---|---|
-| **Headline** | 2 | **Andrew Lehr, AB Touring, (814) 602-5613** is the live agent relationship. His 8/4 quote: **PIERCE $2,000 · OZZTIN $2,500 · GALLIUM $1,500 individually, or $5,000 + 2 hotel rooms + ground for ALL THREE.** ⚠ **That bundle is the most efficient talent offer in this entire document — three headliners for $5,000 works out to $1,667 each against individual prices totalling $6,000.** GALLIUM will already have played Sept 10 for SubGround, which is leverage. **Ryan's call, and it needs a phone call to Lehr, not an email.** |
+| **Headline** | 2 | **Andrew Lehr, AB Touring, (814) 602-5613** is the live agent relationship. His 8/4 quote: **PIERCE $2,000 · OZZTIN $2,500 · GALLIUM $1,500 individually, or $5,000 + 2 hotel rooms + ground for ALL THREE.** ⚠ **That bundle is the most efficient talent offer in this entire document.** *ESTIMATE (Claude's model): $5,000 ÷ 3 = **$1,667 each**, against individual prices totalling $2,000 + $2,500 + $1,500 = **$6,000**.* GALLIUM will already have played Sept 10 for SubGround, which is leverage. **Ryan's call, and it needs a phone call to Lehr, not an email.** |
 | **Direct support** | 2 | **Dallas Provencio, Corson Agency, dprovencio@corsonagency.com** — the COMBINE / NORTHERN ROAD relationship, which by Dec 31 will have a Nov 6 show behind it. |
 | **Roster** | 4–6 | From the 22, weighted to whoever performed best across Sept 10, Icehouse, Halloween and Dec 12: **FOOL MOON · ONSUMMON · ANAMORPHIC · USB · CHIRENJI · PRADA G** |
 
@@ -1135,7 +1135,7 @@ Cannot be built without a venue. The frame, which is different from every other 
 | $40 | $35.60 | **$24,920** | |
 | $50 | $44.50 | **$31,150** | |
 
-**Double pricing is normal on NYE and nobody blinks** — that is the note in the record, and it is why NYE carries the highest fixed-cost ceiling of any night on the slate. **Even at $30, a $5,000 talent bundle plus a $5,000 room plus $3,000 of security, medical and production leaves room.** The roadmap's **+$8–15k** is consistent with that. **Ryan sets the price. I am not inventing one.**
+**Double pricing is normal on NYE and nobody blinks** — that is the note in the record, and it is why NYE carries the highest fixed-cost ceiling of any night on the slate. *ESTIMATE (Claude's model), arithmetic shown: the only real talent number available for this shape is Lehr's **$5,000 three-headliner bundle**. Even at the lowest tier above, $18,690 − $5,000 = **$13,690 left for venue, hotel, ground, security, medical, visuals and ads.* **No venue, security or medical quote exists for Dec 31, so I am not putting a number on those lines.** The roadmap's **+$8–15k** is the figure on record. **Ryan sets the ticket price. I am not inventing one.**
 
 ### CONTENT CAPTURE PLAN — Dec 31
 
@@ -1165,3 +1165,454 @@ Brand: `IfYoKYK`. Never "psytrance." Never "frequency." No purple.
 | **Y-8** | **ON SALE.** | **Tue Dec 1** *(ESTIMATE: 30 days out)* | NYE sells earlier than any other date. Thirty days is the floor, not the target. |
 | **Y-9** | **SHOTGUN HERO VERIFIED AS A BUYER** (if Shotgun is the rail). | On-sale day, then daily | The black-rectangle bug. |
 | **Y-10** | **Film crew booked and paid for the midnight moment.** | **Fri Dec 4** | There is no second take on midnight. |
+
+---
+---
+
+# PACKET 07 — JANUARY HEADLINE
+## Sat Jan 23, 2027 · 1,000-cap · **TO BOOK** · T-150
+
+> The first show of 2027 and the last full-scale ticketed night before the February pair. By this date SubGround will have four ticketed shows of track record behind it, which is the entire point of sequencing it here.
+
+### HEADER
+
+| Field | Value |
+|---|---|
+| Date | **Saturday, January 23, 2027** (verified) |
+| Doors / curfew | **unknown — venue-set** |
+| Venue | **unknown. No venue identified, no contact logged.** Relationships that should exist by then: **Fillmore via Synesthesia (@synmusicaz)**, **Alchemist's Enclave**, **The Icehouse (Sam, sam@openvenues.com)**, **Walter Productions**, plus whatever Halloween and Nov 6 open up. |
+| Capacity | **1,000** per the slate |
+| Ticket tiers | **unknown — Ryan sets them.** See the Law 3 gate. |
+
+### LINEUP — **PROPOSED**
+
+**Shape: 1 booked headliner + 2 direct support + 4–5 roster.**
+
+| Tier | Slots | Real sources |
+|---|---|---|
+| Headline | 1 | **Andrew Lehr, AB Touring, (814) 602-5613** — by January, SubGround will have paid GALLIUM in full and on time, which is the only credential that matters to an agent. **PIERCE never closed on Sept 10 and is still an open name.** |
+| Direct support | 2 | **Dallas Provencio, Corson Agency, dprovencio@corsonagency.com** — the Nov 6 relationship, warm by January. |
+| Roster | 4–5 | From the 22, rotating whoever has not had a January room. **Track the rotation across the whole window so nobody on the roster goes six months without a slot.** |
+
+**Never add SPECKZ.**
+
+### ADVANCE CHECKLIST — Jan 23
+
+Identical structure to Packet 05 and 06 with these venue-independent constants:
+
+| Item | Department head / benchmark | Status |
+|---|---|---|
+| Venue contract | **Contract THEN deposit. No holds without deposit.** Standing rule from Fillmore, applies everywhere. | Not started |
+| Permits / licenses | **unknown — venue-dependent.** Indoor buyouts normally carry the venue's licensing. Get it in writing. | Not started |
+| Insurance | **Event Helper, contact Breanna Stanley.** Benchmark **$477 for $1M/$2M**. | Not started |
+| Artist contracts | **AB Touring (Lehr, phone) · Corson Agency (Provencio, email)** | Not started |
+| Rider check | **Always read hospitality against the venue's actual rules before signing back.** | N/A yet |
+| Sound | **Klarity Audio — Jonathan, 714-225-0547.** Benchmark $1,500 setup to teardown, $1,400 if paid before the show. Included if Fillmore. | Unbooked |
+| Lights / lasers / mapping | **Finson Lee @lord_of_lumens · Face Melters @facemelterstudio · TIFF @creatifgamefrench.** Included if Fillmore. | Unbooked |
+| Security | **Blade (602) 587-2222** or **Access Control Security, Mat Tecson, (714) 747-2201, $38/hr/guard.** ⚠ **Blade's AZ unarmed guard licenses must be in writing by now.** | Unbooked |
+| Medical | **EMT ELITE — Monique Gunn, 602-877-8678.** Deposit locks the date, balance 72 hrs prior, electronic only. | Unbooked |
+| Site services | **Proper Site Services, (602) 612-8821** if outdoor. Not applicable indoors. | N/A |
+| Power / barriers / parking | **unknown — venue-dependent** | — |
+| Wristbands | **WristCo — 500 Tyvek $13.95, free shipping over $100** | — |
+| Ticketing | **Shotgun**, ~11%. ⚠ **Verify the hero renders as a buyer.** | — |
+
+### RUN OF SHOW — Jan 23
+Load-in → line check → doors → roster → direct support → headliner close → curfew → settle → out. **Every time slot is unknown until a contract exists.** Curfew is treated as hard, the way Sept 10's 10 PM stop was.
+
+### CREW AND CALL TIMES — Jan 23
+
+| Role | Who | Status |
+|---|---|---|
+| Show runner | **Ryan Sanfilippo** | — |
+| Sound | **Klarity Audio — Jonathan, 714-225-0547** | Unbooked |
+| Lasers / visuals | **Finson Lee · Face Melters · TIFF** | Unbooked |
+| Security | **Blade (602) 587-2222** / **Access Control (714) 747-2201** | Unbooked |
+| Medical | **EMT ELITE — Monique Gunn, 602-877-8678** | Unbooked |
+| Film | **Mad Lab Films** | Unbooked, no rate on record |
+| Stage manager | **unknown — needs Ryan to assign** | Unassigned |
+
+### MONEY DUE — Jan 23
+**Ryan pays every line. Funded by Dec 12 and Dec 31 proceeds. Pipeline Law 1.**
+
+| Item | Amount | Source |
+|---|---|---|
+| Venue | **unknown** | Dec proceeds |
+| Headliner | **unknown.** Reference: Lehr's 8/4 individual quotes were PIERCE $2,000 · OZZTIN $2,500 · GALLIUM $1,500, and GALLIUM's signed number came in at $1,250. | Presales |
+| Direct support ×2 | **unknown.** Reference: the Nov 6 offer skeleton is **$1,000 per artist flat**. | Presales |
+| Roster ×4–5 | **unknown — Ryan sets it** | Door |
+| Sound / security / medical / visuals / wristbands / ads | **unknown** | Presales |
+
+**LAW 3 GATE.** *ESTIMATE (Claude's model).* 70% of 1,000 = **700 tickets**, Shotgun nets face × 0.89:
+
+| Face | Net | 700 tickets | Fixed-cost ceiling |
+|---|---|---|---|
+| $20 | $17.80 | **$12,460** | |
+| $25 | $22.25 | **$15,575** | |
+| $30 | $26.70 | **$18,690** | |
+
+### CONTENT CAPTURE PLAN — Jan 23
+Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum · backdrop portraits on the existing 8×8 matte vinyl · lasers at full dark · door line before doors.
+**Mad Lab Films** unbooked. Brand rules stand: `IfYoKYK`, never "psytrance," never "frequency," no purple, **never publish the exact address.**
+
+### GO/NO-GO GATES — Jan 23
+
+| # | Gate | Must be true by | If it fails |
+|---|---|---|---|
+| **J-1** | **A 1,000-CAP ROOM IS NAMED AND CONTACTED.** | **Fri Nov 20** | No venue, no show. |
+| **J-2** | **VENUE CONTRACT SIGNED, DEPOSIT PAID** from December proceeds. | **Thu Dec 17** *(ESTIMATE: on-sale Thu Dec 24 at 30 days out, contract a week ahead)* | Push to a February date or lose the January slot entirely. |
+| **J-3** | **HEADLINER SIGNED.** Call Lehr. **(814) 602-5613, phone not email.** | **Fri Dec 11** | Run it as a roster + Corson-support night at a lower price. |
+| **J-4** | **ON SALE.** ⚠ **Dec 24 is Christmas Eve. Confirm the on-sale date does not land in the dead zone between Dec 24 and Jan 1 — a launch nobody sees is a launch that did not happen.** Consider on-sale **Mon Dec 21** instead. | **Mon Dec 21 or Thu Dec 24** *(ESTIMATE)* | Compressed paid window in the worst-converting week of the year. |
+| **J-5** | **Ads live, judged on conversion.** Above 0.92% keep running; below 0.5% on a working page the offer or audience is wrong. **Ryan clicks. Claude never touches on/off.** | **Thu Jan 7** *(16 days out, ESTIMATE)* | Organic reach is ~80 views. There is no organic path to 700 tickets. |
+| **J-6** | **SHOTGUN HERO VERIFIED AS A BUYER.** | On-sale day, then daily | The black-rectangle bug. |
+| **J-7** | **Security and medical booked at real 1,000-cap counts.** | **Fri Jan 8** | Under-staffed room. |
+
+---
+---
+
+# PACKET 08 — FEBRUARY HEADLINE
+## Sat Feb 13, 2027 · Valentine's weekend · 1,000-cap · **TO BOOK** · T-171
+
+> **Valentine's weekend Saturday.** Couples pricing, table and 2-for pricing, an easy sell. Sunday Feb 14 is Valentine's Day itself, which makes Saturday the night people actually go out.
+
+### HEADER
+
+| Field | Value |
+|---|---|
+| Date | **Saturday, February 13, 2027** (verified) |
+| Doors / curfew | **unknown — venue-set** |
+| Venue | **unknown. Nothing identified.** |
+| Capacity | **1,000** per the slate |
+| Ticket tiers | **unknown — Ryan sets them.** ⚠ **The one structural note on record: couples pricing and 2-for pricing are the natural fit for this date.** ⚠ **Shotgun's ticket-row drag-reorder and the per-row "more" menu do NOT respond to automation** — so a multi-tier couples structure has to be built by hand, by Ryan, in the Smartboard. Budget the time. |
+| Positioning | Valentine's weekend. **A 2-for or couples tier is the differentiator, not a discount.** |
+
+### LINEUP — **PROPOSED**
+
+**Shape: 1 booked headliner + 2 direct support + 4–5 roster**, same as January.
+Sources: **AB Touring (Andrew Lehr, (814) 602-5613, phone)** and **Corson Agency (Dallas Provencio, dprovencio@corsonagency.com)**.
+Roster from the 22, rotating whoever has had the fewest slots across the window.
+**Never add SPECKZ.**
+
+⚠ **Sequencing note that matters:** Feb 13 sits **seven days before the Feb 20 Drive-In**, which is the $100K hinge and a 2,500-cap show. **Do not book a headliner on Feb 13 who competes with the Drive-In headliner for the same audience's wallet in the same week.** Either bill them as a two-weekend run and cross-promote hard, or keep Feb 13 deliberately smaller so it feeds Feb 20 instead of cannibalizing it. **Ryan's call, and it should be made before either headliner is signed.**
+
+### ADVANCE CHECKLIST — Feb 13
+Same constants as Packet 07. Venue contract (**contract THEN deposit, no holds without deposit**) · permits venue-dependent · insurance via **Event Helper / Breanna Stanley**, benchmark **$477 for $1M/$2M** · artist contracts via AB Touring and Corson · rider read against venue rules · **sound: Klarity Audio, Jonathan, 714-225-0547** · **lasers: Finson Lee @lord_of_lumens, Face Melters @facemelterstudio, TIFF @creatifgamefrench** · **security: Blade (602) 587-2222 or Access Control, Mat Tecson, (714) 747-2201** · **medical: EMT ELITE, Monique Gunn, 602-877-8678** · **wristbands: WristCo, 500 Tyvek $13.95** · **ticketing: Shotgun ~11%.**
+Everything on that list is **unbooked** and every rate for this date is **unknown**.
+
+**Extra line unique to this date:** if couples or table pricing is used, the door needs a way to check a 2-for ticket without slowing the line. **Two wristband colors from WristCo covers it for about $28.**
+
+### RUN OF SHOW — Feb 13
+Load-in → line check → doors → roster → direct support → headliner close → curfew → settle → out. **All times unknown until a contract exists.**
+
+### CREW AND CALL TIMES — Feb 13
+
+| Role | Who | Status |
+|---|---|---|
+| Show runner | **Ryan Sanfilippo** | — |
+| Sound | **Klarity Audio — Jonathan, 714-225-0547** | Unbooked |
+| Lasers / visuals | **Finson Lee · Face Melters · TIFF** | Unbooked |
+| Security | **Blade (602) 587-2222** / **Access Control (714) 747-2201** | Unbooked |
+| Medical | **EMT ELITE — Monique Gunn, 602-877-8678** | Unbooked |
+| Film | **Mad Lab Films** | Unbooked |
+| Door / couples-tier check | **unknown — needs Ryan to assign** | Unassigned |
+
+### MONEY DUE — Feb 13
+**Ryan pays every line. Funded by Dec 31 and Jan 23 proceeds. Pipeline Law 1.**
+Venue **unknown** · headliner **unknown** (Lehr's ceilings: PIERCE $2,000, OZZTIN $2,500) · support **unknown** ($1,000 flat is the Nov 6 reference) · roster **unknown** · sound, security, medical, visuals, wristbands, ads all **unknown**.
+
+**LAW 3 GATE.** *ESTIMATE (Claude's model).* 70% of 1,000 = **700 tickets**, net = face × 0.89:
+
+| Face | Net | 700 tickets | Fixed-cost ceiling |
+|---|---|---|---|
+| $25 | $22.25 | **$15,575** | |
+| $30 | $26.70 | **$18,690** | |
+| **2-for-$50 (i.e. $25/head)** | **$22.25/head** | **$15,575** | **A 2-for at $50 is not a discount — it is the same per-head net as a $25 single, sold two at a time.** That is the whole reason couples pricing works on this date. |
+
+### CONTENT CAPTURE PLAN — Feb 13
+Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum · **couples/portrait content against the 8×8 matte backdrop, which is the single most on-theme asset available for a Valentine's weekend night** · lasers at full dark.
+**Cross-promote Feb 20.** Every piece of Feb 13 content carries the Drive-In as the next date. **Feb 13 exists partly to sell Feb 20.**
+**Mad Lab Films** unbooked. `IfYoKYK`. Never "psytrance." Never "frequency." No purple.
+
+### GO/NO-GO GATES — Feb 13
+
+| # | Gate | Must be true by | If it fails |
+|---|---|---|---|
+| **F-1** | **FEB 13 vs FEB 20 SEQUENCING DECIDED.** Two-weekend run with cross-promotion, or Feb 13 deliberately smaller to feed Feb 20. | **Fri Nov 20** — before either headliner is signed | Two shows seven days apart compete for the same wallets and both underperform. **This is the most avoidable failure on the whole slate.** |
+| **F-2** | **A ROOM IS NAMED AND CONTACTED.** | **Fri Dec 11** | No venue, no show. |
+| **F-3** | **VENUE CONTRACT SIGNED, DEPOSIT PAID.** | **Thu Jan 7** *(ESTIMATE: on-sale Thu Jan 14 at 30 days out, contract a week ahead)* | Lose Valentine's weekend Saturday. |
+| **F-4** | **HEADLINER SIGNED** — and cleared against the Feb 20 lineup. | **Fri Jan 8** | Roster + support night at a lower price. |
+| **F-5** | **COUPLES / 2-FOR TIER BUILT BY HAND IN SHOTGUN.** ⚠ Ticket-row reorder and the per-row menu do not respond to automation. **Ryan builds it himself and verifies it on the live page.** | **Thu Jan 14** | A broken or misordered tier structure on the highest-intent pricing night of the window. |
+| **F-6** | **ON SALE.** | **Thu Jan 14** *(ESTIMATE: 30 days out)* | Compressed window. |
+| **F-7** | **Ads live, judged on conversion.** | **Thu Jan 28** *(16 days out, ESTIMATE)* | No organic path to 700 tickets. |
+| **F-8** | **SHOTGUN HERO VERIFIED AS A BUYER.** | On-sale day, then daily | The black-rectangle bug. |
+
+---
+---
+
+# PACKET 09 — DRIVE-IN: GLENDALE 9 TAKEOVER
+## Sat Feb 20, 2027 · 2,500 cap · **TO BOOK** · **THE $100K HINGE** · T-178
+
+> **This is the show the whole six-month plan is built to reach.** The roadmap calls it "the first real ticketed mid-size show." It is the last date inside the window — six months from 2026-08-26 lands on Fri Feb 26 2027. **February in Phoenix is clear of monsoon entirely, the outdoor window is wide open, and it lands after four ticketed shows of track record so the room can actually be filled.**
+
+### HEADER
+
+| Field | Value |
+|---|---|
+| Date | **Saturday, February 20, 2027** (verified) |
+| Doors / curfew | **unknown — set by the venue and by whatever municipal permit applies** |
+| Venue | **Glendale 9 Drive-In.** ⚠ **NO CONTACT IS LOGGED. Nobody at this venue has ever been reached.** That is the number one gate. |
+| Capacity | **2,500** per the slate. The pipeline record carries the Drive-In concept at **2,000–5,000 people**. |
+| Format | **2-stage** |
+| Original timing | The record targeted **Oct–Nov or spring** and said **avoid monsoon.** **Feb 20 satisfies both.** |
+| Ticket tiers | **unknown — Ryan sets them.** See the Law 3 gate. |
+| ⚠ Jurisdiction | Glendale, AZ. **The permitting process there is unknown and is NOT the Peoria TUP process.** Peoria's TUP TU26-00188 tells you what a process like this involves; it does not tell you what Glendale requires. **Assume nothing.** |
+
+### LINEUP — **PROPOSED**
+
+**Shape: 2 stages. Main stage 1 headliner + 3 support. Second stage 5–6 roster.**
+
+| Stage | Slots | Real sources |
+|---|---|---|
+| **Main** | 4 | Headliner **unknown — Ryan's call.** Live agent rails: **Andrew Lehr, AB Touring, (814) 602-5613** (PIERCE, OZZTIN, GALLIUM) and **Dallas Provencio, Corson Agency** (COMBINE, NORTHERN ROAD). **By February, SubGround will have paid GALLIUM in full on Sept 10 and delivered a Nov 6 co-headline. That is the track record that gets a bigger name to say yes.** |
+| **Second stage** | 5–6 | From the 22, rotating: **FOOL MOON · ONSUMMON · ANAMORPHIC · USB · CHIRENJI · MIND G4ME · ALLIE RADD · SP3LLKVSTR · THE ALCHEMIST** |
+
+**Never add SPECKZ.**
+⚠ **Clear the Main headliner against Feb 13's headliner. Same week, same city, same audience.**
+
+### ADVANCE CHECKLIST — Feb 20
+**This is the only show on the slate other than Sept 10 that is outdoors at scale, which means the Sept 10 checklist is the right template — but with 2,500 people instead of 1,300 and a different city.**
+
+| Item | Status / benchmark |
+|---|---|
+| **Venue contact** | ⚠ **NOTHING LOGGED. This is gate D-1 and everything else waits on it.** |
+| **Venue contract** | Not started. **Contract THEN deposit. No holds without deposit.** |
+| **Permits / licenses** | ⚠ **unknown — Glendale jurisdiction, process unknown.** The Peoria model shows the shape of the work: application, fee (Peoria's was **$600**), owner authorization signed by the property owner, city business license (Peoria's was **$47.95**), and plan approval. **Find Glendale's equivalent of Kelly Madrid and start early. Peoria's approval took from filing 8/10 to approval 8/13 — that was fast and should not be assumed anywhere else.** |
+| **Insurance** | **unknown.** Benchmark: **$477 for $1M/$2M** through **Event Helper, contact Breanna Stanley**, for a 1,300-cap event. **A 2,500-cap event will cost more. Get a real quote.** Certificate must name the venue and the property owner, the way Sept 10's named PRUTHI + M&M + FOCUS. |
+| **Artist contracts** | **AB Touring (phone) · Corson Agency (email)** |
+| **Rider check** | **Read hospitality against the site's actual rules.** A drive-in may or may not permit alcohol. **unknown.** |
+| **Sound** | **Klarity Audio — Jonathan, 714-225-0547.** ⚠ **His $1,500 Sept 10 rate was for a single stage at 1,300 cap. Two stages at 2,500 cap is a different quote. Get it in writing.** ⚠ **Cisco is out, his rig is gone — Klarity is the only sound relationship on record.** |
+| **Lights / lasers / mapping** | **Finson Lee @lord_of_lumens** is the top-tier get here — he ran **mainstage lasers for Marshmello**, builds his own projection-mapping software and GrandMA3 plugins, and does full 360 visuals. **A drive-in is a projection surface.** Also **Face Melters @facemelterstudio** and **TIFF @creatifgamefrench**. ⚠ **DMX board must be solved long before this date.** |
+| **Security** | ⚠ **2,500 people. Blade's known rate is $500 for 3 guards at 1,300 cap and he still owes written AZ unarmed guard licenses.** **Access Control Security (Mat Tecson, (714) 747-2201, $38/hr/guard) is the vendor that comes with paper, and at this scale paper matters.** **Guard count unknown — get a professional recommendation, do not scale the 3-guard number by eye.** |
+| **Medical** | **EMT ELITE — Monique Gunn, 602-877-8678.** ⭐ **She says she has enough staff to cover the Pepsi Amphitheatre 3-day camping festival. 2,500 at a drive-in is well inside what she can handle.** **This is exactly the show Pipeline Law 4 was written about — she was a $280-deposit vendor on Sept 10, and this is where that relationship pays.** |
+| **Site services** | **Proper Site Services, (602) 612-8821, propersiteservices.com.** No public email, phone or web form only. Same operation as Canyon State Waste. **Their Sept 10 verbal was $2,250 for 1,300 cap with 50% up / 50% day-of.** ⚠ **Porta-potty ratio is 1 unit per 100 guests for 6 hours. At 2,500 that is 25 units, and at least one must be ADA.** *ESTIMATE (Claude's model): 2,500 ÷ 100 = 25 units. Sept 10's 4–5 units ran ~$600–900, so a rough per-unit range is $130–190 → 25 units ≈ $3,250–4,750 for toilets alone, before fence, barricade or handwashing.* **Get a real quote. This is the largest single unknown line on the packet.** |
+| **Power** | ⚠ **unknown.** Sept 10 ran off host-building power with **no generator at or above 20 kW.** **A drive-in with two stages almost certainly needs generators.** Relevant precedent from the DREAM Fest research: Pepsi Amphitheater has **NO house production — camlock power only, renter brings PA and lights.** Assume a drive-in is closer to that than to a club. |
+| **Barriers** | Sept 10's filed spec was **retractable-belt stanchions + rope line**, and **Party Rentals Arizona (623.312.8392) rents belt stanchions at $18 each.** **At 2,500 across a drive-in lot, real crowd-control barricade is the likelier requirement.** Proper Site rents barricade. **Quote both.** |
+| **Wristbands** | **WristCo — 500 Tyvek $13.95, free shipping over $100.** 2,500 cap needs 5 rolls plus staff/artist colors. *ESTIMATE: 5 × $13.95 = $69.75 plus a staff color, so roughly $85–100 total. Trivial cost, do not skip it at this scale.* |
+| **Parking** | ⚠ **It is a DRIVE-IN. Parking is not a support function here, it is the venue.** Vehicle capacity, per-car occupancy, and whether tickets sell per-person or per-car are all **unknown** and they change the entire revenue model. **This is the single biggest structural question on the show and it must be answered before any pricing is set.** |
+| **Fire lane** | Sept 10's permit required **20 ft clear at all times.** Assume something similar applies and confirm with Glendale. |
+| **Ticketing** | **Shotgun**, ~11%. ⚠ **Verify the hero renders as a buyer.** ⚠ **Shotgun followers = 9. That is the top-of-funnel constraint and it will not have fixed itself by February unless someone works on it.** |
+
+### RUN OF SHOW — Feb 20
+Cannot be built without a venue and a permit. The frame, modeled on the Sept 10 outdoor build which is the only outdoor precedent on record:
+
+| Phase | Rule |
+|---|---|
+| **Multi-day load-in** | ⚠ **Sept 10's one-hour permitted setup window was its biggest schedule risk. At 2,500 cap with two stages, negotiate a multi-day load-in into the venue contract and into the permit from the start.** Do not repeat the Sept 10 mistake at twice the scale. |
+| Site services delivery | Toilets, fence, barricade, handwashing. **Confirm delivery windows against whatever the permit allows.** |
+| Stage builds ×2 | Both stages, both sound systems, both power drops |
+| Fire lane walk | Before doors, mid-show, and before final clear |
+| Doors | Per permit |
+| Program | Two stages staggered so there is never dead air on either |
+| Headline close | Main stage |
+| **Hard stop** | **Per permit. Treat it exactly like Sept 10's 10 PM stop — absolute.** |
+| Clear, teardown, sweep | Per permit, including any next-morning window |
+
+### CREW AND CALL TIMES — Feb 20
+
+| Role | Who | Status |
+|---|---|---|
+| Show runner | **Ryan Sanfilippo** | — |
+| **Site / production manager** | **unknown — needs Ryan to assign or hire.** ⚠ **At 2,500 cap across two stages, Ryan cannot be the show runner, the site manager and the money. This role is not optional at this scale.** | **Unassigned — the most important gap on this packet** |
+| Sound | **Klarity Audio — Jonathan, 714-225-0547** | Unbooked. Two-stage quote needed. |
+| Lasers / mapping | **Finson Lee @lord_of_lumens** (first call — Marshmello mainstage credential, own mapping software) · **Face Melters @facemelterstudio** · **TIFF @creatifgamefrench** | Unbooked |
+| Security | **Access Control Security — Mat Tecson, (714) 747-2201** (comes with licensing paper) · **Blade (602) 587-2222** | Unbooked, count unknown |
+| Medical | **EMT ELITE — Monique Gunn, 602-877-8678** | Unbooked. **Festival-capable. This is her show.** |
+| Site services | **Proper Site Services, (602) 612-8821** | Unbooked |
+| Film | **Mad Lab Films** — the DREAM aftermovie crew | Unbooked. **This is the aftermovie that sells DREAM FEST 1.** |
+| Stage managers ×2 | **unknown — needs Ryan to assign** | Unassigned |
+
+### MONEY DUE — Feb 20
+**Ryan pays every line. Funded by Dec 31, Jan 23 and Feb 13 proceeds. Pipeline Law 1.**
+
+| Item | Amount | Notes |
+|---|---|---|
+| Venue | **unknown — no contact logged** | The gate |
+| Permit + city license | **unknown — Glendale process unknown.** Peoria references: **$600 permit, $47.95 business license.** | |
+| Insurance | **unknown.** Benchmark $477 at 1,300 cap through Event Helper. | Will be higher |
+| Headliner + 3 support | **unknown.** Ceilings from Lehr's 8/4 quote: PIERCE $2,000 · OZZTIN $2,500 · GALLIUM $1,500 verbal / $1,250 signed. Corson reference: **$1,000 per artist flat.** | |
+| Roster ×5–6 | **unknown — Ryan sets it** | |
+| Sound, 2 stages | **unknown.** Klarity's 1-stage / 1,300-cap benchmark was **$1,500 setup to teardown.** | Get a real quote |
+| Lasers / mapping | **unknown** | |
+| Security | **unknown.** Access Control's rate structure is **$38/hr/guard**. | |
+| Medical | **unknown.** EMT ELITE: 2 EMT minimum, 5-hr minimum, deposit locks the date, balance 72 hrs prior, electronic only. | |
+| Site services | **unknown.** *ESTIMATE: 25 toilets alone ≈ $3,250–4,750 before fence, barricade and handwashing.* | **Largest unknown on the packet** |
+| Generators / power | **unknown** | Likely required |
+| Wristbands | **~$85–100** *(ESTIMATE: 5 rolls × $13.95 + a staff color)* | |
+| Ads | **unknown.** Benchmark **$0.163/click, break-even conversion 0.92%.** | |
+
+**LAW 3 GATE.** *ESTIMATE (Claude's model).* 70% of 2,500 = **1,750 tickets.** Shotgun nets face × 0.89:
+
+| Face | Net | 1,750 tickets | Fixed-cost ceiling under Law 3 |
+|---|---|---|---|
+| $25 | $22.25 | **$38,938** | |
+| $30 | $26.70 | **$46,725** | |
+| $35 | $31.15 | **$54,513** | |
+
+**Sanity check against the only real data that exists.** SIGNAL 001 realized **$19.30 net per ticket** across 142 Shotgun tickets. At that realized rate, 1,750 tickets = **$33,775**. *That is the conservative version of the same number, built on actual historical performance rather than on a face price nobody has set yet.*
+
+⚠ **THE STRUCTURAL QUESTION THAT OVERRIDES ALL OF THIS: is a drive-in ticket sold per person or per car?** Every number above assumes per person. **If it sells per car, the entire model changes and has to be rebuilt.** **unknown — must be answered by whoever at Glendale 9 finally picks up the phone.**
+
+### CONTENT CAPTURE PLAN — Feb 20
+**This is the aftermovie that sells DREAM FEST 1** (Sept 2027, Pepsi Amphitheater, 3-day camping, 3,000/day). **Content first. Sponsors second. Festival third.** Feb 20 is where "content first" finally cashes out.
+
+| Shot | Why |
+|---|---|
+| **Drone or elevated wide of the full lot at peak** | ⚠ **Drone use requires clearance — unknown. Confirm with the venue and with Glendale before assuming it.** This is the shot that makes a 2,500-person outdoor show look like what it is. |
+| Headliner full set, multi-angle | The asset for every 2027 agent and sponsor conversation |
+| Both stages running at once | Proof of a two-stage operation, which is the DREAM FEST prerequisite |
+| Cars + crowd, the drive-in's unique frame | Nobody else in Phoenix has this image |
+| Projection mapping on a drive-in screen | If Lee is on it, this is the most distinctive visual in the whole window |
+| Every roster artist, 3 clips minimum | Never let an artist go unlisted |
+| **Sponsor-facing b-roll** | **Sponsors second.** This is the first show big enough to sell one, and sponsor decks need footage, not adjectives. |
+
+**Mad Lab Films is the DREAM aftermovie crew and this is the DREAM aftermovie.** **Book them and pay them.** Unbooked, no rate on record.
+Brand: `IfYoKYK`. Never "psytrance." Never "frequency." No purple. **Never claim a headcount that is not real — the footage is the claim.**
+
+### GO/NO-GO GATES — Feb 20
+
+| # | Gate | Must be true by | If it fails |
+|---|---|---|---|
+| **D-1** | **SOMEONE AT GLENDALE 9 DRIVE-IN IS ACTUALLY REACHED.** ⚠ **No contact has ever been logged.** Answers needed: available, rate, capacity, **per-person or per-car ticketing**, power, parking structure, curfew, insurance requirements. | **Fri Oct 2** | **The $100K hinge has no venue.** Everything else on this packet is theoretical until someone picks up. **This is the highest-leverage phone call in the entire plan and it has never been made.** |
+| **D-2** | **GLENDALE PERMITTING PATH IDENTIFIED** — the Glendale equivalent of Kelly Madrid, the process, the fee, the lead time. | **Fri Oct 16** | An outdoor 2,500-cap event without a permit does not happen. **Peoria approved in 3 days; assuming Glendale matches that is how a show dies.** |
+| **D-3** | **PER-PERSON vs PER-CAR TICKETING ANSWERED.** | **With D-1** | Every revenue number in this packet is wrong until this is answered. |
+| **D-4** | **VENUE CONTRACT SIGNED, DEPOSIT PAID**, funded by Dec/Jan/Feb proceeds. **Contract THEN deposit.** | **Fri Dec 18** *(ESTIMATE: a 2,500-cap show needs a 60-day on-sale, so Feb 20 − 60 = Tue Dec 22, and the contract must precede it)* | No room, no hinge, and the six-month target loses its largest single contributor. |
+| **D-5** | **FEB 13 vs FEB 20 SEQUENCING DECIDED** and headliners cleared against each other. | **Fri Nov 20** | Two shows seven days apart cannibalize each other. |
+| **D-6** | **HEADLINER SIGNED.** | **Fri Dec 11** | 2,500 seats do not fill on a roster bill. **This is the one show on the slate where the headliner is load-bearing.** |
+| **D-7** | **SITE SERVICES QUOTED IN WRITING** — 25 toilets including ADA, fence, barricade, handwashing. **Proper Site Services, (602) 612-8821.** | **Fri Dec 18** | The largest unknown cost on the packet stays unknown right up until it is due. |
+| **D-8** | **POWER PLAN CONFIRMED.** Generators or site power, two stages plus visuals. | **Fri Jan 8** | No power, no show. Assume camlock-style bring-your-own until proven otherwise. |
+| **D-9** | **SECURITY AND MEDICAL BOOKED AT REAL 2,500-CAP COUNTS**, with licensing paper in hand. | **Fri Jan 8** | Under-staffed at the largest event SubGround has ever run. Unacceptable. |
+| **D-10** | **SITE / PRODUCTION MANAGER HIRED OR ASSIGNED.** | **Fri Jan 8** | Ryan runs a 2,500-person two-stage outdoor show alone. That is not a staffing gap, it is a failure mode. |
+| **D-11** | **ON SALE.** | **Tue Dec 22** *(ESTIMATE: 60 days out for a 2,500-cap show — double the 30-day standard used elsewhere in this document, because this is double the room)* | 1,750 tickets is more than SubGround has ever sold. It needs the longest runway on the slate, not the same one. |
+| **D-12** | **SHOTGUN HERO VERIFIED AS A BUYER**, and the follower problem addressed. **Shotgun followers = 9.** | On-sale day, then daily | The black-rectangle bug already cost 5,482 visits and 2 sales at 1,300 cap. At 2,500 cap the same bug costs twice as much. |
+| **D-13** | **DRONE / AERIAL CLEARANCE CONFIRMED** with the venue and the city. | **Fri Jan 29** | The DREAM FEST aftermovie loses its defining shot. |
+
+---
+---
+
+# APPENDIX A — THE BLANK PACKET
+**Copy this for any show added to the slate. It is the same eight sections, every time.**
+
+```
+# PACKET __ — [SHOW NAME]
+## [Day, Date] · [Venue] · [Status] · T-__
+
+HEADER
+  Date / day (verify the day-of-week in code, never by eye)
+  Doors / curfew / hard stop
+  Venue A + venue B fallback (never publish the exact address)
+  Capacity
+  Ticket tiers + net per ticket (face x 0.89 on Shotgun)
+  Shotgun event ID
+
+LINEUP
+  Confirmed names in EXACT roster stylization
+  PROPOSED slots marked PROPOSED, drawn only from the real 22 or the real agent rails
+  Set times, marked ESTIMATE where derived
+  Never add SPECKZ
+
+ADVANCE CHECKLIST
+  Permits / licenses · Insurance · Venue contract · Artist contracts · Rider check
+  Sound · Lights/lasers/mapping · Security · Medical · Site services
+  Power · Barriers · Wristbands · Parking · Ticketing
+
+RUN OF SHOW
+  Hour by hour, load-in through cleanup complete
+  Fire lane walks if outdoor
+  Hard stop treated as absolute
+
+CREW AND CALL TIMES
+  Role · Who · Call · Out · Terms
+  Every unassigned role named as unassigned
+
+MONEY DUE
+  What · How much · When · Which rail · WHO PAYS (always Ryan)
+  Law 3 gate: 70% of capacity x net per ticket = the fixed-cost ceiling
+
+CONTENT CAPTURE PLAN
+  Must-shoot list · Who shoots · Tagging (verified handles only) · Delivery deadline
+  Content first. Sponsors second. Festival third.
+
+GO/NO-GO GATES
+  Gate · Must be true by [DATE] · What happens if it fails
+```
+
+---
+
+# APPENDIX B — THE DEPARTMENT-HEAD RAIL CARD
+**One card, every show. These are the real people. Pay them on time and they grow at your prices — Pipeline Law 4.**
+
+| Department | Who | Contact | Known terms |
+|---|---|---|---|
+| **Sound** | **Klarity Audio — Jonathan** | **714-225-0547** | **$1,500 setup to teardown** at Sept 10 scale. **$1,400 if paid before the show.** ⚠ Cisco is out, his rig is gone. |
+| **Security** | **Blade — Blades Bodyguard LLC** | **(602) 587-2222** · Cash App **$BladesBodyGuardLLC** · Zelle **@bladesbodyguardllc** | **$500 / 3 guards / 8 hrs** at Sept 10. ⚠ **Still owes written AZ unarmed guard licenses for all 3.** |
+| **Security (with paper)** | **Access Control Security — Mat Tecson** | **Sales@accesscontrolsecurity.com · (714) 747-2201** | **$38/hr per unarmed guard.** 3 guards 1–11 PM = $1,140. |
+| **Medical** | **EMT ELITE — Monique Gunn, M.S., NREMT, Owner** | **monique@emtelite.com · 602-877-8678 · emtelite.com** | 2 EMT minimum · 5-hr minimum · deposit locks the date · balance 72 hrs prior · **electronic payment only, no paper checks.** ⭐ Festival-capable. **Introduced by Srija — credit her.** |
+| **Lasers / mapping / DMX** | **Finson Lee — @lord_of_lumens** | IG DM | Ran **mainstage lasers for Marshmello.** Own projection-mapping software + GrandMA3 plugins, full 360 visuals. Has a 12W + two small lasers, **no DMX board.** ⚠ **Ryan still owes him a number.** |
+| **Lasers / projection** | **Face Melters — Joshua, @facemelterstudio** | IG DM | Has lasers; **inventory and wattage unconfirmed.** |
+| **Lasers** | **TIFF — Discord @creatifgamefrench** | Discord | Met in person, Ryan rates them highly. |
+| **Film** | **Mad Lab Films** | **unknown — no direct contact in the record** | The DREAM aftermovie crew. **Unbooked on every date. Rate unknown.** |
+| **Site services** | **Proper Site Services** | **(602) 612-8821 · propersiteservices.com** — no public email, phone or web form only | **$2,250 verbal at Sept 10 scale, 50% up / 50% day-of.** Trim target ~$1,855. Toilets, VIP trailers, temp fence, privacy screen, barricade, handwashing, water/waste. |
+| **Stanchions** | **Party Rentals Arizona** | **623.312.8392** | **Retractable belt stanchions $18 each.** Serves Peoria. |
+| **Wristbands** | **WristCo** | **wristco.com** | **500 Tyvek $13.95**, same-business-day ship, free shipping over $100. |
+| **Insurance** | **Event Helper — Breanna Stanley** | via Event Helper | Sept 10: **$477 for $1M/$2M**, policy 3DS5477-M4689229. |
+| **Peoria permitting** | **Kelly Madrid, Planning Specialist** | **623-773-7312 · kelly.madrid@peoriaaz.gov** | ⚠ **Peoria Planning is CLOSED FRIDAYS.** Mon–Thu 7 AM–6 PM. |
+| **Talent agent** | **Andrew Lehr — AB Touring** | **andrew@abtouring.com · (814) 602-5613** | **PREFERS THE PHONE.** Answers fast then goes dark. 8/4 quote: PIERCE $2,000 · OZZTIN $2,500 · GALLIUM $1,500, or **$5,000 + 2 hotel rooms + ground for all three.** |
+| **Talent agent** | **Dallas Provencio — Corson Agency** | **dprovencio@corsonagency.com** | COMBINE + NORTHERN ROAD. Nov 6 locked in writing. |
+| **Venue middleman** | **Synesthesia — @synmusicaz** | Verified brand-IG thread, /direct/t/108874480705816 | Fillmore Warehouse. **Thursday $3,500 / 5 hr all-in, 1,000+ cap, 3 stages, full production included.** **NO holds without deposit · contract THEN deposit · doors time counts, load-in does not.** |
+| **Venue** | **Sam — The Icehouse** | **sam@openvenues.com** | $2,000 room fee. Inquiry sent 8/11. |
+| **Partner** | **Srija — FɅIRYDVST, @srija.fairydvst** | IG | Principal on SubGround. **Her referrals produced BOTH Blade and Monique.** Scouts bridges and tunnels. |
+
+---
+
+# APPENDIX C — THE RULES THAT APPLY TO EVERY PACKET
+
+**Money**
+- **Claude never moves money. Ryan hits every payment button.** Claude fills every non-financial field; Ryan types the bank digits and presses Confirm.
+- **Money IN: Cash App `$Ryansans`.** While checking is negative, **never Zelle to Desert Financial** — the overdraft eats it.
+- **Card → ACH: Melio**, 2.9% fee. Same-day ACH free before 2:00 PM ET. ⚠ **Free trial expires ~9/24/26.**
+- ⚠ **Visa ••2245: limit $1,500, on Ryan's dad's account, Ryan cannot request an increase.** It has already frozen once from two charges 20 minutes apart.
+- **Pipeline Law 1: every event funds the NEXT event's deposits. Show money and life money never touch.**
+- **Pipeline Law 3: break even on tickets alone at 70% sold.** Vendors, merch and sponsors are profit, never survival.
+
+**Ticketing**
+- Shotgun takes ~11%. **Net = face × 0.89.**
+- **Early payout works pre-event:** Banking → event balance → New Transfer → 4-digit emailed code → **2–3 business days.** Sell ~4 days before money is needed.
+- ⚠ **THE MOST EXPENSIVE BUG IN THIS BUSINESS: a broken file in the Video trailer (16:9) slot renders INSTEAD of the cover image.** Gold Rush sat at 5,482 visits → 2 sales (0.04%) because every visitor saw a black rectangle. **Load the public page as a buyer and confirm the hero renders before promoting. Every show. Every time.**
+- Ticket-row drag-reorder and the per-row "more" menu **do not respond to automation.** Ryan builds tiers by hand.
+- **Shotgun followers = 9.** Top-of-funnel constraint on every show in this document.
+
+**Ads**
+- **$0.163 per click. Break-even conversion 0.92%.** Normal event pages run 1–3%.
+- **Never judge ad spend by daily burn without dividing by clicks.**
+- Above 0.92%, leave it running. Below 0.5% with a working page, the offer or the audience is wrong, not the spend.
+- **Ryan clicks. Claude never touches on/off.**
+
+**Brand**
+- The mark is **`IfYoKYK`**. Never `IYKYK`.
+- Descriptor: **"bass, underground, and frontline electronic music."** **Never "psytrance."**
+- **Banned word: "frequency."**
+- **No purple.** Gold belongs to GOLD RUSH the event, not to SubGround the brand.
+- Palette: ground `#08090B` · panels `#101216` · hairlines `#1E222A` · silver `#A7ABB6` · paper `#EDEFF4`. Type: **Archivo** + **IBM Plex Mono**.
+- **Never publish a venue's exact street address.** Teasers say "Coming Soon"; location drops to ticket holders. **Never publish the tunnel location at all.**
+- **Never publish public content without Ryan's explicit in-session approval.** Staged with Share unclicked is the correct end state.
+- **Never claim a capacity, headcount or stat that is not real.**
+
+**People**
+- **Never add SPECKZ.** Standing, permanent.
+- **Never let an artist go unpaid or unlisted to save a dollar.**
+- **F33LZ uses they/them.**
+- **@sups2shark (Sharky) is a PROMOTER, never on lineup art.**
+- **No verified handle exists for Yewz, Conkusst, Spaydz or Bandaid.** Get them. Never guess one.
+- **Pipeline Law 4: today's $150–500 vendors are DREAM's department heads. Pay on time and they grow at your prices.**
+
+**The one blackout**
+- **Oct 23–25, 2026 is a HARD BLACKOUT.** Ryan is at F33LZ's We Are Love Friend Festival. No bookings, no load-ins, no routing.
