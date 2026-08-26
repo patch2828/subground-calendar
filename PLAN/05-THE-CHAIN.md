@@ -43,7 +43,7 @@ Matches the master plan to the dollar. Plus the **$10,000–$15,000 festival-dep
 
 | Six-month result | Minus the mansion | Verdict |
 |---|---:|---|
-| CONSERVATIVE −$53,751 | −$131,947 to −$136,947 | **NOT FUNDED** |
+| CONSERVATIVE −$53,793 | −$131,989 to −$136,989 | **NOT FUNDED** |
 | **TARGET +$41,317** | **−$36,879 to −$41,879** | **NOT FUNDED** |
 | SELLOUT +$136,250 | +$53,054 to +$58,054 | FUNDED |
 
@@ -99,10 +99,10 @@ Mansion Phase 1 is **$6,000 of consultant retainer and pitch-deck design, and th
 
 | Source | Conservative | Target | Sellout |
 |---|---:|---:|---:|
-| Left after the mansion | −$134,447 | −$39,379 | $55,554 |
+| Left after the mansion | −$134,489 | −$39,379 | $55,554 |
 | Sponsors closed off the footage | $20,000 | $20,000 | $20,000 |
 | Aug '27 wave 1 — 500 × $135 | $67,500 | $67,500 | $67,500 |
-| **War chest into DREAM 1** | **−$46,947** | **$48,121** | **$143,054** |
+| **War chest into DREAM 1** | **−$46,989** | **$48,121** | **$143,054** |
 
 *(Using the corrected Phase 1 figures and the mansion at its $83,196 upper bound.)*
 

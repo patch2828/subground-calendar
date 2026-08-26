@@ -14,9 +14,9 @@ Built 2026-08-26 off `FACTS.md` and `SLATE.md`. Every number is either **VERIFIE
 
 At **TARGET** (roughly 67% average sell-through across the slate) the six months net **$41,317**. That is **$58,683 short of $100,000**.
 
-$100K lands at roughly **89% average sell-through across all nine shows**, or at TARGET sell-through plus about **$58,683 of sponsorship**, a layer that currently has $0 booked and $0 pitched.
+$100K lands at roughly **89% average sell-through across all eight ticketed shows** (the 9,400 ticketed seats on the slate; Icehouse is a free event and carries zero ticket capacity, so it cannot sit in a sell-through denominator), or at TARGET sell-through plus about **$58,683 of sponsorship**, a layer that currently has $0 booked and $0 pitched.
 
-At **CONSERVATIVE** the six months net **negative $53,751** — every single show on the slate loses money — and the business runs out of money in September.
+At **CONSERVATIVE** the six months net **negative $53,793** — every single show on the slate loses money — and the business runs out of money in September.
 
 The rest of this document is the arithmetic behind those three numbers.
 
@@ -118,11 +118,11 @@ So every number below that carries ad spend will look worse than the 8/25 model.
 
 #### Ad spend loaded against Sept 10
 
-Live rate is **$251/day** (8/25 and 8/26). Days from 8/26 to 9/10 inclusive of the run = **15**.
+Live rate is **$251/day** (8/25 and 8/26). The modeled run starts **8/27**, because **8/26 is already inside the sunk $2,146.08 billed Aug 6–26** and is not charged twice. **Days from 8/27 to 9/10 inclusive = 15** — `8/27–8/31 = 5 days` + `9/1–9/10 = 10 days` = **15**. ✅ The window and the month split now agree.
 
 `15 × $251 = $3,765` — **ESTIMATE**, assumes the cap stays where it is today.
 
-Split by month for cash flow: **$1,255 in August (5 days) + $2,510 in September (10 days).**
+Split by month for cash flow: **$1,255 in August (5 days, 8/27–8/31) + $2,510 in September (10 days, 9/1–9/10) = $3,765.**
 
 Already billed **$2,146.08 Aug 6–26** is **sunk and excluded** from this P&L. If you charge the Gold Rush share of it back to this show, every net below drops further.
 
@@ -143,14 +143,16 @@ Already billed **$2,146.08 Aug 6–26** is **sunk and excluded** from this P&L. 
 | Sponsors | **$0** | **$0** | **$0** |
 | **TOTAL REVENUE** | **$7,948** | **$16,461** | **$23,545** |
 | Fixed show costs (VERIFIED) | ($9,779) | ($9,779) | ($9,779) |
-| Ad spend 8/26–9/10 @ $251/day | ($3,765) | ($3,765) | ($3,765) |
+| Ad spend 8/27–9/10 @ $251/day (15 days) | ($3,765) | ($3,765) | ($3,765) |
 | **TOTAL COSTS** | **($13,544)** | **($13,544)** | **($13,544)** |
-| **NET** | **($5,604)** | **$2,917** | **$10,001** |
+| **NET** | **($5,596)** | **$2,917** | **$10,001** |
 
 Column arithmetic, so it can be checked:
 - CONS tickets: `100 × 13.33 = 1,333` + `350 × 17.78 = 6,223` = **$7,556**
 - TARGET tickets: `100 × 13.33 = 1,333` + `810 × 17.78 = 14,401.80` = **$15,735**
 - SELLOUT tickets: `1,333 + (1,200 × 17.78 = 21,336)` = **$22,669**
+- CONS net: `7,948 − 13,544` = **($5,596)**
+- TARGET net: `16,461 − 13,544` = **$2,917**
 - SELLOUT net: `23,545 − 13,544` = **$10,001**
 
 #### Breakeven, two ways
@@ -251,7 +253,11 @@ Pricing **$25 advance (net $22.23) / $30 GA (net $26.67)** — ESTIMATE, anchore
 
 ### 2.4 SHOW 04 — COMBINE × NORTHERN ROAD · Fri Nov 6 · Fillmore Warehouse / Alchemist's Enclave · cap 1,000
 
-Locked in writing with **Dallas Provencio, Corson Agency** (Ryan 8/21: "11/6 is locked on our side"). **Dallas is date-flexible if the room forces a move** — his words: "We don't have to route this with anything." Unavailable: 9/18, 10/2, 10/10, 11/7. Walter is out — reply from ryan@walterproductions.com, 8/23: "Friday, November 6th is fully booked at both venues." (Surname not logged in `FACTS.md`; Ryan to confirm before it goes in any doc.)
+**Nov 6 is LOCKED in writing by both sides (8/21).** Ryan: "11/6 is locked on our side." **Dallas Provencio, Corson Agency** (dprovencio@corsonagency.com): "Fire, thank you Ryan! Will stand by." Dallas is nonetheless **DATE-FLEXIBLE** by his own words — "I am more than happy to look at any other weekend that is open. **We don't have to route this with anything**" — so the date can move if a better room lands. Locked is not the same as inflexible, and the difference is load-bearing. Unavailable: 9/18, 10/2, 10/10, 11/7.
+
+🚩 **THE FORMAL OFFER IS FIVE DAYS OVERDUE.** Ryan promised it "within 48 hours" on 8/21 21:10 and never sent it. **Dallas has chased twice — 8/24 18:51 and 8/26 19:03** ("Checking back here for formal. Would love to get the ball rolling!"). The offer is already written and sits as Gmail draft `r-4007247225354787196` in thread `1a008707d7b362d2`. **Ryan clicks Send.** Terms the agency put in writing: **$1,000 each + HGR**, which Ryan has already accepted, and Dallas asked what the cap size is — the formal has to name it.
+
+**Walter is out** — confirmed 8/23 via `ryan@walterproductions.com` (thread `1a02c911ccd0e0f2`, still unread in Ryan's inbox): "Friday, November 6th is fully booked at both venues." No surname is logged in `FACTS.md`, so none is used here. ⚠️ **Note for any future Walter date: Walter runs ticketing, box office AND security** — full service — which kills every BYO-ticketing and BYO-security assumption in this model. Since Dallas is date-flexible, a Walter date on another weekend is a live, unanswered option.
 
 #### Cost stack
 
@@ -481,7 +487,11 @@ TARGET sell-through is set higher than January (75% vs 70%) because by mid-Febru
 
 ⭐ **THE PRECEDENT IS STRONG: SUBTRONICS HAS ALREADY PLAYED THIS VENUE** (also Willie Nelson and K.C. and the Sunshine Band), and they run car shows with vendors — the exact format SubGround just ran under a city permit. The pitch is not "will you allow a bass show," it is "which Saturday."
 
-⚠️ **What is still open, and it moves this whole P&L: a drive-in counts capacity in CARS, not people, and every line below assumes 2,500 PEOPLE.** Capacity, rental price, and whether the promoter sells tickets or buys the room flat are **all unconfirmed.** Every cost line below is an ESTIMATE and **the venue fee is still the single largest unverified number in this entire plan.**
+⚠️ **CAPACITY IS UNKNOWN, AND THE 2,500 FIGURE IS AN ASSUMPTION THIS MODEL INHERITED — not a verified capacity.** FACTS is explicit: **a drive-in's capacity is measured in CARS**, and the only published capacity term is the **50-CAR MINIMUM**. Whether tickets sell **per car or per person is unconfirmed**, as is whether the promoter sells the tickets or buys the room flat. What is unknown here is the **RENTAL PRICE** and the **CAPACITY BASIS** — not the contact.
+
+🚩 **The entire $48,895 TARGET ticket line below rests on a person-based capacity nobody has verified.** If the room is priced and sold per car, every ticket number in this P&L has to be rebuilt from scratch. Every cost line below is an ESTIMATE and **the venue fee is still the single largest unverified number in this entire plan.**
+
+🚩 **THE VENUE SELLS ALCOHOL.** Concessions carry beer, margaritas and canned cocktails, **21+**. This is **not** the no-alcohol M&M lot, so the security and medical assumptions carried over from Sept 10 **do not hold here**: expect ID checks and wristbanding, a higher guard count, and a heavier EMT load than the $1,700 security and $2,800 medical lines below carry. It also removes the "no 21+ fenced enclosure needed" saving that Sept 10 got for free.
 
 #### Cost stack
 
@@ -514,17 +524,19 @@ Pricing **$30 advance (net $26.67) / $40 GA (net $35.56)** — ESTIMATE. Priced 
 | Gross ticket revenue | $27,000 | $55,000 | $95,000 |
 | Shotgun fee | ($2,997) | ($6,105) | ($10,545) |
 | **Ticket net** | **$24,003** | **$48,895** | **$84,455** |
-| Vendor fees (10 spots @ $150) | $800 | $1,200 | $1,500 |
+| Vendor fees (10 spots @ $150) | $750 (5 of 10 pay) | $1,200 (8 of 10) | $1,500 (all 10) |
 | Merch retail | $1,200 | $2,500 | $3,600 |
 | Square fee | ($35) | ($72) | ($104) |
 | Sponsors | **$0** | **$0** | **$0** |
-| **TOTAL REVENUE** | **$25,968** | **$52,523** | **$89,451** |
+| **TOTAL REVENUE** | **$25,918** | **$52,523** | **$89,451** |
 | **TOTAL COSTS** | **($39,464)** | **($39,464)** | **($39,464)** |
-| **NET** | **($13,496)** | **$13,059** | **$49,987** |
+| **NET** | **($13,546)** | **$13,059** | **$49,987** |
+
+Column arithmetic: CONS `$24,003 + $750 + $1,200 − $35 = $25,918` · `$25,918 − $39,464 = ($13,546)`. Vendor fees are priced at $150 a spot everywhere in this document, so every column has to be a whole number of spots: **5 × $150 = $750**, 8 × $150 = $1,200, 10 × $150 = $1,500.
 
 **Breakeven on tickets alone: 1,235 tickets (49%).** `$39,464 − $13,335 = $26,129` · `÷ $35.56 = 735 GA` · `+ 500 = 1,235.` **Passes Law 3.**
 
-🚩 **The single biggest execution risk in the plan.** A CONSERVATIVE Drive-In loses $13,496, which is more than the entire TARGET profit of Halloween and Nov 6 combined. **Get the real capacity and the real rental price off 623-939-9715 before this row is trusted at all**, and **do not book this until the four prior ticketed shows have actually happened and the sell-through data is real.** February 20 is late enough in the window that the decision can be made in December off real numbers.
+🚩 **The single biggest execution risk in the plan.** A CONSERVATIVE Drive-In loses $13,546, which is more than the entire TARGET profit of Halloween and Nov 6 combined. **Get the real capacity and the real rental price off 623-939-9715 before this row is trusted at all**, and **do not book this until the four prior ticketed shows have actually happened and the sell-through data is real.** February 20 is late enough in the window that the decision can be made in December off real numbers.
 
 ---
 
@@ -554,24 +566,24 @@ Cumulative net across the six-month window. Icehouse enters as a negative, never
 
 | # | Date | Show | CONS net | CONS cum. | TARGET net | TARGET cum. | SELLOUT net | SELLOUT cum. |
 |---|---|---|---|---|---|---|---|---|
-| 01 | Thu Sep 10 | GOLD RUSH PRE-PARTY | ($5,604) | **($5,604)** | $2,917 | **$2,917** | $10,001 | **$10,001** |
-| 02 | Sep 18/19 | ICEHOUSE (not revenue) | ($2,500) | **($8,104)** | ($2,500) | **$417** | ($2,500) | **$7,501** |
-| 03 | Sat Oct 31 | HALLOWEEN | ($6,501) | **($14,605)** | $3,570 | **$3,987** | $13,292 | **$20,793** |
-| 04 | Fri Nov 6 | COMBINE × NORTHERN ROAD | ($5,308) | **($19,913)** | $4,762 | **$8,749** | $13,102 | **$33,895** |
-| 05 | Sat Dec 12 | TH3 N3TW0RK NIGHT | ($4,835) | **($24,748)** | ($1,468) | **$7,281** | $2,124 | **$36,019** |
-| 06 | Thu Dec 31 | NEW YEAR'S EVE | ($4,413) | **($29,161)** | $11,930 | **$19,211** | $25,900 | **$61,919** |
-| 07 | Sat Jan 23 | JANUARY HEADLINE | ($6,238) | **($35,399)** | $3,832 | **$23,043** | $12,172 | **$74,091** |
-| 08 | Sat Feb 13 | FEBRUARY HEADLINE | ($4,856) | **($40,255)** | $5,215 | **$28,258** | $12,172 | **$86,263** |
-| 09 | Sat Feb 20 | DRIVE-IN GLENDALE 9 | ($13,496) | **($53,751)** | $13,059 | **$41,317** | $49,987 | **$136,250** |
+| 01 | Thu Sep 10 | GOLD RUSH PRE-PARTY | ($5,596) | **($5,596)** | $2,917 | **$2,917** | $10,001 | **$10,001** |
+| 02 | Sep 18/19 | ICEHOUSE (not revenue) | ($2,500) | **($8,096)** | ($2,500) | **$417** | ($2,500) | **$7,501** |
+| 03 | Sat Oct 31 | HALLOWEEN | ($6,501) | **($14,597)** | $3,570 | **$3,987** | $13,292 | **$20,793** |
+| 04 | Fri Nov 6 | COMBINE × NORTHERN ROAD | ($5,308) | **($19,905)** | $4,762 | **$8,749** | $13,102 | **$33,895** |
+| 05 | Sat Dec 12 | TH3 N3TW0RK NIGHT | ($4,835) | **($24,740)** | ($1,468) | **$7,281** | $2,124 | **$36,019** |
+| 06 | Thu Dec 31 | NEW YEAR'S EVE | ($4,413) | **($29,153)** | $11,930 | **$19,211** | $25,900 | **$61,919** |
+| 07 | Sat Jan 23 | JANUARY HEADLINE | ($6,238) | **($35,391)** | $3,832 | **$23,043** | $12,172 | **$74,091** |
+| 08 | Sat Feb 13 | FEBRUARY HEADLINE | ($4,856) | **($40,247)** | $5,215 | **$28,258** | $12,172 | **$86,263** |
+| 09 | Sat Feb 20 | DRIVE-IN GLENDALE 9 | ($13,546) | **($53,793)** | $13,059 | **$41,317** | $49,987 | **$136,250** |
 | — | Oct–Feb | LIGHT HOUSE THURSDAYS ×5 *(memo, outside the canonical total)* | ($220) | — | $1,555 | — | $3,555 | — |
 
-**The canonical six-month total is the row 09 cumulative — the nine shows: CONSERVATIVE ($53,751) · TARGET $41,317 · SELLOUT $136,250.** The Light House row is carried as a memo and sits outside it, because §2.10's deal terms are undocumented and no venue contact is logged for it. If the series runs it adds ($220) / $1,555 / $3,555 on top.
+**The canonical six-month total is the row 09 cumulative — the nine shows: CONSERVATIVE ($53,793) · TARGET $41,317 · SELLOUT $136,250.** The Light House row is carried as a memo and sits outside it, because §2.10's deal terms are undocumented and no venue contact is logged for it. If the series runs it adds ($220) / $1,555 / $3,555 on top.
 
 ### Where the number actually lands
 
 | Scenario | Six-month net | vs $100,000 |
 |---|---|---|
-| **CONSERVATIVE** | **($53,751)** | **$153,751 short.** Every single show loses money. The business is insolvent by October. |
+| **CONSERVATIVE** | **($53,793)** | **$153,793 short.** Every single show loses money. The business is insolvent by October. |
 | **TARGET** | **$41,317** | **$58,683 short.** |
 | **SELLOUT** | **$136,250** | **$36,250 over.** |
 
@@ -587,7 +599,7 @@ $100,000 sits `$100,000 − $41,317 = $58,683` above TARGET.
 
 On tickets alone that gap closes at roughly **89% average sell-through**: `0.89 × 9,400 = 8,366 tickets` · `8,366 − 6,330 = 2,036 more tickets than TARGET sells.`
 
-> **$100K = roughly 89% average sell-through across all nine shows, not 70%.**
+> **$100K = roughly 89% average sell-through across all eight ticketed shows — the 9,400 ticketed seats on the slate — not 70%.** Icehouse carries no ticket capacity by Ryan's binding 8/22 correction, so it is not in this denominator, and Light House is not in the nine at all.
 >
 > **Marginal value of one additional ticket anywhere on the slate: `$58,683 ÷ 2,036 = $28.82`.** The fixed costs are already paid. Every ticket past TARGET is nearly pure contribution, and it drags merch and vendor value with it.
 
@@ -597,7 +609,7 @@ On tickets alone that gap closes at roughly **89% average sell-through**: `0.89 
 |---|---|---|
 | **A. Sell more tickets** | +2,036 tickets across the slate, ~89% average sell-through | Hard. From a base of 142 tickets ever sold, this asks for 8,366 in six months. |
 | **B. Sponsors** | `$58,683 ÷ 8 revenue shows = $7,335 per show` of sponsorship | **Untested. $0 booked, $0 pitched, no rate card, no deck, no contact.** Also the only path that does not depend on the crowd showing up. |
-| **C. Ad efficiency** | The slate carries **$28,669** of modeled ad spend. Moving the blended conversion from ~1.5% to 2.0% delivers ~33% more tickets on the same money, roughly **+956 tickets ≈ +$30,000**. | Real, and half the answer on its own. Requires the Shotgun page to actually convert. See §6. |
+| **C. Ad efficiency** | The slate carries **$28,669** of modeled ad spend. At the VERIFIED $0.163 CPC that buys `$28,669 ÷ $0.163 = 175,883 clicks`. Moving the blended conversion from 1.5% to 2.0% on the same money: `175,883 × 1.5% = 2,638 tickets` vs `175,883 × 2.0% = 3,518 tickets` = **+880 tickets**. At this document's own marginal value of $28.82/ticket that is **≈ +$25,400**, taking TARGET from $41,317 to roughly **$66,700**. | Real, and it is the single biggest lever on its own. Requires the Shotgun page to actually convert. See §6. |
 
 **The honest read: no single path gets there. B + C together get most of the way, and A has to carry the rest.**
 
@@ -633,7 +645,7 @@ Modeling rules, stated so they can be argued with:
 | Blade 1st half (due Wed 8/27) | $250 |
 | EMT ELITE deposit (locks the date) | $280 |
 | Wristbands | $30 |
-| Ads, 5 days × $251/day | $1,255 |
+| Ads, 5 days (8/27–8/31) × $251/day | $1,255 |
 | **Total** | **$1,815** |
 
 In: **$0.** Gold Rush has sold approximately **2 tickets** off 5,482 page visits. There is no Shotgun balance to early-payout.
@@ -718,7 +730,7 @@ Second fix, same day: **do not stack a Melio charge and a Cash App push within t
 | Light House February | $311 | | | |
 | **Total** | **$73,422** | | **Total** | **$47,837** |
 
-🚩 **February is the highest-risk month in the plan.** $47,837 goes out against a Drive-In whose capacity and rental price are both still unconfirmed — the venue is found and the Subtronics precedent is strong, but nobody has a quote — seven days after another 1,000-cap show. If the Drive-In sells CONSERVATIVE (800 tickets) it loses $13,496 and February closes at **$5,891** instead of $44,972.
+🚩 **February is the highest-risk month in the plan.** $47,837 goes out against a Drive-In whose capacity and rental price are both still unconfirmed — the venue is found and the Subtronics precedent is strong, but nobody has a quote — seven days after another 1,000-cap show. If the Drive-In sells CONSERVATIVE (800 tickets) it loses $13,546 and **February closes at $18,367 instead of $44,972.** The working, because the month still contains Feb 13 and the Light House night: **Feb 13 cash contribution `$19,115 + $1,473 − $12,373 = +$8,215`** · **Drive-In CONSERVATIVE cash contribution `$24,003 + $1,915 − $35,464 = −$9,546`** · **Light House February `+$311`** → **month net −$1,020** against a January close of $19,387 → **$18,367**. The point stands at the right number: a conservative Drive-In wipes out **$26,605** of planned February surplus.
 
 ### CASH FLOW UNDER CONSERVATIVE — the short version
 
@@ -823,10 +835,10 @@ Sept 10 runs **1 PM to 10 PM = 9 hours.**
 | Do nothing | $0 | $440 | baseline |
 | 3× reorder through Printify | `$331.98 × 3 ≈ $996` ESTIMATE | ~$1,320 ESTIMATE | `$880 of extra retail on $664 of extra spend` = **+$216** |
 
-**The honest read: at Printify print-on-demand pricing the reorder barely pays for itself.** A ~33% gross margin on POD does not survive a $250 stock-out.
+**The honest read: at Printify print-on-demand pricing the reorder barely pays for itself.** $331.98 of production against a $440 retail ceiling is a **24.5% gross margin** — `($440 − $331.98) ÷ $440 = 24.55%` — or **$108.02 of contribution per order cycle**. A 3× reorder costs **$664 more** and returns **$880 of retail**, so **+$216 net (ESTIMATE)**. POD margin at that level does not justify carrying inventory risk for a 1,200-person booth. (Note the trap: $108 on $332 of cost is a 33% **markup over cost**, not a 33% **gross margin**. The margin is 24.5%.)
 
 **The real fixes, in order:**
-1. **Stickers.** Lockup Sticker $3.95 and Bone Banner Sticker $3.95, already in the catalog. The booth order carries 20 + 10 = **30 stickers.** Stickers are the highest-margin, lowest-cost, fastest-moving item at a booth and they never stock out if you order 500 instead of 30. **This is the cheapest merch dollar available.**
+1. **Stickers.** Lockup Sticker $3.95 and Bone Banner Sticker $3.95, already in the catalog. The booth order carries **40 stickers** — Sigil 3" x20, Bone Banner 3" x10, Lockup 3" x10 (order #28379886.1). Stickers are the highest-margin, lowest-cost, fastest-moving item at a booth and they never stock out if you order 500 instead of 40. **This is the cheapest merch dollar available.**
 2. **Bulk screen printing, not POD.** POD is the right tool for a webstore with no inventory risk. It is the wrong tool for a booth at a 1,200-person event, where the whole point is having stock on the table. A local screen printer at volume roughly doubles the margin per tee.
 3. **Sell the drop, not the stock.** A QR at the booth to **subground-collective.printify.me** converts the 8 empty hours into orders that ship later. **Cost: $0.** Print it on the same card as the Venmo and Cash App QRs.
 
@@ -958,7 +970,7 @@ The break-even conversion rate is a function of ticket price. Higher prices lowe
 
 | Show | Days × rate | Spend |
 |---|---|---|
-| Sept 10 (8/26–9/10) | 15 × $251 | $3,765 |
+| Sept 10 (8/27–9/10) | 15 × $251 | $3,765 |
 | Oct 31 | 16 × $211 | $3,376 |
 | Nov 6 | 16 × $211 | $3,376 |
 | Dec 12 | 10 × $200 | $2,000 |
@@ -968,7 +980,7 @@ The break-even conversion rate is a function of ticket price. Higher prices lowe
 | Feb 20 | 24 × $251 | $6,024 |
 | **TOTAL** | | **$28,669** |
 
-**$28,669 is 20% of all modeled costs and it is the most controllable line in the entire plan.** Moving the blended conversion from 1.5% to 2.0% on the same spend is worth roughly **+956 tickets ≈ +$30,000**, which alone would take TARGET from $41,317 to roughly $71,000. **Do not judge ad spend by daily burn without dividing by clicks. Above 0.92% leave it running. Below 0.5% with a working page, the offer or the audience is wrong, not the spend.**
+**$28,669 is 20% of all modeled costs and it is the most controllable line in the entire plan.** At the VERIFIED $0.163 CPC that money buys `$28,669 ÷ $0.163 = 175,883 clicks`. Moving the blended conversion from 1.5% to 2.0% on the same spend is worth `175,883 × (2.0% − 1.5%) =` **+880 tickets**, which at this document's own $28.82 marginal value is **≈ +$25,400** and would take TARGET from $41,317 to roughly **$66,700**. **Do not judge ad spend by daily burn without dividing by clicks. Above 0.92% leave it running. Below 0.5% with a working page, the offer or the audience is wrong, not the spend.**
 
 ---
 
@@ -979,13 +991,13 @@ Every one of these is an ESTIMATE standing in for something nobody has quoted. R
 | # | Line | Modeled | Real range | Swing | Who has to produce the real number |
 |---|---|---|---|---|---|
 | 1 | **Drive-In venue fee** | $8,000 | Genuinely unknown | **±$4,000** | **West Wind Glendale 9 Drive-In, 623-939-9715**, or the form at westwinddi.com/events/host-your-event. Contact found 8/26; published terms say only "price varies" against a 50-car minimum. **Ryan makes the call.** Same call has to settle the capacity, which the model states in people and the venue counts in cars. |
-| 2 | **Roster support pay** | $150/set × ~48 sets = $7,200 | No rate exists anywhere in FACTS | **±$4,800** if the real rate is $250 | Ryan. Law 4 says these people become DREAM's department heads, so underpaying is a false economy. |
+| 2 | **Roster support pay** | $150/set × **51 sets = $7,650** (Halloween 6 + Nov 6 5 + Dec 12 10 + NYE 6 + Jan 6 + Feb 13 6 + Drive-In 12, counted off the cost stacks in §2) | No rate exists anywhere in FACTS | **±$5,100** if the real rate is $250 | Ryan. Law 4 says these people become DREAM's department heads, so underpaying is a false economy. |
 | 3 | **Fillmore Saturday rate** (Halloween) | $6,000 | $5,250–$7,000 (1.5×–2.0× the verified $3,500 Thursday) | **±$1,750** | **Synesthesia @synmusicaz.** Never quoted. |
 | 4 | **NYE room** | $7,000 | Unknown, no venue identified | **±$2,000** | Ryan. No conversation has started. |
 | 5 | **Fillmore Friday rate** (Nov 6) | $5,000 | Between $3,500 verified Thursday and weekend pricing | **±$1,500** | **Synesthesia. Asked 8/24, still PENDING.** |
 | 6 | **EMT ELITE quote** | $1,400 for Sept 10, $350/EMT thereafter | $560–$1,400 for Sept 10, depending on whether the deposit was 20% or 50% | **±$840** on Sept 10, more across the slate | **Monique Gunn** (monique@emtelite.com, 602-877-8678). The figure is in `SubGround Collective Price Qt.pdf` and has never been read. Also open: her 5-hour minimum vs the Sept 10 8-hour window. |
 
-**Combined downside if all six land at the bad end: roughly $15,000 of additional cost, taking TARGET from $41,317 to ~$26,000.**
+**Combined downside if all six land at the bad end: $15,190 of additional cost** (`$4,000 + $5,100 + $1,750 + $2,000 + $1,500 + $840`), **taking TARGET from $41,317 to roughly $26,100.**
 
 Two upside notes that go the other way:
 - **Proper Site trim levers are already identified: −$395** (handwashing 2→1 saves $110, barricade 400 ft → 50 ft stage-front only saves $285). $2,250 → $1,855, deposit ~$928 instead of ~$1,125. The counter-reply is drafted and waiting on their written quote. Market range is $1,500–$2,700, so $2,250 is upper-middle and negotiable.
@@ -1256,14 +1268,14 @@ No placeholder anywhere in this document. These are the real holes.
 | **EMT ELITE quote figure** (in `SubGround Collective Price Qt.pdf`, never read) | **Monique Gunn** — monique@emtelite.com, 602-877-8678 | Sept 10 P&L accuracy, ±$840. Also: her 5-hour minimum vs the 8-hour window. |
 | **Fillmore Warehouse FRIDAY rate** | **Synesthesia @synmusicaz.** Asked 8/24, still pending. | The Nov 6 formal offer, which is drafted and fires the moment the rate lands. |
 | **Fillmore Warehouse SATURDAY rate** | **Synesthesia.** Never asked. | Halloween, the highest-value open date of the window. |
-| **Glendale 9 Drive-In capacity, rental price, and ticketing structure** | **West Wind Glendale 9 Drive-In — 623-939-9715, or the form at westwinddi.com/events/host-your-event.** Contact found 8/26 and Subtronics has already played it; what is missing is the room, not the door. Capacity is counted in CARS, this model assumes 2,500 PEOPLE. | Show 09, which is 32% of the TARGET total. |
+| **Glendale 9 Drive-In capacity, rental price, and ticketing structure** | **West Wind Glendale 9 Drive-In — 623-939-9715, or the form at westwinddi.com/events/host-your-event.** **Contact IS logged as of 8/26** and **Subtronics has already played this venue** — lead the pitch with that. What is missing is the **RENTAL PRICE** and the **CAPACITY BASIS**, not the contact: capacity is counted in CARS against a published **50-CAR MINIMUM**, while this model assumes 2,500 PEOPLE. Also confirm the alcohol impact — concessions are **21+**, so the no-alcohol security and medical math carried over from the M&M lot does not apply. | Show 09, which is 32% of the TARGET total. |
 | **NYE venue** | Ryan. No conversation started. | Show 06, the second-largest TARGET line. |
 | **Dec 12 venue (600-cap room)** | Ryan. No room identified. | Show 05, already the weakest on the slate. |
 | **Light House deal terms** | Ryan. No venue contact logged for it. | The recurring layer and the "$2,100 capital raiser" framing that does not reconcile. |
 | **Lasers / projection mapping rate for Sept 10** | **Ryan owes Finson Lee a number.** Lee asked for a budget on **Jul 24** and the question sat unanswered for a month. Re-engaged 8/26. | The visuals line. Lee ran mainstage lasers for Marshmello and builds his own projection-mapping software plus GrandMA3 plugins. Treat as a top-tier get, not a favor ask. |
 | **DMX board** | Open production gap. Lee has a 12W plus two small lasers but **no DMX board.** | Sept 10 lighting. |
 | **Melio pricing after ~9/24/26** | Ryan checks the plan page | Every venue deposit from Halloween forward. |
-| **Roster support pay rate** | Ryan | ~$7,200 of modeled cost across the slate, ±$4,800. |
+| **Roster support pay rate** | Ryan | **$7,650** of modeled cost across the slate (51 sets × $150), **±$5,100** if the real rate is $250. |
 | **Whether the Shotgun hero renders** | **Ryan loads the public page as a buyer** | Every ad dollar currently running. |
 | **Ben Bethel's SGC risk doc** (`1x80WLT0f_xnbbBf1C9nodT3Onm9N6r1u8_258YUkwqQ`) | Has **never been opened.** Surface it before vendor spend locks. | Unknown risk exposure. |
 

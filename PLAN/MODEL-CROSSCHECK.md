@@ -10,7 +10,7 @@ Two independent models of the same six months were built. They disagreed by roug
 
 | | This doc (original) | `04-MONEY.md` |
 |---|---:|---:|
-| CONSERVATIVE | +$45,237 | **−$53,751** |
+| CONSERVATIVE | +$45,237 | **−$53,793** |
 | TARGET | +$110,153 | **+$41,317** |
 | SELLOUT | +$204,768 | **+$136,250** |
 | $100K needs | ~70% fill | **~89% fill** |
@@ -39,7 +39,7 @@ This document used round per-show estimates. `04-MONEY.md` built line-item costs
 
 | Scenario | Six-month net | Against $100K |
 |---|---:|---|
-| CONSERVATIVE (~40% fill) | **−$53,751** | Every single show loses money. The business does not survive this case. |
+| CONSERVATIVE (~40% fill) | **−$53,793** | Every single show loses money. The business does not survive this case. |
 | TARGET (~70% fill) | **+$41,317** | Short by $58,683 |
 | SELLOUT | **+$136,250** | Clears it by $36,250 |
 
@@ -57,7 +57,7 @@ Phase 2, On The Rocks, needs **$78,196 to $83,196** (the $68,196 ledger plus its
 
 | Phase 1 result | Minus the mansion | Verdict |
 |---|---:|---|
-| CONSERVATIVE −$53,751 | −$131,947 to −$136,947 | NOT FUNDED |
+| CONSERVATIVE −$53,793 | −$131,989 to −$136,989 | NOT FUNDED |
 | **TARGET +$41,317** | **−$36,879 to −$41,879** | **NOT FUNDED** |
 | SELLOUT +$136,250 | +$53,054 to +$58,054 | FUNDED |
 
@@ -86,7 +86,7 @@ breakeven check      100 EB + 475 GA               = $9,778 vs costs $9,779
 ```
 Note this validates the *arithmetic* of the FACTS figure, not the *sufficiency* of its $9,779 cost basis, which `04-MONEY.md` has since revised upward.
 
-**Two small arithmetic slips found in `04-MONEY.md` itself**, and corrected: it stated a TARGET of $42,872 where its own per-show column sums to $41,317, and CONSERVATIVE as −$53,971 where its column sums to −$53,751. The tables are the source of truth; the summaries now match them. Every figure in this document uses the corrected sums.
+**Two small arithmetic slips found in `04-MONEY.md` itself**, and corrected: it stated a TARGET of $42,872 where its own per-show column sums to $41,317, and CONSERVATIVE as −$53,971 where its column sums to −$53,793. The tables are the source of truth; the summaries now match them. Every figure in this document uses the corrected sums.
 
 ---
 

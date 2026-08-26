@@ -59,7 +59,7 @@ Plus the DREAM PROJECT law: **Content first. Sponsors second. Festival third.** 
 | Venue | **M&M Smoke, Peoria.** Exact address is on the permit and **NEVER goes in public promo copy.** |
 | Site | APN 142-11-462B · zoning C-2 · **3.42 AC paved retail lot** |
 | Approved capacity | **1,300** = 100 Early Bird + 1,200 GA |
-| Site-plan attendance | **Up to 1,200 across the day. EST PEAK 300–400 at once.** Porta-potty and staffing math runs off PEAK, not off 1,300. |
+| Site-plan attendance | **Up to 1,200 across the day. EST PEAK 300–400 at once.** Porta-potty and staffing math runs off PEAK, not off 1,300. ⚠ **A SECOND PEAK FIGURE — ~450 — also sits in the record, on the porta-potty line. It is flagged in SITE SERVICES below and is NOT resolved by guess.** |
 | ⚠ Capacity note | The 1,300 approved ticket capacity and the site plan's "up to 1,200 across the day" are two different numbers in the record. Do not resolve them by guessing. **Ryan or Kelly Madrid confirms which governs before any cap-based claim is made to a vendor or a buyer.** |
 | Ticketing | Shotgun, event ID **581323**, Public / On-Sale |
 | Retired | Shotgun **581336** (Afters) — retired concept, **flip to Private, never delete** |
@@ -166,7 +166,7 @@ Two stylization notes so nobody "corrects" the art: the Sept 10 lineup carries *
 - **Blade — Blades Bodyguard LLC. $500 total, 3 guards, 2:00 PM–10:00 PM.** Agreed in text 8/6. Text **(602) 587-2222**.
 - Invoice: `my.invoice-maker.app/share/show/096C928D-72E0-4237-B77C-0DD5EF9ADAAD`
 - Rails: Cash App **$BladesBodyGuardLLC** · Zelle **@bladesbodyguardllc**
-- **NOTHING PAID YET. $250 due Wed 8/27.** Ryan pays it.
+- **NOTHING PAID YET. $250 due Thu 8/27.** Ryan pays it. ⚠ **Aug 27 2026 is a THURSDAY** — verified off the Sept 10 = Thursday anchor, and it matches gates S-1 and S-2. **FACTS.md §7 carries the same "Wed 8/27" slip and is owed the same correction.** **Ryan confirms with Blade in writing which calendar day he is expecting the $250 — this is a payment deadline, not a formatting nit.**
 - ⚠ **GAP: Blade is contracted 2 PM–10 PM. The event now opens at 1 PM.** That is **one unguarded hour** at the front door. Fix it in writing with Blade before 9/3 — either move his call to 12:00 PM for load-in and gate, or accept the gap on the record. Do not discover this on the day.
 - ⚠ **Blade still owes written confirmation that all 3 guards hold current AZ unarmed guard licenses.** He dodged that on 8/6. **Get it in writing.**
 - Alternative that comes with paper: **Access Control Security — Mat Tecson, Sales@accesscontrolsecurity.com, (714) 747-2201.** 3 unarmed guards, 1–11 PM, $38/hr/guard = **$1,140** (checks: 3 × 10 hrs × $38 = $1,140). Blade chosen. Keep Access Control warm as the license-paper fallback.
@@ -186,7 +186,7 @@ Two stylization notes so nobody "corrects" the art: the Sept 10 lineup carries *
 - **Verbal guesstimate $2,250. Terms 50% upfront / 50% day-of.** Market range is $1,500–$2,700, so $2,250 is upper-middle and negotiable.
 - **Trim levers already identified:** handwashing 2 → 1 (−$110) · barricade 400 ft → 50 ft stage-front only (−$285) → **target ~$1,855, deposit ~$928.**
 - **The counter-reply is DRAFTED and waiting on their written quote.** Ryan sends it when the quote lands.
-- **Porta-potty ratio: 1 unit per 100 guests for 6 hours.** At ~450 peak that is **4–5 units including 1 ADA**, roughly $600–900. **At least 1 ADA unit is required** for an all-ages public event and inspectors check. **September books out — reserve early.**
+- **Porta-potty ratio: 1 unit per 100 guests for 6 hours.** ⚠ **TWO PEAK NUMBERS ARE IN THE RECORD and they disagree — the site plan's EST PEAK 300–400 and the porta-potty line's ~450.** At 300–400 the ratio gives **3–4 units**; at 450 it gives **4–5**. **Order 5 including 1 ADA regardless** — the marginal unit is ~$150 against a shutdown risk. **Note the discrepancy for Kelly Madrid rather than resolving it by guess. FACTS.md §7 is owed the same reconciliation.** **Recomputed cost:** the $600–900 on record spans 4–5 units, i.e. roughly $150–180 each, so **5 units ≈ $750–900.** **At least 1 ADA unit is required** for an all-ages public event and inspectors check. **September books out — reserve early.**
 
 **BARRIERS**
 - **Barrier spec as filed on the site plan: retractable-belt stanchions + rope line, full event-area perimeter. NOT metal barricade.**
@@ -252,7 +252,7 @@ Two stylization notes so nobody "corrects" the art: the Sept 10 lineup carries *
 | Time | Item | Owner |
 |---|---|---|
 | Wed Sep 9, PM | Optional pre-stage: stanchions, canopies, tables, backdrop stand dropped on site | Ryan · M&M |
-| Thu Sep 10, AM | **Proper Site Services delivery** — porta potties (4–5 incl. 1 ADA), handwashing, any fence/barricade. Delivery windows are usually AM and rarely fit inside a noon-to-one window. **Confirm with Kelly whether service delivery counts as "setup."** | Ryan → Kelly Madrid, 623-773-7312 |
+| Thu Sep 10, AM | **Proper Site Services delivery** — porta potties (**order 5 incl. 1 ADA** — see the two-peak flag in SITE SERVICES), handwashing, any fence/barricade. Delivery windows are usually AM and rarely fit inside a noon-to-one window. **Confirm with Kelly whether service delivery counts as "setup."** | Ryan → Kelly Madrid, 623-773-7312 |
 
 **PERMITTED SETUP — 12:00 to 1:00 PM**
 
@@ -345,7 +345,7 @@ Two stylization notes so nobody "corrects" the art: the Sept 10 lineup carries *
 | Item | Amount | Due | Rail | Who pays |
 |---|---|---|---|---|
 | **EMT ELITE deposit** — locks the date | **$280** | ASAP | Electronic only, **no paper checks** | **Ryan** |
-| **Blade, 1st half** | **$250** | **Wed 8/27** | Cash App **$BladesBodyGuardLLC** or Zelle **@bladesbodyguardllc** | **Ryan** |
+| **Blade, 1st half** | **$250** | **Thu 8/27** (Aug 27 2026 is a THURSDAY — verified) | Cash App **$BladesBodyGuardLLC** or Zelle **@bladesbodyguardllc** | **Ryan** |
 | **Wristbands (WristCo, 2 colors)** | **~$30** | Before ~9/5 for ship time | Card | **Ryan** |
 
 **DUE SEPT 3 — vendor layout lock with Peoria**
@@ -456,7 +456,7 @@ Banking → event balance → New Transfer → 4-digit code emailed → **2–3 
 |---|---|---|---|
 | **S-1** | **⚠ SETUP WINDOW.** Kelly Madrid confirms **in writing** whether site-services delivery and pre-stage can happen before 12:00 PM. | **Thu 8/27** (Peoria closed Fridays; next windows Mon 8/31 – Thu 9/3) | Stage the site the evening of Wed 9/9 and compress the 12–1 build to PA + booth + gate only. **This is the biggest unresolved risk on the show.** |
 | **S-2** | **CARD UNFROZEN.** Ryan calls the number on the back of Visa ••2245 and registers an authorized-user login. | **Thu 8/27** | **EMT deposit, Blade, porta potties AND the IG ads all decline.** Nothing else on this list matters until this clears. |
-| **S-3** | **Blade paid $250.** | **Wed 8/27** | Security is unconfirmed. Access Control Security (Mat Tecson, (714) 747-2201, $1,140) is the fallback and it costs $640 more. |
+| **S-3** | **Blade paid $250.** | **Thu 8/27** (Aug 27 2026 is a THURSDAY; same day as S-1 and S-2. ⚠ FACTS.md §7 still says "Wed 8/27" and is owed the same fix — and Blade must confirm the day in writing) | Security is unconfirmed. Access Control Security (Mat Tecson, (714) 747-2201, $1,140) is the fallback and it costs $640 more. |
 | **S-4** | **Blade's 3 AZ unarmed guard licenses in writing** + **call time moved to 12:00 PM** to cover the 1 PM open. | **Thu 9/3** | Switch to Access Control, or Ryan runs the 1–2 PM gate himself and documents the gap. |
 | **S-5** | **ANDREW LEHR ANSWERS THE PHONE.** Countersigned #10786, GALLIUM tech/hospitality rider + advance sheet, routing into PHX. **(814) 602-5613.** | **Fri 8/28** | Advance the show off contract #10786's terms alone and build the booth to the known tech spec. **Do not send a fourth email. Call.** |
 | **S-6** | **Coors Banquet struck from GALLIUM hospitality** or swapped for a meal buyout. | **Fri 8/28** | The site is NO ALCOHOL by permit. This one is not negotiable. |
@@ -775,23 +775,23 @@ Distribution: `IfYoKYK` only. Never "psytrance." Never "frequency." **Per-event 
 # PACKET 04 — COMBINE × NORTHERN ROAD
 ## Fri Nov 6, 2026 · presented by SubGround · **DATE LOCKED, VENUE PENDING** · T-72
 
-> **The date is locked in writing with Dallas Provencio at Corson Agency. The date is NOT flexible.** Everything else on this packet moves; the date does not.
+> **The date is locked in writing by both sides (8/21)** — Ryan: "11/6 is locked on our side"; Dallas Provencio, Corson Agency: "Fire, thank you Ryan! Will stand by." **But Dallas is DATE-FLEXIBLE if it ever needs to move:** "I am more than happy to look at any other weekend that is open. **We don't have to route this with anything.**" His other open targets were **9/19 and 10/3**; he is **unavailable 9/18, 10/2, 10/10 and 11/7**. **10/3 was scratched because of SPACE LACES, not because of routing.** Work 11/6 as locked — but it is a lock, not a wall, and that flexibility is what keeps a Walter room on another weekend alive.
 
 ### HEADER
 
 | Field | Value |
 |---|---|
-| Date | **Friday, November 6, 2026** (verified). **NOT FLEXIBLE.** |
+| Date | **Friday, November 6, 2026** (verified). **Locked in writing by both sides 8/21.** ⚠ **Dallas is DATE-FLEXIBLE — "We don't have to route this with anything."** Other open targets were **9/19 and 10/3**; unavailable **9/18, 10/2, 10/10, 11/7**. Treat 11/6 as locked, not as immovable. |
 | Billing | **COMBINE × NORTHERN ROAD, co-headline, presented by SubGround** |
 | Agency | **Dallas Provencio, Corson Agency — dprovencio@corsonagency.com.** Locked in writing. |
 | Doors / curfew | **unknown — set by the venue contract.** Fillmore quotes a **5-hour** window and **doors time counts, load-in does not.** |
 | Venue A | **Fillmore Warehouse, Phoenix — PLAN A.** Via **Synesthesia, @synmusicaz.** Address is in FACTS.md and **never goes in public promo.** |
 | Venue B | **Alchemist's Enclave** — relationship exists, but **it was explicitly not the 11/6 room.** |
-| ⚠ **WALTER IS OUT** | **Ryan Tucknott replied 8/22: "Friday, November 6th is fully booked at both venues."** Stop working Walter for this date. **A reply aiming Walter at December/NYE is DRAFTED and awaiting Ryan's "send it."** |
+| ⚠ **WALTER IS OUT** | **Walter Productions replied 8/23 from ryan@walterproductions.com** (thread `1a02c911ccd0e0f2`, **still UNREAD in Ryan's inbox**): **"Friday, November 6th is fully booked at both venues. Are you date flexible?"** ⚠ **Contact name unknown — FACTS.md holds only the email address. Ryan confirms the name from the thread before any draft is addressed. Do not invent one.** Stop working Walter for **this** date. **A reply aiming Walter at December/NYE is DRAFTED and awaiting Ryan's "send it."** ⚠ **Walter asked whether we are date-flexible and Dallas IS — so a Walter room on another weekend is a live, unanswered option.** |
 | ⚠ Walter note for future dates | **Walter runs ticketing, box office AND security — full service.** That kills any BYO-security or BYO-ticketing assumption at a Walter room. Remember it before pitching them December. |
 | Capacity | **1,000** per the slate; Fillmore is **1,000+** |
 | Fillmore terms known | Full buyouts Thu/Fri/weekends only · **THURSDAY = $3,500 / 5 hr all-in** · 3 stages · **full production included (CDJs, sound, projectors, lasers)** · **NO holds without deposit · contract THEN deposit · doors time counts, load-in does not** |
-| ⚠ **FRIDAY RATE** | **PENDING. Asked 8/24. Still not answered.** This is the single blocking number on the whole show. |
+| ⚠ **FRIDAY RATE** | **PENDING. Asked 8/24. Still not answered.** This is the blocking number on the **venue contract**. ⚠ **It does NOT block the Corson offer — the agency already put $1,000 each + HGR in writing, Ryan already accepted it, and the formal is five days overdue.** |
 | Deposit shape | New-promoter deposit **possibly 100% up front**; Syn will try for **50% hold + 50% before doors** |
 | **Ticket tiers** | **$25 advance, scaling to $30** — real, from the drafted offer skeleton |
 | Strategic note | **Nov 6 sits the night before Whethan plays The Van Buren, Sat Nov 7** (Warehouse.wavs 360 Show, 18+, Relentless Beats). **The out-of-town bass crowd is already in Phoenix and already spending.** The afters framing is free money. |
@@ -801,7 +801,7 @@ Distribution: `IfYoKYK` only. Never "psytrance." Never "frequency." **Per-event 
 **Confirmed at the top:**
 > **COMBINE × NORTHERN ROAD — co-headline**
 
-**The formal offer skeleton, DRAFTED and ready to fire the moment the Friday rate lands:**
+**The formal offer skeleton — DRAFTED, UNSENT, AND FIVE DAYS OVERDUE.** ⚠ **It does not wait on the Friday rate; the fee is already agreed in writing.** It sits as Gmail draft `r-4007247225354787196` in thread `1a008707d7b362d2`:
 - **$1,000 per artist flat**
 - **Purchaser covers hotel, ground, and rider**
 - **Tickets $25 advance scaling to $30**
@@ -818,7 +818,7 @@ Set times: **unknown.** Nothing can be built until doors and curfew exist.
 | Item | Status / owner |
 |---|---|
 | **Venue contract** | **BLOCKED on Fillmore's Friday rate. Asked 8/24, still pending.** Chase Synesthesia (@synmusicaz) on the verified brand-IG thread. **Contract THEN deposit. No holds without deposit.** |
-| **Agency paperwork** | **Dallas Provencio, dprovencio@corsonagency.com.** Date is locked in writing; the **offer** is drafted and unsent. **It fires the moment the Friday rate lands** — the venue cost has to be known before an offer goes out, or the show is priced blind. |
+| **Agency paperwork** | ⚠ **FIVE DAYS OVERDUE.** Ryan promised the formal offer **"within 48 hours" on 8/21 21:10** and it was **never sent**. **Dallas has chased twice — 8/24 18:51 and 8/26 19:03 ("Checking back here for formal. Would love to get the ball rolling!").** The offer is written and sitting as **Gmail draft `r-4007247225354787196` in thread `1a008707d7b362d2`. Ryan clicks Send.** ⚠ **It does not actually depend on the venue rate** — the agency already put **$1,000 each + HGR** in writing and **Ryan already accepted that figure**. **Dallas also asked what the cap size is — the formal must name it.** This is the one agency relationship locked in writing, and it has been left chasing. |
 | **Permits / licenses** | **unknown.** Indoor buyout, normally the venue's. **Get it in writing from Syn.** |
 | **Insurance** | **unknown — Fillmore's requirement has not been asked for.** Benchmark: Event Helper wrote Sept 10 at **$477 for $1M/$2M**, contact **Breanna Stanley**. New event, new policy. |
 | **Artist contracts** | Corson paper for COMBINE and NORTHERN ROAD. Roster support handled directly. |
@@ -880,7 +880,7 @@ Shotgun nets face × 0.89. **$25 → $22.25. $30 → $26.70.** 70% of 1,000 cap 
 | All 700 at $25 advance | $22.25 | **$15,575** | Everything must fit under $15,575 |
 | All 700 at $30 | $26.70 | **$18,690** | Ceiling rises to $18,690 |
 
-**Known costs against that ceiling: $2,000 of artist fees** (two artists at $1,000 flat). **That leaves $13,575 for venue, hotel, ground, rider, security, medical and ads at the $25 tier.** If Fillmore's Friday rate comes back anywhere near the Thursday $3,500, this show clears Law 3 with very large room. **That is why the Friday rate is the only number blocking the offer.**
+**Known costs against that ceiling: $2,000 of artist fees** (two artists at $1,000 flat). **That leaves $13,575 for venue, hotel, ground, rider, security, medical and ads at the $25 tier.** If Fillmore's Friday rate comes back anywhere near the Thursday $3,500, this show clears Law 3 with very large room. **The Friday rate blocks the venue contract — not the offer. The $1,000-each fee is already agreed in writing and the formal is five days overdue.**
 
 ### CONTENT CAPTURE PLAN — Nov 6
 
@@ -900,8 +900,8 @@ Brand: `IfYoKYK` only. Never "psytrance." Never "frequency." **Per-event accent,
 
 | # | Gate | Must be true by | If it fails |
 |---|---|---|---|
-| **N-1** | **FILLMORE FRIDAY RATE LANDS.** Asked 8/24, pending. **This blocks everything downstream, including the artist offer.** | **Fri 8/28** | Escalate on the verified @synmusicaz thread. If it is still silent by 9/8, price the show against **Alchemist's Enclave** or another room, because **the date is not flexible and cannot wait on one unanswered question.** |
-| **N-2** | **OFFER FIRES TO CORSON.** $1,000 per artist flat, purchaser covers hotel/ground/rider, tickets $25 advance scaling to $30, afters same room same night. Drafted and waiting. | **Same day the rate lands** | The date is locked but the talent is not. A locked date with no signed talent is an empty Friday. |
+| **N-1** | **FILLMORE FRIDAY RATE LANDS.** Asked 8/24, pending. **This blocks the venue contract and everything priced off it.** ⚠ **It does NOT block the Corson offer — see N-2, which is already five days overdue.** | **Fri 8/28** | Escalate on the verified @synmusicaz thread. If it is still silent by 9/8, price the show against **Alchemist's Enclave** or another room, because **11/6 is locked and the room is not.** ⚠ **Do NOT reason off "the date can't move" — Dallas is date-flexible ("We don't have to route this with anything"), so a Walter room on a different weekend stays a live option. Walter's 8/23 reply asked "Are you date flexible?" and has never been answered.** |
+| **N-2** | **OFFER FIRES TO CORSON — AND IT IS ALREADY FIVE DAYS OVERDUE.** Promised "within 48 hours" on 8/21 21:10, never sent; Dallas chased **8/24 18:51** and **8/26 19:03**. It is written as **Gmail draft `r-4007247225354787196`** in thread `1a008707d7b362d2`: $1,000 per artist flat (**already agreed in writing**), purchaser covers hotel/ground/rider, tickets $25 advance scaling to $30, afters same room same night — **and it must name the cap size Dallas asked for.** **Ryan clicks Send.** | **TODAY — Wed 8/26** | The date is locked but the talent is not, and the only agency relationship SubGround holds in writing has now chased twice with no answer. ⚠ **It does not wait on the Fillmore Friday rate — the fee is already agreed. Every further day of silence is the relationship, not the paperwork.** |
 | **N-3** | **VENUE CONTRACT SIGNED AND DEPOSIT PAID.** **Contract THEN deposit. NO holds without deposit.** | **Wed 9/30** *(ESTIMATE: on-sale 30 days out = Wed Oct 7, contract must precede it by a week)* | No hold means no room. Fall back to Alchemist's Enclave. |
 | **N-4** | **DEPOSIT FUNDED FROM SEPT 10 (and, if needed, HALLOWEEN) PROCEEDS.** Pipeline Law 1. | **Fri 9/11** | Nothing gets committed on hope. Show money funds the next show's deposits. |
 | **N-5** | **ON SALE at $25 advance.** | **Wed Oct 7** *(ESTIMATE: 30 days out)* | Compressed paid window. The tested unit is 16 days of ad spend. |
@@ -1349,7 +1349,7 @@ Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum
 ---
 
 # PACKET 09 — DRIVE-IN: GLENDALE 9 TAKEOVER
-## Sat Feb 20, 2027 · 2,500 cap · **TO BOOK** · **THE $100K HINGE** · T-178
+## Sat Feb 20, 2027 · 2,500 cap ⚠ ASSUMED, UNVERIFIED · **TO BOOK** · **THE $100K HINGE** · T-178
 
 > **This is the show the whole six-month plan is built to reach.** The roadmap calls it "the first real ticketed mid-size show." It is the last date inside the window — six months from 2026-08-26 lands on Fri Feb 26 2027. **February in Phoenix is clear of monsoon entirely, the outdoor window is wide open, and it lands after four ticketed shows of track record so the room can actually be filled.**
 
@@ -1359,10 +1359,10 @@ Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum
 |---|---|
 | Date | **Saturday, February 20, 2027** (verified) |
 | Doors / curfew | **unknown — set by the venue and by whatever municipal permit applies** |
-| Venue | **WEST WIND GLENDALE 9 DRIVE-IN — 5650 N 55th Ave, Glendale, AZ · 623-939-9715.** Part of the **West Wind Drive-Ins** chain, so there is a corporate events process, not a favor ask. **Booking route: the form at westwinddi.com/events/host-your-event** — the phone is the faster rung. |
-| Capacity | ⚠ **UNVERIFIED. 2,500** per the slate, and the pipeline record carries the Drive-In concept at **2,000–5,000 people** — but **a drive-in's capacity is counted in CARS, not people**, and nobody at West Wind has confirmed a number. Their only published figure is a **50-CAR MINIMUM**. **Confirm real capacity before trusting any number on this packet.** |
-| Format | **2-stage** |
-| Original timing | The record targeted **Oct–Nov or spring** and said **avoid monsoon.** **Feb 20 satisfies both.** |
+| Venue | **WEST WIND GLENDALE 9 DRIVE-IN · 5650 N 55th Ave, Glendale AZ · 623-939-9715 · booking form westwinddi.com/events/host-your-event** — **contact FOUND 8/26**, and it was the plan's largest unmanaged gap until then. Part of the **West Wind Drive-Ins** chain, so there is a corporate events process, not a favor ask; **the phone is the faster rung** (the form needs a browser). **Published rental terms: available most days, 50 CAR MINIMUM, price varies by availability and on-screen materials; groups get early access for setup and pre-show.** ⭐ **PITCH OPENER — SUBTRONICS HAS ALREADY PLAYED THIS VENUE**, noted explicitly "for EDM fans" (also Willie Nelson, K.C. and the Sunshine Band, and the Awakening Events Drive Theater Tour). They also run **car shows with vendors** — the exact format SubGround just ran under a city permit. **Lead every pitch with the Subtronics precedent: the ask is not "will you allow this," it is "you have already done this."** |
+| Capacity | **2,500 per the slate — but FACTS.md flags this as an ASSUMPTION, not a measurement.** ⚠ **Real capacity is unknown, and a drive-in's capacity is measured in CARS, not people.** Nobody at West Wind has confirmed any number. **The only published figure on record is a 50 CAR MINIMUM.** **Confirm real capacity before trusting any number in this packet** — every revenue line below inherits this assumption. |
+| Format | **2-stage PROPOSED (Claude's shape, not on record).** The venue has **nine screens**; nothing about stage count, layout or what the venue permits is confirmed. **Answered by D-1.** |
+| Original timing | **The only timing guidance on record is "avoid monsoon."** **Feb 20 satisfies it — February in Phoenix is entirely clear of monsoon season.** No seasonal targeting window beyond that exists in the record; do not attribute one to it. |
 | Ticket tiers | **unknown — Ryan sets them.** See the Law 3 gate. |
 | ⚠ Jurisdiction | Glendale, AZ. **The permitting process there is unknown and is NOT the Peoria TUP process.** Peoria's TUP TU26-00188 tells you what a process like this involves; it does not tell you what Glendale requires. **Assume nothing.** |
 
@@ -1388,11 +1388,11 @@ Headliner full set · crowd wide at peak · every roster artist, 3 clips minimum
 | **Permits / licenses** | ⚠ **unknown — Glendale jurisdiction, process unknown.** The Peoria model shows the shape of the work: application, fee (Peoria's was **$600**), owner authorization signed by the property owner, city business license (Peoria's was **$47.95**), and plan approval. **Find Glendale's equivalent of Kelly Madrid and start early. Peoria's approval took from filing 8/10 to approval 8/13 — that was fast and should not be assumed anywhere else.** |
 | **Insurance** | **unknown.** Benchmark: **$477 for $1M/$2M** through **Event Helper, contact Breanna Stanley**, for a 1,300-cap event. **A 2,500-cap event will cost more. Get a real quote.** Certificate must name the venue and the property owner, the way Sept 10's named PRUTHI + M&M + FOCUS. |
 | **Artist contracts** | **AB Touring (phone) · Corson Agency (email)** |
-| **Rider check** | **Read hospitality against the site's actual rules.** A drive-in may or may not permit alcohol. **unknown.** |
+| **Rider check** | **The venue's own concessions sell beer, margaritas and canned cocktails, 21+ — this is NOT a no-alcohol site, unlike the Sept 10 M&M lot.** Rider hospitality is likely fine here; **confirm in writing what a renter is permitted to serve or allow.** ⚠ **Alcohol on site raises the security and medical requirement — size Access Control and EMT ELITE for a drinking crowd, NOT off the Sept 10 dry-site numbers.** |
 | **Sound** | **Klarity Audio — Jonathan, 714-225-0547.** ⚠ **His $1,500 Sept 10 rate was for a single stage at 1,300 cap. Two stages at 2,500 cap is a different quote. Get it in writing.** ⚠ **Cisco is out, his rig is gone — Klarity is the only sound relationship on record.** |
 | **Lights / lasers / mapping** | **Finson Lee @lord_of_lumens** is the top-tier get here — he ran **mainstage lasers for Marshmello**, builds his own projection-mapping software and GrandMA3 plugins, and does full 360 visuals. **A drive-in is a projection surface.** Also **Face Melters @facemelterstudio** and **TIFF @creatifgamefrench**. ⚠ **DMX board must be solved long before this date.** |
-| **Security** | ⚠ **2,500 people. Blade's known rate is $500 for 3 guards at 1,300 cap and he still owes written AZ unarmed guard licenses.** **Access Control Security (Mat Tecson, (714) 747-2201, $38/hr/guard) is the vendor that comes with paper, and at this scale paper matters.** **Guard count unknown — get a professional recommendation, do not scale the 3-guard number by eye.** |
-| **Medical** | **EMT ELITE — Monique Gunn, 602-877-8678.** ⭐ **She says she has enough staff to cover the Pepsi Amphitheatre 3-day camping festival. 2,500 at a drive-in is well inside what she can handle.** **This is exactly the show Pipeline Law 4 was written about — she was a $280-deposit vendor on Sept 10, and this is where that relationship pays.** |
+| **Security** | ⚠ **2,500 people. Blade's known rate is $500 for 3 guards at 1,300 cap and he still owes written AZ unarmed guard licenses.** **Access Control Security (Mat Tecson, (714) 747-2201, $38/hr/guard) is the vendor that comes with paper, and at this scale paper matters.** **Guard count unknown — get a professional recommendation, do not scale the 3-guard number by eye.** ⚠ **And this is NOT a dry site: West Wind concessions sell beer, margaritas and canned cocktails, 21+. Quote the guard count for a drinking crowd — the Sept 10 numbers came off a no-alcohol permit and do not transfer.** |
+| **Medical** | **EMT ELITE — Monique Gunn, 602-877-8678.** ⭐ **She says she has enough staff to cover the Pepsi Amphitheatre 3-day camping festival. 2,500 at a drive-in is well inside what she can handle.** **This is exactly the show Pipeline Law 4 was written about — she was a $280-deposit vendor on Sept 10, and this is where that relationship pays.** ⚠ **Tell her it is a licensed site: alcohol is sold on premises, which raises the medical requirement above the Sept 10 dry-site baseline. Do not quote her off the 4-EMT Sept 10 number.** |
 | **Site services** | **Proper Site Services, (602) 612-8821, propersiteservices.com.** No public email, phone or web form only. Same operation as Canyon State Waste. **Their Sept 10 verbal was $2,250 for 1,300 cap with 50% up / 50% day-of.** ⚠ **Porta-potty ratio is 1 unit per 100 guests for 6 hours. At 2,500 that is 25 units, and at least one must be ADA.** *ESTIMATE (Claude's model): 2,500 ÷ 100 = 25 units. Sept 10's 4–5 units ran ~$600–900, so a rough per-unit range is $130–190 → 25 units ≈ $3,250–4,750 for toilets alone, before fence, barricade or handwashing.* **Get a real quote. This is the largest single unknown line on the packet.** |
 | **Power** | ⚠ **unknown.** Sept 10 ran off host-building power with **no generator at or above 20 kW.** **A drive-in with two stages almost certainly needs generators.** Relevant precedent from the DREAM Fest research: Pepsi Amphitheater has **NO house production — camlock power only, renter brings PA and lights.** Assume a drive-in is closer to that than to a club. |
 | **Barriers** | Sept 10's filed spec was **retractable-belt stanchions + rope line**, and **Party Rentals Arizona (623.312.8392) rents belt stanchions at $18 each.** **At 2,500 across a drive-in lot, real crowd-control barricade is the likelier requirement.** Proper Site rents barricade. **Quote both.** |
@@ -1481,7 +1481,7 @@ Brand: `IfYoKYK`. Never "psytrance." Never "frequency." **Per-event accent, fixe
 
 | # | Gate | Must be true by | If it fails |
 |---|---|---|---|
-| **D-1** | **WEST WIND GLENDALE 9 HOLDS A SATURDAY.** The contact is in hand — **623-939-9715**, or the form at **westwinddi.com/events/host-your-event.** Answers needed: which Saturday, rate, **real capacity (a drive-in counts CARS, not people)**, **per-person or per-car ticketing**, **whether the promoter sells the tickets or buys the room flat**, how the **50-car minimum** applies to a music event, power, parking structure, curfew, insurance requirements. **Lead with the Subtronics precedent.** | **Fri Oct 2** | **The $100K hinge has no date.** Everything else on this packet is theoretical until a Saturday is held. **This is still the highest-leverage phone call in the entire plan — and now that the number is known, there is no excuse left for not making it.** |
+| **D-1** | **SOMEONE HAS PICKED UP THE PHONE AT WEST WIND GLENDALE 9 — NEVER YET ATTEMPTED.** ⚠ **The gate is no longer "find a contact": the contact was FOUND 8/26. The gate is now an actual conversation and a held Saturday.** **West Wind Glendale 9 Drive-In · 5650 N 55th Ave, Glendale AZ · 623-939-9715 · booking form westwinddi.com/events/host-your-event.** ⭐ **Open with the Subtronics precedent — they have already hosted a bass show "for EDM fans," plus Willie Nelson and K.C. and the Sunshine Band, and they run car shows with vendors. The ask is not "will you allow this," it is "which Saturday."** Answers needed: which Saturday, rate, **real capacity (a drive-in counts CARS, not people)**, **per-person or per-car ticketing**, **whether the promoter sells the tickets or buys the room flat**, how the **published 50 CAR MINIMUM** applies to a music event, power, parking structure, curfew, insurance requirements, and whether alcohol service is the venue's or the renter's. | **Fri Oct 2** | **The $100K hinge has no date.** Everything else on this packet is theoretical until a Saturday is held. **This is still the highest-leverage phone call in the entire plan — the number is 623-939-9715, it is sitting in the fact base, and it has never been dialed. There is no gap left to blame.** |
 | **D-2** | **GLENDALE PERMITTING PATH IDENTIFIED** — the Glendale equivalent of Kelly Madrid, the process, the fee, the lead time. | **Fri Oct 16** | An outdoor 2,500-cap event without a permit does not happen. **Peoria approved in 3 days; assuming Glendale matches that is how a show dies.** |
 | **D-3** | **PER-PERSON vs PER-CAR TICKETING ANSWERED.** | **With D-1** | Every revenue number in this packet is wrong until this is answered. |
 | **D-4** | **VENUE CONTRACT SIGNED, DEPOSIT PAID**, funded by Dec/Jan/Feb proceeds. **Contract THEN deposit.** | **Fri Dec 18** *(ESTIMATE: a 2,500-cap show needs a 60-day on-sale, so Feb 20 − 60 = Tue Dec 22, and the contract must precede it)* | No room, no hinge, and the six-month target loses its largest single contributor. |
@@ -1566,7 +1566,7 @@ GO/NO-GO GATES
 | **Insurance** | **Event Helper — Breanna Stanley** | via Event Helper | Sept 10: **$477 for $1M/$2M**, policy 3DS5477-M4689229. |
 | **Peoria permitting** | **Kelly Madrid, Planning Specialist** | **623-773-7312 · kelly.madrid@peoriaaz.gov** | ⚠ **Peoria Planning is CLOSED FRIDAYS.** Mon–Thu 7 AM–6 PM. |
 | **Talent agent** | **Andrew Lehr — AB Touring** | **andrew@abtouring.com · (814) 602-5613** | **PREFERS THE PHONE.** Answers fast then goes dark. 8/4 quote: PIERCE $2,000 · OZZTIN $2,500 · GALLIUM $1,500, or **$5,000 + 2 hotel rooms + ground for all three.** |
-| **Talent agent** | **Dallas Provencio — Corson Agency** | **dprovencio@corsonagency.com** | COMBINE + NORTHERN ROAD. Nov 6 locked in writing. |
+| **Talent agent** | **Dallas Provencio — Corson Agency** | **dprovencio@corsonagency.com** | COMBINE + NORTHERN ROAD. Nov 6 locked in writing 8/21 · **$1,000 each + HGR agreed in writing** · ⚠ **DATE-FLEXIBLE ("We don't have to route this with anything")** · ⚠ **formal offer FIVE DAYS OVERDUE, sitting as Gmail draft `r-4007247225354787196`; he chased 8/24 and 8/26.** |
 | **Venue middleman** | **Synesthesia — @synmusicaz** | Verified brand-IG thread, /direct/t/108874480705816 | Fillmore Warehouse. **Thursday $3,500 / 5 hr all-in, 1,000+ cap, 3 stages, full production included.** **NO holds without deposit · contract THEN deposit · doors time counts, load-in does not.** |
 | **Venue** | **Sam — The Icehouse** | **sam@openvenues.com** | $2,000 room fee. Inquiry sent 8/11. |
 | **Partner** | **Srija — FɅIRYDVST, @srija.fairydvst** | IG | Principal on SubGround. **Her referrals produced BOTH Blade and Monique.** Scouts bridges and tunnels. |

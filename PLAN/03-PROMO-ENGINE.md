@@ -35,13 +35,22 @@ Net on the broken window                         = -$861.44
 ```
 ESTIMATE. Assumes both sales were GA. Shotgun nets are verified (FACTS §4); the tier split on those 2 orders is unknown.
 
+**NOTE: this models only the $897 / 5,506 clicks in FACTS §5. FACTS §5 also shows the ad account billed $2,146.08 across Aug 6-26, the same window the page was broken. Whether those overlap is unconfirmed. If the full $2,146.08 bought traffic to the broken page, the loss is roughly -$2,110, not -$861.44.** Section 8 item 16 owns this question.
+
 **What it would have produced at a normal rate, Claude's model:**
 ```
 5,506 clicks x 1.5% = 82.6 tickets
 82.6 x $17.78 GA net = $1,468.65
 $1,468.65 - $897 spend = +$571.65
 ```
-ESTIMATE, same net assumption. The swing between the broken page and a working page on the same traffic is roughly **$1,433**.
+ESTIMATE, same net assumption. The swing between the broken page and a working page **on the same 5,506 clicks** is roughly **$1,433** ($1,468.65 minus $35.56). That is a revenue difference on fixed traffic, so it does not move with the spend figure. What the unreconciled $2,146.08 changes is the **loss** (see the note above) and, if that spend bought proportionally more clicks, the size of the swing:
+```
+$2,146.08 / $0.163 = ~13,166 clicks
+  at 1.50%: 197.5 tickets x $17.78 = $3,511
+  at 0.04%:   5.3 tickets x $17.78 =    $94
+  swing = ~$3,417
+```
+ESTIMATE, and it rests entirely on Section 8 item 16. Do not quote the larger figure until Ryan answers it.
 
 ## 0.2 The permanent rule
 
@@ -172,13 +181,13 @@ Also live and relevant: **Visa ••2245 froze on 8/25** after a Melio charge p
 | Channel | Size | Temperature | Cost | Verified? |
 |---|---|---|---|---|
 | **SMS via (602) 962-7369** | **113 contacts** with phone numbers | **HOTTEST.** Roughly half are SIGNAL 001 buyers. People who already paid. | Per-message cost **unknown, needs Ryan to confirm in Quo**. Marginal cost of the list itself: $0, it already exists. | FACTS §6 |
-| **The SIGNAL 001 450** | **~450 through the door**, only 113 reachable by phone today | **WARMEST AUDIENCE THAT EXISTS.** 100% first-time buyers, so 0% have ever bought again. | **$0** to reach the 113. The other ~337 are unreachable until numbers get captured at a door. | FACTS §3, §6 |
-| **Artist audiences** (roster of 22, 16 verified handles) | Unknown per artist, needs each artist to confirm | **WARM, BORROWED.** Their fans trust them, not us. | The 25% discount, plus whatever cut Ryan sets. See Section 5. | FACTS §2, §4 |
+| **The SIGNAL 001 450** | **~450 through the door**, only 113 reachable by phone today | **WARMEST AUDIENCE THAT EXISTS.** 100% first-time buyers, so 0% have ever bought again. | **List cost $0** (it already exists). **Per-message cost unknown** until Ryan confirms Quo pricing, see Section 8 item 5. The other ~337 are unreachable until numbers get captured at a door. | FACTS §3, §6 |
+| **Artist audiences** (roster of 22; FACTS §2 lists 16 verified handles, but only **13 of them are roster artists**, see Section 5.1) | Unknown per artist, needs each artist to confirm | **WARM, BORROWED.** Their fans trust them, not us. | The 25% discount, plus whatever cut Ryan sets. See Section 5. | FACTS §2, §4 |
 | **TH3 N3TW0RK broadcast channel** | Member count **unknown, needs Ryan to read it in the IG app** | **WARM, OPT-IN.** People chose to be in it. | $0 | FACTS §1 |
 | **IG @subground.collective organic** | **1,276 followers / 22 posts** (8/25) | **LUKEWARM.** Organic story reach is **~80 views on 1,276 followers**, about 6.3%. | $0 | FACTS §1, §5 |
 | **IG paid / boosting** | Effectively unlimited | **COLD** but efficient and it is what actually drives traction. | **$0.163 per click**, verified | FACTS §5 |
 | **Shotgun followers** | **9** | Cold and irrelevant at this size. | $0 | FACTS §4 |
-| **Audience Republic** | **UNKNOWN. Not in FACTS.md, not anywhere in this repo.** | Unknown | Unknown | **NOT VERIFIED** |
+| **Audience Republic** | **UNKNOWN. Not in FACTS.md, not anywhere in this repo.** | Unknown | Unknown | **NOT VERIFIED. Origin: Ryan named it in conversation. There is no written source for it anywhere. See Section 8 item 3.** |
 
 ## 2.2 The actual top-of-funnel constraint
 
@@ -267,7 +276,7 @@ ESTIMATE. Assumes Shotgun's take is the same ~11% of the paid price on a discoun
 - Event IDs: **pre-party 581323** (Public / On-Sale). **Afters 581336** is a retired concept. **Flip it to Private, never delete it.**
 
 ### Audience Republic
-**Status: unknown.** The name does not appear in `FACTS.md` or anywhere in this repo. Nothing about it is verified: not whether an account exists, not who holds the login, not what list size is inside it, not what it costs.
+**Status: unknown.** Ryan named this in conversation. The name does not appear in `FACTS.md` or anywhere in this repo. Nothing about it is verified: not whether an account exists, not who holds the login, not what list size is inside it, not what it costs.
 
 **Owner of this question: Ryan.** Three things to confirm before it goes in any plan:
 1. Does a SubGround Audience Republic account exist, and under which email?
@@ -286,7 +295,7 @@ Until those are answered it is **not a channel**, it is a rumor, and no beat in 
 > **The buyer profile shows 100% first-time buyers.**
 > **Therefore zero of those 450 have ever bought a second SubGround ticket.**
 
-It is the warmest audience that exists, it costs nothing to reach, and it has never been asked.
+It is the warmest audience that exists, it is nearly free to reach, the list already exists and only Quo's per-message rate is unconfirmed, and it has never been asked.
 
 Supporting numbers, all verified in FACTS §3:
 - SIGNAL 001, May 16 2026: **~450 people** (never say 300), 21 artists.
@@ -505,7 +514,7 @@ Booking is still open: email sent 8/11 to **Sam, sam@openvenues.com**, 4-hour sh
 
 ## 5.1 Why this section is worth more than the ad section
 
-The roster is 22 artists. Sixteen have verified IG handles. Every one of them has an audience that trusts them more than it trusts a promoter's boosted post, and reaching that audience costs **nothing but a discount and a cut.**
+The roster is 22 artists. FACTS §2 lists 16 verified handles, but three of those are not roster artists: **@sups2shark is Sharky the promoter, @fairytale_productionsaz is a production company, and @bassed.dnb is BASSED, who plays Sept 10 but is not on the 22-name roster.** So **13 of the 22 roster artists are reachable by handle today.** Every one of them has an audience that trusts them more than it trusts a promoter's boosted post, and reaching that audience costs **nothing but a discount and a cut.**
 
 Right now that channel is producing **zero**. Twelve codes, 200 uses, 0 redemptions.
 
@@ -559,12 +568,14 @@ For a 9-artist bill like Sept 10:
 |---|---|---|
 | **Post 1, the headliner post** | 1 of 5 | @ggalliumm, plus up to 4 more if he accepts |
 | **Post 2, the lineup post** | 5 of 5 | Five artists |
-| **Post 3, the lineup post part two** | 4 of 5 | The remaining four, plus the vendor @zer0fuakindrip |
+| **Post 3, the lineup post part two** | 4 of 5 | The remaining three, plus the vendor @zer0fuakindrip |
+
+**Running total: 1 + 5 + 3 = 9 artists, every one collabbed. Post 3 has one slot spare for the vendor.**
 
 Every artist lands on somebody's collab post. Nobody gets left in a caption.
 
 **Rules for the collab flow:**
-- **Only tag verified handles.** FACTS §2 lists the 16 that are safe: @foolmoonbeats, @bassed.dnb, @srija.fairydvst, @fairytale_productionsaz, @pradagoneverything, @usb.dnb, @chirenji_dub, @anamorphic_music, @sups2shark, @mind.g4me, @allie.radd, @sp3llkvstr, @your_exgirlfriendsmusic, @psytari, @onsummon, @king_space_music. Plus @ggalliumm for the Sept 10 headliner. **No verified handle exists for Yewz, Conkusst, Spaydz, or Bandaid. Ask them, do not guess.**
+- **Only tag verified handles.** FACTS §2 lists the 16 that are safe: @foolmoonbeats, @bassed.dnb, @srija.fairydvst, @fairytale_productionsaz, @pradagoneverything, @usb.dnb, @chirenji_dub, @anamorphic_music, @sups2shark, @mind.g4me, @allie.radd, @sp3llkvstr, @your_exgirlfriendsmusic, @psytari, @onsummon, @king_space_music. Plus @ggalliumm for the Sept 10 headliner. **Three of those 16 are not roster artists:** @sups2shark (Sharky, promoter), @fairytale_productionsaz (a production company), @bassed.dnb (BASSED, on the Sept 10 bill but not on the 22-name roster). **Nine roster artists have no verified handle at all: Yewz, Conkusst, Spaydz, Bandaid, VELOCES, THE ALCHEMIST, WAKE UP, F33LZ, DIGITS. Ask them, do not guess.**
 - **@sups2shark is Sharky, a PROMOTER. Never on lineup art.** He can be collabbed on a promo post, never billed as an artist.
 - **A collab invite is not reach until it is accepted.** Track acceptances. An unaccepted invite does nothing at all. This is exactly what is currently stalling the Sept 10 headliner post.
 
@@ -573,8 +584,6 @@ Every artist lands on somebody's collab post. Nobody gets left in a caption.
 **The lesson, and it is worth reading twice: the fix is the SPEC you send artists, not more cropping on your end.**
 
 Every hour spent re-cropping a landscape clip an artist sent is an hour that produces one mediocre asset. One clear spec sent once produces correct assets from every artist forever. **Fix the input, stop patching the output.**
-
-**CHIRENJI's submission is the reference example.** Native portrait, shot and delivered at 1080x1920. That is the correct submission and it needed nothing done to it.
 
 ### The spec, exactly as it goes to artists
 
@@ -591,8 +600,6 @@ screen recording.
 No text on it, no logo, no watermark. I add those.
 Good light on your face or good light on the setup, one or the other.
 Sound on. Even if we mute it, I want the option.
-
-CHIRENJI's last one is exactly right if you want to see the target.
 
 Send it as a file, not through a story. Stories compress it to mush.
 ```
@@ -742,7 +749,7 @@ Everything this doc needs and does not have. **No placeholders were used. These 
 |---|---|---|---|
 | 1 | **Does the Gold Rush page currently pass the Section 0.3 hero check?** | Ryan | Blocks every dollar of promo spend on Sept 10. Highest priority item in this file. |
 | 2 | **What is the live public Shotgun URL for event 581323?** | Ryan | Every SMS send and every ad needs it. **Copy it from the browser, do not retype it.** |
-| 3 | **Audience Republic: does an account exist, under which email, how many contacts, what does it cost?** | Ryan | It is listed as a channel in the brief but appears nowhere in FACTS.md or this repo. Until answered it is not a channel. |
+| 3 | **Audience Republic: does an account exist, under which email, how many contacts, what does it cost?** | Ryan | Ryan named this in conversation; it appears nowhere in FACTS.md or this repo. Until answered it is not a channel. |
 | 4 | **TH3 N3TW0RK broadcast channel member count** | Ryan, in the IG app (web cannot see it) | The channel cannot be sized or forecast without it. |
 | 5 | **What does Quo charge per message or per month?** | Ryan, at my.quo.com | SMS is called the cheapest channel in this doc. That claim is unverified on cost. |
 | 6 | **What is the artist cut per ticket on a promo code, and is it paid in cash on show night or added to the fee?** | Ryan | Section 5.2 models it but will not pick a number. |
@@ -750,11 +757,14 @@ Everything this doc needs and does not have. **No placeholders were used. These 
 | 8 | **Does a 25%-off $15 GA ticket really net $13.33?** | Ryan, via one test order | Section 5.2's whole margin model rests on this inference. One purchase settles it, same as Order #68759746 settled the base rates. |
 | 9 | **Exact overlap between the 113 SMS contacts and the 450 who attended SIGNAL 001** | Ryan, by reading the export | Section 3.2 estimates it. The real number changes how the win-back is written. |
 | 10 | **Has GALLIUM accepted the collab tag and reposted on @ggalliumm?** | Ryan, by phone to Andrew Lehr (814) 602-5613 | Named in FACTS §7 as **the** reach blocker on Sept 10. Three emails have gone unanswered. The next rung is the phone. |
-| 11 | **Verified IG handles for Yewz, Conkusst, Spaydz, Bandaid** | Ryan or the artists | They cannot be collabbed or tagged until these exist. Do not guess a handle. |
+| 11 | **Verified IG handles for the nine roster artists who have none: Yewz, Conkusst, Spaydz, Bandaid, VELOCES, THE ALCHEMIST, WAKE UP, F33LZ, DIGITS** | Ryan or the artists | Only **13 of the 22 roster artists** are reachable by handle today. These nine cannot be collabbed or tagged until the handles exist. Do not guess a handle. |
 | 12 | **Stylization conflicts inside FACTS.md itself** | Ryan | **FOOL MOON** (roster §2) vs **FØØL MØØN** (Sept 10 lineup §7). **FAIRYDUST** (§2, §8) vs **FɅIRYDVST** (§2 note) vs **FAIRYDVST** (§7). **F33LZ** vs **F333LZ** (both in §8). Roster stylization is exact and never altered, so these have to be resolved before they go on printed art. |
 | 13 | **What is the ad account's current daily cap set to?** | Ryan, in account 960559416871193 | The rate went $76 to $251/day in three weeks while the page was broken. Section 1.5. |
 | 14 | **Is Visa ••2245 unfrozen?** | Ryan, by calling the number on the back | While it is frozen the ads decline. It is a promo outage, not just a payment one. |
 | 15 | **Icehouse: Fri Sept 18 or Sat Sept 19?** | Sam at sam@openvenues.com | No artist constraint requires the 19th. Sam's availability decides. Blocks the shoot call sheet. |
+| 16 | **How much of the $2,146.08 billed Aug 6-26 went to the Gold Rush page?** | Ryan, in account 960559416871193 | It sets the true cost of the black rectangle and the true size of the recoverable swing. Section 0.1 models only the $897 / 5,506 clicks; the two figures are never reconciled in FACTS.md either. |
+| 17 | **Which artist's past clip is the reference example?** | Ryan | Section 5.4's spec names none. **Do not name any artist until Ryan names one.** No record of any artist clip submission exists in FACTS.md. |
+| 18 | **Does BASSED belong on the 22-name roster?** | Ryan | He has a promo code and a Sept 10 slot (USB B2B BASSED) and a verified handle, but no entry in the FACTS §2 roster. Roster count and every artist-as-channel number depend on the answer. |
 
 ---
 
@@ -766,6 +776,6 @@ Everything this doc needs and does not have. **No placeholders were used. These 
 4. **Do not cap the spend, measure it.** Above 0.92% leave it running. Below 0.5% on a verified page, change the offer, not the budget.
 5. **Shotgun followers = 9.** Every ticket gets driven from IG, SMS, or an artist. There is no fourth path.
 6. **450 people came in May, 100% first-time buyers, zero repeats.** That is the warmest audience in the business and it costs nothing. Text the 113, with consent and an opt-out line, and capture numbers at every door.
-7. **Fix the clip spec, not the crop.** 1080x1920 native portrait, CHIRENJI's is the example. One spec beats a hundred re-crops.
+7. **Fix the clip spec, not the crop.** 1080x1920 native portrait, straight off the phone. One spec beats a hundred re-crops.
 8. **Halloween's promo clock starts Tue Sept 1**, six days from now, before Gold Rush even happens. Saturday Halloween comes around about every seven years.
 9. **Feed the loops. Never fork the Night Desk. Ryan approves everything and Ryan moves all the money.**
