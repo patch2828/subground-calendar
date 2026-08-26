@@ -22,7 +22,10 @@ Stored memory says *"GALLIUM $625 DEPOSIT — SCHEDULED & CARD ACCEPTED 8/25."* 
 - **Payment ID `pymnt_90515894`** · org `org_4884078` · Invoice **#10786**
 - Resolve at: `app.melio.com/pay/scheduled/pymnt_90515894?organization=org_4884078`
 - **The contract deadline is Friday Aug 28. That is two days out.**
-- Root cause is almost certainly the **frozen Visa ••2245** — the fraud hold from 8/25 is still biting. Same card is failing everywhere else today (see below).
+- **Richer detail from the Night Desk, read live 8/26:** the payment is now **staged in Melio against Desert Financial checking ••0400 at $0 fee — but NOT confirmed.** The account went **further negative overnight** on overdraft fees and cannot absorb a $625 debit without bouncing a third time.
+- ⚠️ **AND THE DELIVERY DATE IS THE REAL PROBLEM: standard ACH delivers Aug 31 — three days AFTER the Aug 28 deadline — even once the account can send it.** Fixing the funding alone does not fix the timing.
+- **So the actionable move is not financial, it is a conversation:** tell AB Touring the payment is staged and ask whether a short delay still lands inside their window. That costs nothing and is the only lever that works today.
+- Mom cannot cover it and pointed to Mario. **Mario has the US Bank line (866-268-7231) and has said "I'll call when I'm ready" — the fourth time this has come up.** Ryan's own plan: $200 cash to Mario, which fixes the card and returns $200 to Desert Financial, leaving ~$150 to cover.
 
 **This is the single most urgent money item in the business.** The headliner is signed, publicly announced, and the deposit that secures him has not landed.
 

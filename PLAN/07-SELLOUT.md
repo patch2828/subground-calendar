@@ -30,6 +30,9 @@ This document treats sellout as the plan, not the ceiling. It states the ask in 
 
 ## 2. Two corrections applied to the model, both Ryan's, both right
 
+**⚠️ TEXTING IS NOT LIVE YET.** The Campaign Registry approved the **BRAND**. The **CAMPAIGN** is still in carrier review (3–5 days typical) and **no SMS can send until it clears** — the SUBGROUND keyword cannot go out yet. Source: the Night Desk, read live 2026-08-26. Treat the 113-contact list as *imminent*, not *available*, and do not plan a send date until the campaign clears.
+
+
 ### The broken-page conversion rate is dead and was never used
 
 The **5,482 visits → 2 sales (0.04%)** happened against a dead black video in Shotgun's hero slot. Every visitor saw a black rectangle where the GALLIUM art should have been. **That is not a conversion rate, it is a bug report**, and it must never be quoted as a forward number.
@@ -71,7 +74,7 @@ Ads cannot carry a sellout alone and should not be asked to. The rest is owned a
 | Channel | Real size today | What it can carry | Cost |
 |---|---|---|---|
 | **SIGNAL 001 win-back** | **450 attendees, buyer profile shows 100% first-timers — not one has ever bought again** | The warmest list in the business, completely untouched | **$0** |
-| **SMS via A2P** | **113 contacts**, number (602) 962-7369 approved | ~half are SIGNAL 001 buyers. One send fits the daily cap | **$0** |
+| **SMS via A2P** | **113 contacts**, number (602) 962-7369. **BRAND approved — CAMPAIGN still in carrier review, so sending is BLOCKED** | ~half are SIGNAL 001 buyers. One send fits the daily cap **once the campaign clears** | **$0** |
 | **The 22-artist roster** | 22 artists with their own followings | Every show is built on the roster first. 12 promo codes already live, all at 0 redemptions | **$0** |
 | **IG @subground.collective** | 1,276 followers, 22 posts | Organic story reach is ~80 views — weak alone, strong as social proof | **$0** |
 | **TH3 N3TW0RK channel** | exists, app-only | Broadcast to the committed core | **$0** |
@@ -86,7 +89,7 @@ Ads cannot carry a sellout alone and should not be asked to. The rest is owned a
 
 ### 01 · Gold Rush · Sep 10 · 1,300 seats · T-15
 **The gates:** the Gallium deposit clears before Friday · the EMT deposit locks the date · Kelly's approval letter is used to charge the three vendors by Sept 3.
-**The sellout move:** the **SIGNAL 001 win-back**, sent this week. 450 people, half of them already on the SMS list, none ever asked twice. With consent and an opt-out line.
+**The sellout move:** the **SIGNAL 001 win-back**. 450 people, none ever asked twice. ⚠️ **SMS cannot send yet — the A2P campaign is in carrier review (3–5 days).** Write the copy now, queue it, and fire the hour it clears. Email and IG can carry the same message immediately and are not blocked.
 **The trap:** merch is inventory-capped at ~$440 and sells out in an hour at 1,200 people. Reorder by Sept 1.
 
 ### 02 · Icehouse · Sep 18/19 · not a revenue event

@@ -87,6 +87,8 @@ Ranked by true cost. **Work down this list in order and stop as soon as the need
 
 **Rung 1 is not exhausted.** $450 of vendor money is uncollected and the Shotgun early-payout lane has never been used.
 
+⚠️ **Note on the SMS list:** the A2P **campaign** is still in carrier review, so texting is blocked for 3–5 days. It is imminent, not available. Email and IG are not blocked.
+
 ## Rung 2 — Sponsorship (free, no repayment, no dilution)
 
 See Part One. **$58,683 closes the entire $100K gap.** Nothing else on this ladder does that without a repayment obligation.

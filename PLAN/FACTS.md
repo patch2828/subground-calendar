@@ -75,7 +75,7 @@ FOOL MOON · EXGF5 · MIND G4ME · ALLIE RADD · YEWZ · KING SPACE · VELOCES �
 
 ## 6. SMS / A2P — LIVE, and the biggest unused asset
 
-- **The Campaign Registry APPROVED the sole-proprietor application 8/26 6:55 AM.** Number **(602) 962-7369**. Quo workspace "SubGround-NET3WORK-IfY(o)KYK" at my.quo.com.
+- **BRAND approved 8/26 6:55 AM. ⚠️ THE CAMPAIGN IS STILL IN CARRIER REVIEW (3–5 days typical) AND SMS SENDING IS BLOCKED UNTIL IT CLEARS** — the SUBGROUND keyword cannot go out yet. Brand approval ≠ ability to send. Verified live on the Night Desk 2026-08-26. Number **(602) 962-7369**. Quo workspace "SubGround-NET3WORK-IfY(o)KYK" at my.quo.com.
 - **Shotgun Smartboard > Marketing > Contacts = 113 contacts with phone numbers**, `Export CSV` top-right. Roughly half are SIGNAL 001 buyers.
 - Sole-prop 10DLC: low throughput, ~1,000 segments/day ceiling — 113 recipients fits one send. Consent required; only message existing relationships; always include an opt-out line.
 - A2P sole-prop craft: no EIN required · OTP goes to a CARRIER mobile, never the VoIP number · one sending number · Twilio error 30915 = an EIN-holding entity got attached to a sole-prop registration, so keep the LLC OUT of it.
