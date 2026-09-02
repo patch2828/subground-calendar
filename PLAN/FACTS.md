@@ -283,3 +283,64 @@ Plus the DREAM PROJECT law: **Content first. Sponsors second. Festival third.**
 - **Never message a buyer about a SOLD item; never revive a dead thread** — silence is an answer.
 - **Never claim an item was tested at pickup unless it was.**
 - **Never trust a stale limit** — a limit older than ~7 days that blocks a live request gets ONE cheap retest, named in the report.
+
+---
+
+## WALTER AVAILABILITY — ANSWERED IN WRITING 8/28, READ LIVE 9/2
+
+Thread `1a02c911ccd0e0f2`. Ryan Tucknott, ryan@walterproductions.com, (602) 421-1254. **Both of his 8/28 replies sat UNREAD for five days.**
+
+**Message 1 (8/28 05:53Z) — the Fri/Sat dates not booked between now and mid-Nov:**
+
+| Date | Note, verbatim |
+|---|---|
+| **9/11** | (no qualifier) |
+| **10/24** | "tons of holds in front of you" |
+| **11/13** | "strong hold in front of you, likely to confirm" |
+| **11/27** | (no qualifier) |
+
+> "Sunday-Thursday has more availability if you're interested in exploring those days."
+
+**Message 2 (8/28 06:04Z) — he narrowed it himself and priced it:**
+
+> "9/11 or 11/27 are the only two possible dates. Rental for something like this will be **$6,000 for 11/27** or **$4,500 for 9/11**. Yes, 9/11 is around the corner… but it's available and we'll help promote this well."
+
+### What this settles
+
+- 🔴 **FRIDAY OCTOBER 9 IS NOT AVAILABLE AT WALTER.** Neither venue. It is absent from the open-dates list and excluded by his own narrowing. Do not ask him for 10/9 as though it were an open question; he already answered it.
+- 🔴 **This overturns `PLAN/10-FALL-BUILD.md` as originally written.** That file named Oct 9, 10, 16 and 17 as "clean routing candidates" at Walter. Three of the four were never open. The error was reasoning from a blackout calendar instead of reading the venue's own reply that was already in the inbox. **LIVE BEATS STORED — and this time the live surface was sitting unread the whole time.**
+- ✅ **Thursday Oct 8 is plausible but unpriced.** "Sunday-Thursday has more availability" is an invitation, not a quote. It has to be asked for by date.
+- ✅ **First real Walter rental numbers ever obtained: $4,500 Fri 9/11, $6,000 Fri 11/27.** Every prior Walter cost line in the money model was an estimate. These are quoted.
+- **11/27/2026 is the Friday after Thanksgiving.** Historically a strong night in a college town.
+- **9/11 is unusable** regardless of price: it is the night after the Sept 10 Gold Rush pre-party.
+
+### Open loop
+Tucknott asked a direct question on 8/28 and has had silence since. Two drafts now sit in Gmail: a reply on this thread answering him (declining 9/11, asking for a courtesy hold on 11/27 pending Corson re-clearance) and a new-thread ask about Thu Oct 8 for the DirtySnatcha co-promote. **Neither is sent.**
+
+---
+
+## THE OCT 9 CO-PROMOTE — curlyfri321 / Master Peace Productions
+
+Inbound via Instagram DM, screenshots reviewed 9/2. He has a built show and needs a room, promo and funding. Ryan's proposed position: fund the venue rental and promotion, take a ticket split.
+
+**What is on the flyer:** "TAKE ME TO YOUR LEADER TOUR" · Master Peace Productions · **October 9th** · DirtySnatcha (headline) · MPORT · WHOISH · DARK MATTER · ZIRK · **18+**
+
+**Verified about the headliner:** DirtySnatcha is real and legitimately touring. England-born dubstep producer, active since 2014. Releases on **Wakaan**, Subsidia, DSV Audio and Dim Mak. Collaborations with Riot Ten, Boogie T, Monxx, Lucii, Rico Act. Runs DirtySnatcha Records. "Take Me To Your Leader" is a real tour with real dated stops, including Sacramento on 8/28/2026.
+
+⚠️ **The tour was billed as officially ending in San Diego on June 20, 2026**, and has continued playing dates under the same banner since. So the tour branding is roughly three months old, not a fresh national run. That affects promo freshness, not the artist's draw.
+
+✅ **He is a Wakaan-label artist and Wakaan Festival is Oct 1–3.** An Oct 9 Phoenix date is squarely in that routing window, which independently corroborates the date as real.
+
+### 🔴 DATE CONFLICT ON THE FACE OF THE FLYER
+**October 9, 2026 is a FRIDAY.** October 8 is the Thursday. Verified in Python.
+
+His messages say the ranch "can only offer me Thursday" and, separately, "it's set for October 9th." Those are two different days. Either the flyer date and the ranch's offered day disagree, or he believes 10/9 is a Thursday. **This has to be resolved before anyone prices a room**, because it determines whether the ask is for a Thursday or a Friday, and printed flyers are already circulating.
+
+### Unverified claims — do not fund against any of these
+1. **"The flights have been bought and shit like that"** and the DJs are paid. Claimed, no documentation seen.
+2. **Who actually holds the artist agreement.** The flyer reads *Master Peace Productions*; he says *"It's all me I got a silent partner in the mix but it's my booking."* If Master Peace or the silent partner holds the contract, he may not have authority to grant a ticket split.
+3. **"Filmore is booked for the date I need."** His claim, unverified, and he may have been asking about a different day than 10/9.
+4. He has stepped back from **Enclave** ("I'm no longer a part of them"), so any Enclave route runs through owners he has not yet introduced.
+
+### Position rule for this deal
+**No SubGround money moves into a venue rental until Ryan has seen the signed artist agreement and the flight confirmations, and until the split is defined in writing against the venue's own settlement statement.** At Walter this matters doubly: Walter runs the box office, so the split settles off Walter's numbers, not off any dashboard either promoter controls.

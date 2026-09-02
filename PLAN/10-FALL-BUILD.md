@@ -92,9 +92,17 @@ Ryan's structure, as specified: **national major headliner → one-level-under n
 
 ### Target dates
 
-Working around the known constraints — Wakaan Oct 1–3, the **Oct 23–25 F33LZ blackout**, and Halloween Oct 31 already claimed:
+🔴 **CORRECTED 9/2 — the original version of this section was wrong.** It named Fri Oct 9, Sat Oct 10, Fri Oct 16 and Sat Oct 17 as "clean routing candidates" at Walter. Three of those four were never open. I reasoned from SubGround's own blackout calendar instead of reading Walter's answer, which was already sitting unread in the inbox.
 
-**Fri Oct 9 · Sat Oct 10 · Fri Oct 16 · Sat Oct 17** are the clean routing candidates. Oct 9–11 was previously held for FORM at Arcosanti and the calendar explicitly marks those dates **free for shows**.
+**What Ryan Tucknott actually put in writing on 8/28:** the only Fri/Sat dates unbooked through mid-Nov are **9/11**, **10/24** (tons of holds), **11/13** (strong hold, likely to confirm) and **11/27** — and he then narrowed it himself to *"9/11 or 11/27 are the only two possible dates,"* at **$4,500 for 9/11** and **$6,000 for 11/27**.
+
+**So there is no October Friday or Saturday available at Walter at all.** The October routing play does not run through Walter on a weekend. It runs through one of three doors:
+
+1. **Thu Oct 8 at Walter.** He wrote *"Sunday-Thursday has more availability if you're interested in exploring those days."* Unpriced. Has to be asked by date.
+2. **Sat Oct 24 at Walter**, accepting that there are "tons of holds" ahead of it. Long odds, free to ask.
+3. **A different room entirely** for the October Friday. The Fillmore Friday rate is still the single most valuable unknown on the whole board and has never once been asked for.
+
+Those first two Walter rental quotes, $4,500 and $6,000, are the first real Walter numbers ever obtained. Every Walter cost line in the money model before this was an estimate.
 
 ### Talent targets, tiered to Ryan's structure
 
