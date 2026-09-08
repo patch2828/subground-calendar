@@ -1,0 +1,505 @@
+<title>SubGround Venue Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  /* Dark-first: bare :root carries the default (dark) palette. */
+  :root {
+    --ground: #0B0D0C;
+    --surface: #141816;
+    --surface-2: #1B211E;
+    --line: #262E2A;
+    --line-soft: #1E2522;
+    --text: #E6EBE8;
+    --text-dim: #A9B4AE;
+    --muted: #7C8A83;
+    --accent: #E8A33D;
+    --accent-soft: rgba(232, 163, 61, 0.13);
+    --confirmed: #6FBF8E;
+    --open: #D98A6B;
+    --shadow: 0 1px 0 rgba(255,255,255,0.03) inset;
+
+    --display: "Archivo Black", "Helvetica Neue", Arial, sans-serif;
+    --body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --ground: #F2F1ED;
+      --surface: #FFFFFF;
+      --surface-2: #F7F6F2;
+      --line: #D8D6CE;
+      --line-soft: #E4E2DB;
+      --text: #141816;
+      --text-dim: #414A45;
+      --muted: #6C766F;
+      --accent: #A6660A;
+      --accent-soft: rgba(166, 102, 10, 0.10);
+      --confirmed: #2F7A50;
+      --open: #A64F2E;
+      --shadow: none;
+    }
+  }
+  :root[data-theme="light"] {
+    --ground: #F2F1ED;
+    --surface: #FFFFFF;
+    --surface-2: #F7F6F2;
+    --line: #D8D6CE;
+    --line-soft: #E4E2DB;
+    --text: #141816;
+    --text-dim: #414A45;
+    --muted: #6C766F;
+    --accent: #A6660A;
+    --accent-soft: rgba(166, 102, 10, 0.10);
+    --confirmed: #2F7A50;
+    --open: #A64F2E;
+    --shadow: none;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--ground);
+    color: var(--text);
+    font-family: var(--body);
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 28px 96px;
+  }
+
+  /* ---------- masthead ---------- */
+
+  .masthead {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px 32px;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 40px 0 26px;
+    border-bottom: 2px solid var(--text);
+  }
+  .wordmark {
+    font-family: var(--display);
+    font-size: clamp(30px, 6vw, 46px);
+    letter-spacing: -0.02em;
+    line-height: 1;
+    margin: 0;
+  }
+  .wordmark .sub { color: var(--accent); }
+  .masthead-meta {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    text-align: right;
+    line-height: 1.9;
+  }
+
+  /* ---------- thesis ---------- */
+
+  .thesis {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 22px;
+    padding: 46px 0 52px;
+    border-bottom: 1px solid var(--line);
+  }
+  .thesis h2 {
+    font-family: var(--display);
+    font-size: clamp(27px, 4.4vw, 41px);
+    line-height: 1.12;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+    margin: 0;
+    max-width: 22ch;
+  }
+  .thesis p {
+    margin: 0;
+    max-width: 62ch;
+    color: var(--text-dim);
+    font-size: 17px;
+  }
+  .thesis .lead-in {
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  /* ---------- section scaffolding ---------- */
+
+  section { padding: 52px 0; border-bottom: 1px solid var(--line); }
+  section:last-of-type { border-bottom: none; }
+
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    font-weight: 500;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 10px;
+  }
+  h3 {
+    font-family: var(--display);
+    font-size: clamp(22px, 3vw, 29px);
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin: 0 0 14px;
+    text-wrap: balance;
+  }
+  .section-note {
+    margin: 0 0 30px;
+    max-width: 62ch;
+    color: var(--text-dim);
+  }
+
+  /* ---------- the record: the strongest object on the page ---------- */
+
+  .record {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    box-shadow: var(--shadow);
+  }
+  .record-head {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--line);
+  }
+  .record-title {
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .stamp {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--confirmed);
+    border: 1px solid var(--confirmed);
+    border-radius: 2px;
+    padding: 3px 9px;
+    white-space: nowrap;
+  }
+  .record-rows { display: grid; }
+  .row {
+    display: grid;
+    grid-template-columns: 210px 1fr;
+    gap: 4px 24px;
+    padding: 13px 24px;
+    border-bottom: 1px solid var(--line-soft);
+  }
+  .row:last-child { border-bottom: none; }
+  .row dt {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding-top: 2px;
+  }
+  .row dd {
+    margin: 0;
+    font-family: var(--mono);
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+    overflow-wrap: anywhere;
+  }
+  .row dd .plain {
+    font-family: var(--body);
+    font-size: 15px;
+    color: var(--text-dim);
+  }
+
+  /* ---------- proof strip ---------- */
+
+  .proof {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(168px, 1fr));
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+  }
+  .proof div {
+    background: var(--surface);
+    padding: 20px 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .proof .figure {
+    font-family: var(--display);
+    font-size: 27px;
+    line-height: 1;
+    letter-spacing: -0.01em;
+    font-variant-numeric: tabular-nums;
+  }
+  .proof .label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+
+  /* ---------- capability list ---------- */
+
+  .caps { display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); }
+  .cap {
+    background: var(--surface);
+    display: grid;
+    grid-template-columns: 190px 1fr;
+    gap: 6px 26px;
+    padding: 20px 24px;
+  }
+  .cap h4 {
+    margin: 0;
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    padding-top: 3px;
+  }
+  .cap p { margin: 0; color: var(--text-dim); max-width: 60ch; }
+  .cap p strong { color: var(--text); font-weight: 600; }
+
+  /* ---------- terms ---------- */
+
+  .terms { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 26px 40px; }
+  .term { border-top: 2px solid var(--accent); padding-top: 14px; }
+  .term h4 {
+    margin: 0 0 6px;
+    font-family: var(--body);
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .term p { margin: 0; color: var(--text-dim); font-size: 15px; }
+
+  /* ---------- asks ---------- */
+
+  ol.asks { margin: 0; padding: 0; list-style: none; counter-reset: ask; display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); }
+  ol.asks li {
+    background: var(--surface);
+    counter-increment: ask;
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 18px;
+    padding: 15px 24px;
+    align-items: baseline;
+  }
+  ol.asks li::before {
+    content: counter(ask, decimal-leading-zero);
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--accent);
+    letter-spacing: 0.06em;
+  }
+
+  /* ---------- close ---------- */
+
+  .close {
+    margin-top: 56px;
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    padding: 34px;
+    display: grid;
+    gap: 20px;
+  }
+  .close h3 { margin: 0; }
+  .close p { margin: 0; max-width: 60ch; color: var(--text-dim); }
+  .contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 34px;
+    font-family: var(--mono);
+    font-size: 13.5px;
+    padding-top: 6px;
+    border-top: 1px solid var(--line);
+  }
+  .contact span { color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; font-size: 11px; display: block; margin-bottom: 3px; }
+  .contact a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; }
+  .contact a:hover, .contact a:focus-visible { border-bottom-color: var(--accent); }
+
+  .colophon {
+    margin-top: 34px;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 22px;
+  }
+
+  a:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+
+  @media (max-width: 680px) {
+    .wrap { padding: 0 20px 72px; }
+    .masthead-meta { text-align: left; }
+    .row { grid-template-columns: 1fr; gap: 3px; padding: 14px 18px; }
+    .cap { grid-template-columns: 1fr; gap: 8px; padding: 18px; }
+    .record-head { padding: 18px; }
+    .close { padding: 24px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <h1 class="wordmark">SUB<span class="sub">GROUND</span></h1>
+    <div class="masthead-meta">
+      Venue Partnership Brief<br>
+      Phoenix Metro / Prepared September 2026<br>
+      IfYoKYK
+    </div>
+  </header>
+
+  <div class="thesis">
+    <h2>Underground shows, run like permitted events.</h2>
+    <p><span class="lead-in">Most of the people asking you for a Saturday cannot show you a permit.</span> SubGround Collective books frontline bass and underground electronic music in Phoenix, and we run every event through the same process a city inspector expects to see. Approved site plan. Bound insurance naming the property. Signed owner authorization. Licensed and paid before doors.</p>
+    <p>What follows is the actual record, not a description of one.</p>
+  </div>
+
+  <section>
+    <p class="eyebrow">Section A / Compliance record</p>
+    <h3>A city has already permitted us.</h3>
+    <p class="section-note">Our September 10 event was filed, reviewed and approved by the City of Peoria in three business days. Every number below is a real record you can look up.</p>
+
+    <div class="record">
+      <div class="record-head">
+        <div class="record-title">Temporary Use Permit TU26-00188</div>
+        <div class="stamp">Plans approved</div>
+      </div>
+      <dl class="record-rows">
+        <div class="row"><dt>Jurisdiction</dt><dd>City of Peoria, Arizona</dd></div>
+        <div class="row"><dt>Filed</dt><dd>August 10, 2026</dd></div>
+        <div class="row"><dt>Approved</dt><dd>August 13, 2026, 8:36 AM</dd></div>
+        <div class="row"><dt>Permit fee</dt><dd>$600 paid <span class="plain">Invoice ACCELA-119946</span></dd></div>
+        <div class="row"><dt>Approved capacity</dt><dd>1,300</dd></div>
+        <div class="row"><dt>Liability insurance</dt><dd>3DS5477-M4689229 <span class="plain">$1M per occurrence / $2M aggregate, bound, property named on the certificate</span></dd></div>
+        <div class="row"><dt>Business license</dt><dd>PBL26-010893 <span class="plain">issued and paid</span></dd></div>
+        <div class="row"><dt>Owner authorization</dt><dd><span class="plain">Signed by the property owner, August 10</span></dd></div>
+        <div class="row"><dt>Site conditions</dt><dd><span class="plain">All ages, no alcohol, hard stop at 10 PM, site cleared by 11:30 PM, final cleanup 7 to 8 AM next morning</span></dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section>
+    <p class="eyebrow">Section B / Track record</p>
+    <h3>The audience is real and it is documented.</h3>
+    <p class="section-note">SIGNAL 001 ran in May 2026 with twenty one artists. These are counted figures, not projections.</p>
+
+    <div class="proof">
+      <div><span class="figure">~450</span><span class="label">Through the door<br>SIGNAL 001, May 2026</span></div>
+      <div><span class="figure">21</span><span class="label">Artists booked<br>and paid, one night</span></div>
+      <div><span class="figure">5,500+</span><span class="label">Ticket page views<br>current event</span></div>
+      <div><span class="figure">1,300</span><span class="label">Permitted capacity<br>current event</span></div>
+    </div>
+  </section>
+
+  <section>
+    <p class="eyebrow">Section C / What we bring</p>
+    <h3>Talent, production and promotion, already sourced.</h3>
+
+    <div class="caps">
+      <div class="cap">
+        <h4>Sound</h4>
+        <p><strong>Klarity Audio.</strong> Full system, run setup to teardown by their own engineer. Scales from a single stage to a two stage build.</p>
+      </div>
+      <div class="cap">
+        <h4>Lights and visuals</h4>
+        <p><strong>Projection mapping, lasers and DMX.</strong> Our lead visuals operator ran mainstage lasers for Marshmello and builds his own mapping software and GrandMA3 plugins. Full 360 interior and exterior mapping.</p>
+      </div>
+      <div class="cap">
+        <h4>Talent</h4>
+        <p>A standing roster of twenty two Phoenix artists plus direct agency lanes for national touring acts. We book, contract and pay talent ourselves.</p>
+      </div>
+      <div class="cap">
+        <h4>Promotion</h4>
+        <p>Paid social at a measured <strong>$0.163 per click</strong>, an owned buyer list, and artist cross promotion across the full bill. We fund our own marketing.</p>
+      </div>
+      <div class="cap">
+        <h4>Vendors</h4>
+        <p>A curated vendor program where <strong>vendors keep one hundred percent of their sales.</strong> No cut taken. It fills the site and it is why they come back.</p>
+      </div>
+      <div class="cap">
+        <h4>Compliance</h4>
+        <p>Permit filing, site plans, insurance, licensing, security staffing and sanitation ratios. We do this work before we ask you for a date.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="eyebrow">Section D / Deal structure</p>
+    <h3>We work whichever way your room works.</h3>
+    <p class="section-note">We have no preference between these and no ego about it. Tell us which one you run and we will price to it.</p>
+
+    <div class="terms">
+      <div class="term">
+        <h4>Flat buyout</h4>
+        <p>We rent the room outright, sell our own tickets, bring our own security and production, and carry the risk.</p>
+      </div>
+      <div class="term">
+        <h4>Full service house</h4>
+        <p>You run ticketing, box office and security. We bring the talent and the promotion and settle against your statement.</p>
+      </div>
+      <div class="term">
+        <h4>Door split</h4>
+        <p>An agreed split against a defined line, written down before doors, settled the same night.</p>
+      </div>
+      <div class="term">
+        <h4>Your property, our permit</h4>
+        <p>For open lots and non traditional sites we file the permit, bind the insurance naming you, and hand you the approval letter before anything is built.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="eyebrow">Section E / What we need from you</p>
+    <h3>Five answers and we can price a date.</h3>
+    <ol class="asks">
+      <li>Which dates are genuinely open, and what a hold costs.</li>
+      <li>Real capacity, and whether that number is people or vehicles.</li>
+      <li>Rental, and what is included against what is billed back.</li>
+      <li>Who sells the tickets and who provides security.</li>
+      <li>Sound curfew, age policy, alcohol policy and available power.</li>
+    </ol>
+  </section>
+
+  <div class="close">
+    <h3>We are not asking whether you would allow a show like this.</h3>
+    <p>We are asking which date. Everything on the compliance side is already built and already proven, and we would rather send you a permit number than a pitch.</p>
+    <div class="contact">
+      <div><span>Ryan Sanfilippo</span><a href="mailto:patch2828@gmail.com">patch2828@gmail.com</a></div>
+      <div><span>Instagram</span><a href="https://instagram.com/subground.collective">@subground.collective</a></div>
+    </div>
+  </div>
+
+  <div class="colophon">
+    <span>SubGround Collective</span>
+    <span>Phoenix, Arizona</span>
+    <span>IfYoKYK</span>
+  </div>
+
+</div>
